@@ -51,18 +51,19 @@ usemathjax: true
     </tbody>
 </table>
 
-If you are looking for the most recent parameter values and plots for the SIR-F model, 
-[use this link to directly jump there](#sir-f-minimization-scores).
-Feel free to explore these sections to better understand the theory behind the results when you have some time (also recommended resources in the sidebar)
-{: .notice--info}
-
-
 # Introduction
 
 The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$) for various countries daily, and more specifically for Canada, Québec and Morocco. I've been interested in knowing the $$R_0$$ value for various places but was surprised by how hard it was to do so. After some research, [Houda K.](https://twitter.com/sha3kouka) and myself found the [excellent ipython notebook by lipshar](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model) that provides all the tools necessary to *(1)* perform minimizations over various SIR models to get their current parameters and *(2)* to plot one of those SIR models given some parameters (this second point is often confused with a _prediction_). 
 {: style="text-align: justify;"}
 
 {%- include gallery caption="R0 evolution for Canada, Québec and Morocco presented with a 20 days forecast." -%}
+
+
+If you are looking for the most recent parameter values and plots for the SIR-F model, 
+[use this link to directly jump there](#sir-f-minimization-scores).
+Feel free to explore these sections to better understand the theory behind the results when you have some time (also recommended resources in the sidebar)
+{: .notice--info}
+
 
 ## Theory
 
