@@ -1,0 +1,41 @@
+# main links
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "Research Opportunities"
+    url: /research_opportunities/
+  - title: "Contributions"
+    url: /publications/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+projects-ambu:
+  - title: Similar projects
+    children:
+      - title: "MIT E-vent project"
+        url: "https://e-vent.mit.edu/"
+      - title: "OpenLung EMV"
+        url: "https://gitlab.com/open-source-ventilator/ventilator/OpenLung"
+
+
+projects-covidtracker:
+  - title: Main resource
+    children:
+      - title: "Kaggle lisphilar/covid-19-data-with-sir-model"
+        url: "https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model"
+  - title: Resources
+    children:
+      - title: "N. Chitnis - Introduction to SEIR models (2017)"
+        url: "http://indico.ictp.it/event/7960/session/3/contribution/19/material/slides/"
+      - title: "@vdwnico's Twitter who provides daily R0 updates for Belgium mostly"
+        url: "https://twitter.com/vdwnico/status/1256884042546515968"
+      - title: "Scipython: The SIR epidemic model"
+        url: "https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/"
+      - title: "Kermack and McKendrick [Proc. R. Soc. A, 115, 772 (1927)]"
+        url: "https://royalsocietypublishing.org/doi/10.1098/rspa.1927.0118"
+      - title: "John Hopkins U CSSE COVID19 data repository"
+        url: "https://github.com/CSSEGISandData/COVID-19"

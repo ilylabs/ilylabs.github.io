@@ -1,0 +1,34 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+//$serif              : "PT Serif", Georgia, Times, serif;
+//$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  
+//$global-font-family : $serif;
+//$header-font-family : $sans-serif-narrow;  
+
+$link-color: rgb(0, 0, 0);
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+html {
+    font-size: 12.5px; // change to whatever
+
+    @include breakpoint($medium) {
+        font-size: 0.95em; // change to whatever
+      }
+    
+      @include breakpoint($large) {
+        font-size: 1.08em; // change to whatever
+      }
+    
+      @include breakpoint($x-large) {
+        font-size: 1.15em; // change to whatever
+      } 
+  }

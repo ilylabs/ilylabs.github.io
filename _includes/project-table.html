@@ -1,0 +1,61 @@
+
+  {%- capture page_tags %}{% for tag in page.tags %}{{" "}}{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture -%}
+  {%- assign tag_hashes = page_tags -%}
+
+  {%- capture page_partners %}{% for tag in page.partners %}{{" "}}{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture -%}
+  {%- assign partners_hashes = page_partners -%}
+
+
+<table>
+    <tr>
+      <th>Summary</th>
+    </tr>
+    <colgroup>
+      <col width="15%" />
+      <col width="85%" />
+    </colgroup>
+    <tbody>
+      {% if page.project_date %} 
+      <tr>
+        <td markdown="span">Date</td>
+        <td markdown="span">{{ page.project_date | markdownify | strip_html | truncate: 160 }}</td>
+      </tr>
+      {% endif %}
+      {% if page.keywords %} 
+      <tr>
+        <td markdown="span">Keywords</td>
+        <td markdown="span">{{ page.keywords | markdownify | strip_html | truncate: 160 }}</td>
+      </tr>
+      {% endif %}
+      {% if page.tags %} 
+      <tr>
+        <td markdown="span">Tags</td>
+        <td markdown="span">{{ tag_hashes | markdownify | strip_html | truncate: 160 }}</td>
+      </tr>
+      {% endif %}
+      {% if page.partners %} 
+      <tr>
+        <td markdown="span">Partners</td>
+        <td markdown="span">{{ partners_hashes | markdownify | strip_html | truncate: 160 }}</td>
+      </tr>
+      {% endif %}
+      {%- if post.shared_library-%} 
+      <tr>
+      <td markdown="span">Open Resources</td>
+      <td markdown="span">{{ post.shared_library | markdownify | strip_html | truncate: 160 }}</td>
+      </tr>
+      {%- endif -%}
+      {% if page.contribute %} 
+      <tr>
+        <td markdown="span">Contribute?</td>
+        <td markdown="span">{{ page.contribute | markdownify | strip_html | truncate: 160 }}</td>
+      </tr>
+      {% endif %}
+      {% if page.learn_more %} 
+      <tr>
+        <td markdown="span">Learn more</td>
+        <td markdown="span">{{ page.learn_more | markdownify | strip_html | truncate: 160 }}</td>
+      </tr>
+      {% endif %}
+    </tbody>
+</table>

@@ -1,0 +1,2 @@
+,score,alpha1 [-],1/alpha2 [day],1/beta [day],1/gamma [day],country,start_date,end_date,susceptibles,total_population,R0(t),Re(t)
+SIR-F,0.0,0.1,1132.0,11.0,17.0,Canada,20Apr2020,04May2020,34349218.0,37855939.0,1.3,1.2

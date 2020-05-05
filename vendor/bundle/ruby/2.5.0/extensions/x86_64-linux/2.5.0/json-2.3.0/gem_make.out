@@ -1,0 +1,13 @@
+current directory: /home/ilyass/Repositories/ilylabs.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.3.0/ext/json
+/usr/bin/ruby2.5 -r ./siteconf20200503-11995-1shw4id.rb extconf.rb
+creating Makefile
+
+current directory: /home/ilyass/Repositories/ilylabs.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/ilyass/Repositories/ilylabs.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.3.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/ilyass/Repositories/ilylabs.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" install
