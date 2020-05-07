@@ -315,12 +315,12 @@ Let's try to interpret the parameters:
 Since the situation is changing everyday, it is necessay to run the minimization process everyday and to re-evaluate the parameters. For this reason, I will update this page on a regular basis. It would also be interesting to visualize the current _prediction_ of the model and to evaluate the evolution of $$R_0$$ over several weeks. Lucky you, I've been running this script for more than 20 countries every day since the 19th of March (the process will keep computing new values every day as they come).
 {: style="text-align: justify;"}
 
-### SIR-F: RO evolution
+### SIR-F: R0 evolution
 
 We can thus take a look at the evolution of $$R_0$$ with a short term representation of the model's prediction (remember to be careful with these _predictions_ as they assume constant values for the model parameters in the future, which we know is not true).
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/projects/COVID-20200524-Canada-SIRF.png" width="70%" />
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/projects/COVID-20200524-Canada-SIRF.png" width="85%" />
 </center>
 
 It is possible to see on the plot above the raw data in addition to the SIR-F model prediction using the parameters we previously presented. Under this chart, it is possible to see the evolution of $$R_0$$ (this tiny plot is the most interesting IMO as it shows the **progress done**).
