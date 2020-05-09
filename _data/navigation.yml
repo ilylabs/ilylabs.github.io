@@ -14,13 +14,18 @@ main:
   #   url: /sitemap/
 
 projects-ambu:
+  - title: Partners/Affiliations
+    children:
+      - title: "Pre. Martine Dubé"
+        url: "https://www.etsmtl.ca/Professeurs/mdube/Accueil"
+      - title: "Hôpital Maisonneuve-Rosemont"
+        url: "https://ciusss-estmtl.gouv.qc.ca/"
   - title: Similar projects
     children:
       - title: "MIT E-vent project"
         url: "https://e-vent.mit.edu/"
       - title: "OpenLung EMV"
         url: "https://gitlab.com/open-source-ventilator/ventilator/OpenLung"
-
 
 projects-covidtracker:
   - title: Main resource
@@ -39,3 +44,15 @@ projects-covidtracker:
         url: "https://royalsocietypublishing.org/doi/10.1098/rspa.1927.0118"
       - title: "John Hopkins U CSSE COVID19 data repository"
         url: "https://github.com/CSSEGISandData/COVID-19"
+
+projects-paretoux:
+  - title: Partners/Affiliations
+    children:
+      - title: "Pr. Frédérick Gosselin"
+        url: "http://fgosselin.meca.polymtl.ca"
+      - title: "Hôpital Maisonneuve-Rosemont"
+        url: "https://ciusss-estmtl.gouv.qc.ca/"
+      - title: "Cybplastiques"
+        url: "https://cybplastique.ca/en/"
+      - title: "NSERC Alliance COVID-19 grant"
+        url: "https://www.nserc-crsng.gc.ca/Innovate-Innover/COVID-19/index_eng.asp"
