@@ -20,7 +20,7 @@ To **apply**, send me an e-mail with:
 
 ## Funded positions
 
-* No position is available at the moment.
+* **Summer 2020**, 4 internship positions open, see [Aerosol box project](../projects/COVID-paretoux)
 
 ## Funding opportunities
 
