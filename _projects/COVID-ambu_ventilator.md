@@ -16,7 +16,7 @@ gallery:
     image_path: assets/images/projects/COVID-OpenLung.png
     alt: "One of the OpenLung projects' possible designs"
 category: [COVID19]
-tags: [COVID19, mechanical design]
+tags: [COVID19, mechanical design, open science]
 partners: [Pre Martine Dubé, Hôpital Maisonneuve-Rosemont]
 project_date: "Summer 2020"
 contribute: E-mail me
