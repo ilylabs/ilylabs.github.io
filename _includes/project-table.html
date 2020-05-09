@@ -39,10 +39,16 @@
         <td markdown="span">{{ partners_hashes | markdownify | strip_html | truncate: 160 }}</td>
       </tr>
       {% endif %}
-      {%- if post.shared_library-%} 
+      {%- if page.recruiting-%} 
+      <tr>
+      <td markdown="span">Recruiting</td>
+      <td markdown="span">{{ page.recruiting | markdownify | strip_html | truncate: 160 }}</td>
+      </tr>
+      {%- endif -%}
+      {%- if page.shared_library-%} 
       <tr>
       <td markdown="span">Open Resources</td>
-      <td markdown="span">{{ post.shared_library | markdownify | strip_html | truncate: 160 }}</td>
+      <td markdown="span">{{ page.shared_library | markdownify | strip_html | truncate: 160 }}</td>
       </tr>
       {%- endif -%}
       {% if page.contribute %} 
