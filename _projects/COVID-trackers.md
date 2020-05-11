@@ -36,15 +36,9 @@ usemathjax: true
 The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$) for various countries daily, and more specifically for Canada, Québec and Morocco. I've been interested in knowing the $$R_0$$ value for various places but was surprised by how hard it was to do so. After some research, [Houda K.](https://twitter.com/sha3kouka) and myself found the [excellent ipython notebook by lipshar](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model) that provides all the tools necessary to *(1)* perform minimizations over various SIR models to get their current parameters and *(2)* to plot one of those SIR models given some parameters (this second point is often confused with a _prediction_). 
 {: style="text-align: justify;"}
 
-{%- include gallery caption="R0 evolution for Canada, Québec and Morocco presented with a 20 days forecast." -%}
+## SIR-F: R0 evolution by country
 
-## SIR-F: most recent update
-
-If you are looking for the most recent parameter values and plots for the SIR-F model, 
-[use this link to directly jump there](#sir-f-minimization-scores).
-Feel free to explore these sections to better understand the theory behind the results when you have some time (also recommended resources in the sidebar)
-{: .notice--info}
-
+<html>
 <table>
     <thead>
     {% for column in last_covid_update[0] %}
@@ -61,6 +55,53 @@ Feel free to explore these sections to better understand the theory behind the r
     {% endfor %}
     </tbody>
 </table>
+</html>
+
+{% include image-gallery.html folder="/assets/covid19_tracker" %}
+
+
+## SIR-F minimization scores 
+
+
+[Forgot the meaning of the parameters ?](#sir-f-minimization)
+
+
+<html>
+<table>
+    <thead>
+    {% for column in last_covid_update[0] %}
+        <th>{{ column[0] }}</th>
+    {% endfor %}
+    </thead>
+    <tbody>
+    {% for row in last_covid_update %}
+        <tr>
+        {% for cell in row %}
+            <td>{{ cell[1] }}</td>
+        {% endfor %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+<table>
+    <thead>
+    {%- for column in scores[0] -%}
+        <th>{{ column[0] }}</th>
+    {%- endfor -%}
+    </thead>
+    <tbody>
+    {%- for row in scores -%}
+        <tr>
+        {%- for cell in row -%}
+            <td>{{ cell[1] }}</td>
+        {%- endfor -%}
+        </tr>
+    {%- endfor -%}
+    </tbody>
+    <caption>SIR-F scores</caption>
+</table>
+</html>
 
 
 ## Theory
@@ -284,6 +325,7 @@ In the case of our plot for Canada, it is possible to see that the algorithm ass
 
 We can now perform our minimization over the time interval we determined. The minimization results are presented in the following table:
 
+<html>
 <table>
     <thead>
     {% for column in covidcanada[0] %}
@@ -300,6 +342,7 @@ We can now perform our minimization over the time interval we determined. The mi
     {% endfor %}
     </tbody>
 </table>
+</html>
 
 Let's try to interpret the parameters:
 
@@ -336,48 +379,9 @@ If we do so for Canada, it is possible to see that the model **currently assumes
 > Remember: all of this is just modelling, it can be useful at best, it is not a prediction of the future. It can definitely help guide our decisions and evaluate the progress accomplished. These models CANNOT be used to "predict" how the outbreak is going to play out. We need to check the data everyday.
 
 
-## SIR-F minimization scores 
+{%- include gallery caption="R0 evolution for Canada, Québec and Morocco presented with a 20 days forecast." -%}
 
-[Forgot the meaning of the parameters ?](#sir-f-minimization)
-
-<table>
-    <thead>
-    {% for column in last_covid_update[0] %}
-        <th>{{ column[0] }}</th>
-    {% endfor %}
-    </thead>
-    <tbody>
-    {% for row in last_covid_update %}
-        <tr>
-        {% for cell in row %}
-            <td>{{ cell[1] }}</td>
-        {% endfor %}
-        </tr>
-    {% endfor %}
-    </tbody>
-</table>
-
-<html>
-<table>
-    <thead>
-    {%- for column in scores[0] -%}
-        <th>{{ column[0] }}</th>
-    {%- endfor -%}
-    </thead>
-    <tbody>
-    {%- for row in scores -%}
-        <tr>
-        {%- for cell in row -%}
-            <td>{{ cell[1] }}</td>
-        {%- endfor -%}
-        </tr>
-    {%- endfor -%}
-    </tbody>
-    <caption>SIR-F scores</caption>
-</table>
-
-</html>
-
-<h2>SIR-F: Daily Plots (R0 evolution)</h2>
-
-{%- include image-gallery.html folder="/assets/covid19_tracker" -%}
+If you are looking for the most recent parameter values and plots for the SIR-F model, 
+[use this link to directly jump there](#sir-f-r0-evolution-by-country).
+Feel free to explore these sections to better understand the theory behind the results when you have some time (also recommended resources in the sidebar)
+{: .notice--info}

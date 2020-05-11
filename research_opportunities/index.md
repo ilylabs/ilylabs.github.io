@@ -20,7 +20,7 @@ To **apply**, send me an e-mail with:
 
 ## Funded positions
 
-* **Summer 2020**, 4 internship positions open, see [Aerosol box project](../projects/COVID-paretoux)
+* **Summer 2020**, 2 internship positions open, see [Aerosol box project](../projects/COVID-paretoux)
 
 ## Funding opportunities
 

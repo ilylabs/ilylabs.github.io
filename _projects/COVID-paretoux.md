@@ -19,7 +19,7 @@ category: [COVID19]
 tags: [COVID19, manufacturing, healthcare, fluid dynamics, open science]
 partners: [Pr. Frédérick Gosselin, Hôpital Maisonneuve-Rosemont, Cybplastiques.ca]
 project_date: "Summer 2020"
-recruiting: 4 internship positions (funded)
+recruiting: 2 internship positions (funded)
 contribute: 
 learn_more: 
 shared_library: https://www.zotero.org/groups/2499567/aerosolbox-public/library
