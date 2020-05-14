@@ -27,7 +27,7 @@ last_modified_at: 2020-05-08T21:17:22-04:00
 ---
 
 <html> 
- <script src="https://bibbase.org/show?bib={{ site.url }}{{ site.baseurl }}_data/AerosolBox-Public.bib&jsonp=1"></script> 
+ <script src="https://bibbase.org/show?bib={{ site.url }}{{ site.baseurl }}/_data/AerosolBox-Public.bib&jsonp=1"></script> 
 </html>
 
 **Tracheal intubation** is one of the **highest-risk moments for COVID-19 transmission** to healthcare workers and other patients. The current strategy in Canadian hospitals to minimise the risk to healthcare workers during these procedures is to shield the workers from droplets and aerosols by having them wear Personal Protective Equipment (PPE). More recently (Feb/March 2020), **"aerosol boxes"** started being manufactured (sometimes at home!) and used by anesthesiologist world-wide to minimize aerosol spread during tracheal intubation and extubation.
