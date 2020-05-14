@@ -1,6 +1,6 @@
 ---
 title: "Aerosol box"
-excerpt: ""
+excerpt: "Development of an experimentally validated containment and massively manufacturable aerosol box: Paretoux"
 header:
   teaser: /assets/images/projects/COVID-TaiwanUzma.jpeg
 sidebar:
@@ -19,12 +19,11 @@ category: [COVID19]
 tags: [COVID19, manufacturing, healthcare, fluid dynamics, open science]
 partners: [Pr. Frédérick Gosselin, Hôpital Maisonneuve-Rosemont, Cybplastiques.ca]
 project_date: "Summer 2020"
-recruiting: 2 internship positions (funded)
+recruiting:
 contribute: 
-learn_more: 
+learn_more: https://paretoux.github.io/
 shared_library: https://www.zotero.org/groups/2499567/aerosolbox-public/library
 last_modified_at: 2020-05-08T21:17:22-04:00
-usemathjax: true 
 ---
 
 **Tracheal intubation** is one of the **highest-risk moments for COVID-19 transmission** to healthcare workers and other patients. The current strategy in Canadian hospitals to minimise the risk to healthcare workers during these procedures is to shield the workers from droplets and aerosols by having them wear Personal Protective Equipment (PPE). More recently (Feb/March 2020), **"aerosol boxes"** started being manufactured (sometimes at home!) and used by anesthesiologist world-wide to minimize aerosol spread during tracheal intubation and extubation.

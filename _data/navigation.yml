@@ -58,3 +58,11 @@ projects-paretoux:
         url: "https://cybplastique.ca/en/"
       - title: "NSERC Alliance COVID-19 grant"
         url: "https://www.nserc-crsng.gc.ca/Innovate-Innover/COVID-19/index_eng.asp"
+
+projects-cottonmasks:
+  - title: Partners/Affiliations
+    children:
+      - title: "Pre. Martine Dubé"
+        url: "https://www.etsmtl.ca/Professeurs/mdube/Accueil"
+      - title: "Mysterious Industrial Partner"
+        url: "https://www.youtube.com/watch?v=fq3abPnEEGE"

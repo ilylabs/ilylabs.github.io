@@ -20,7 +20,7 @@ To **apply**, send me an e-mail with:
 
 ## Funded positions
 
-* **Summer 2020**, 2 internship positions open, see [Aerosol box project](../projects/COVID-paretoux)
+* **May 2020, 1 Postdoctoral fellow (1 year contract)**, please see the [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)
 
 ## Funding opportunities
 
@@ -42,7 +42,7 @@ Our lab proposes many research projects for this program every year.
 
 #### Vanier Canada Graduate Scholarships 🌍
 
-This scholarship program was established to recruit and keep in the country the best doctoral students in the world by offering them scholarships of considerable financial value. Plan to submit an application one year in advance. This program offers $50,000/year (max. 3 years) for doctorate students.
+[This scholarship program](https://vanier.gc.ca/en/home-accueil.html) was established to recruit and keep in the country the best doctoral students in the world by offering them scholarships of considerable financial value. Plan to submit an application one year in advance. This program offers $50,000/year (max. 3 years) for doctorate students.
 If the university for doctoral studies is ÉTS, the nomination is made on the recommendation of an ÉTS professor.
 
 
