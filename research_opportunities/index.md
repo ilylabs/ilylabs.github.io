@@ -13,6 +13,8 @@ I am constantly looking for motivated and interested people to join our lab! Loo
 2. **Sources of funding**: You might be eligible for funding to work with us
 3. **Spontaneous application**: You really want us to know that you really want to work with us
 
+## How to apply
+
 To **apply**, send me an e-mail with:
 * CV
 * Short motivation letter: introduce yourself and clearly explain why you are contacting me
