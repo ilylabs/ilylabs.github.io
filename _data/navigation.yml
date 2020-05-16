@@ -66,3 +66,21 @@ projects-cottonmasks:
         url: "https://www.etsmtl.ca/Professeurs/mdube/Accueil"
       - title: "Mysterious Industrial Partner"
         url: "https://www.youtube.com/watch?v=fq3abPnEEGE"
+
+projects-mudic:
+  - title: The Open Source Project
+    children:
+      - title: "muDIC"
+        url: "https://github.com/PolymerGuy/muDIC"
+      - title: "by PolymerGuy"
+        url: "https://github.com/PolymerGuy"
+  - title: Partners
+    children:
+      - title: "PolymerGuy"
+        url: "https://github.com/PolymerGuy"
+      - title: "Nicolas Thuard"
+        url: ""
+      - title: "d-lamin8"
+        url: ""
+      - title: "Dr. Patrick Diehl"
+        url: "https://www.diehlpk.de/"
