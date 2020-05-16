@@ -22,7 +22,7 @@ usemathjax: true
 [Pre. Martine Dubé](https://www.etsmtl.ca/Professeurs/mdube/Accueil) and myself are currently working with a [Mysterious Industrial Partner](https://www.youtube.com/watch?v=fq3abPnEEGE) to explore alternative manufacturing processes, [other than melt blowing](#nwp-melt-blown), for the production of Non Woven Fabrics. We are **currently looking for a Postdoctoral fellow (1 year contract)**, please contact me ASAP if you are interested.
 {: .notice--danger}
 
-We are **looking for a Postdoctoral fellow** that:
+We are **looking for a Postdoctoral fellow** who:
 * is **currently in Canada** (since the project should start ASAP and borders are currently closed),
 * can **start ASAP** and is available for **at least 6 months** (ideally 12 months),
 * is interested/has a background in thermoplastics, polymer processing and engineering,
@@ -35,14 +35,14 @@ Interested ? [Shoot me an e-mail ASAP](/research_opportunities/#how-to-apply).
 ## Context
 
 The current pandemic has pushed us to employ all the means available to slow down the spread of the virus ([keep R0 as low as possible](../../projects/COVID-trackers)) first through **(1) quarantining measures**, which appears to be the most efficient kind of measure, and then through **(2) social distancing** and minimizing travel outside of home as much as possible. Several governments and states worldwide are feeling that the spread of the virus is now under control, and quarantining measures are being gradually lifted in some places. However, that does not mean that the virus is gone, the **virus is still out there** and is still a significant threat for a large portion of the population[^1]. 
-Now that re-opening the old economy appears to be unavoidable, we must employ all the means at our disposal to ensure that the spread of the virus will remain as low as possible. Another tool at our disposal, in addition to social distancing, is the usage of **(3) Respiratory Protective Equipment** (RPE) that can help reduce the spread of the virus through aerosols from an infected individual. 
+Now that re-opening the old economy appears to be unavoidable, we must employ all the means at our disposal to ensure that the spread of the virus will remain as low as possible. In addition to social distancing, the usage of **(3) Respiratory Protective Equipment** (RPE) helps reducing the spread of the virus through aerosols from an infected individual. 
 {: style="text-align: justify;"}
 
 ![masks](/assets/images/projects/COVID-cottonmasks-banner.jpg)
 
 ## Respiratory Protective Equipment (RPE)
 
-Although the usage of RPE appears to have become a social norm for infectious individuals in some parts of the world for dozens of years now, wearing a *mask* is still seen as a shady practice in most places worldwide. Recently, a **strong push to enforce the usage of masks in public places** due to the pressure of the pandemic was seen worldwide. However, it is important to note that the efficiency of such RPE in various situations is still being studied, and the scientific community is not able to make clear recommendations yet[^5]. Before enforcing permanent laws, it is important to ensure that they are based on sound and valid arguments. There is however a certain agreement that covering one's face **might help reduce the spread from the wearer to its close vicinity**, it is uncertain if it protects the wearer or how *efficient* the filtration actually is [^6].
+Although the usage of RPE appears to have become a social norm for infectious individuals in some parts of the world for dozens of years now, wearing a *mask* is still seen as a shady practice in most places worldwide. Recently, a **strong push to enforce wearing masks in public places** due to the pressure of the pandemic was seen worldwide. However, it is important to note that the efficiency of such RPE in various situations is still being studied, and the scientific community is not able to make clear recommendations yet[^5]. Before enforcing permanent laws, it is important to ensure that they are based on sound and valid arguments. There is however a certain agreement that covering one's face **might help reduce the spread from the wearer to its close vicinity**, it is uncertain if it protects the wearer or how *efficient* the filtration actually is [^6].
 {: style="text-align: justify;"}
 
 > Dr Antonio Lazzarino of the Department of Epidemiology and Public Health at University College London, agreed. “That is not a piece or research. That is a non-systematic review of anecdotical and non-clinical studies,” he said. “The evidence we need before we implement public interventions involving billions of people, must come ideally from randomised controlled trials at population level or at least from observational follow-up studies with comparison groups,” said Lazzarino noting that will allow experts to look at the pros and cons of wearing masks.[^5]
@@ -52,7 +52,7 @@ Another major issue regarding the global adoption of masks and RPE, is simply **
 
 ## Different masks
 
-There are **different types of masks**. The simplest type of *mask* you can use, that is actually being recommended by more and more cities and states daily, is a **fabric mask**. A fabric mask is similar to a bandana or scarf that you would somehow hold around your mouth and nose. These kind of masks will fit loosely, and will not provide a **tight fit** around the wearer's face. Particles will be able to go around the fabric. In addition, the effectiveness of fabric to actually (it seems like several layers might help though) stop the virus or aerosols from spreading is still doubtful.
+There are **different types of masks**. The simplest type of *mask* you can use, that is currently being recommended by more and more cities and states daily, is a **fabric mask**. A fabric mask is similar to a bandana or scarf that you would somehow hold around your mouth and nose. These kind of masks will fit loosely, and will not provide a **tight fit** around the wearer's face. Particles will be able to go around the fabric. In addition, the effectiveness of fabric to actually stop the virus or aerosols from spreading is still doubtful (although it seems like several layers might help though).
 {: style="text-align: justify;"}
 
 <figure class="half">
@@ -64,7 +64,7 @@ There are **different types of masks**. The simplest type of *mask* you can use,
 *The main different types of masks are shown on the left. The morphology of the filter layer (the melt-blown Non-Woven Polypropylene) is presented on the right, that is the filtration material used in masks. (Left [^1A], Right [^7])*
 {: style="text-align: center;"}
 
-Your best option after that is a **surgical mask**. These masks are not made of fabric like the one used in clothes, they're made of **Non Woven Fabric** (NWF). A NWF is a mat of randomly arranged fibers (presented in figure above). In most medical applications, the NWF used is a **Non-Woven Polypropylene** (NWP) made of fibers that are around 1-20 $$\mu\text{m}$$ in diameter. Although NWPs can filter out particles of very small size, it is not quite efficient in the case of a surgical mask as they loosely fit around the nose and mouth. Aerosols can easily be inhaled with unfiltered air around their edges. In addition, although it might not look like it, surgical masks are specialized equipment that must be worn a certain way to be efficient[^11]. 
+Your best option after that is a **surgical mask**. These masks are not made of fabric like the one used in clothes, they're made of **Non Woven Fabric** (NWF). A NWF is a mat of randomly arranged fibers (presented in figure above). In most medical applications, the NWF used is a **Non-Woven Polypropylene** (NWP) made of fibers that are around 1-20 $$\mu\text{m}$$ in diameter. Although NWPs can filter out particles of very small size, they're still not quite efficient in the case of a surgical mask as they loosely fit around the nose and mouth. Aerosols can easily be inhaled with unfiltered air around their edges. In addition, although it might not look like it, surgical masks are specialized equipment that must be worn a certain way to be efficient[^11]. 
 {: style="text-align: justify;"}
 
 Finally, the best option you can get that you probably heard about at least once in the media recently is the **N95 respirator**.
@@ -75,7 +75,7 @@ It guarantees to filter out at least 95% of microscopic airborne particles (0.3+
 
 > While Chinese firms make almost three million tons of nonwoven fabric each year, less than 1% of it is melt-blown fabric, according to the China Nonwoven and Industrial Textiles Association. Before the pandemic, half the world's face masks were made in China and most US companies that have converted the factories to make N95 face masks get their melt-blown fabric from China. NPR.
 
-Non Woven Polypropylene is critical for RPEs, this filtration material is manufactured through a process called **melt-blowing**. It consists in extruding a polymer-melt (thermoplastic) though nozzles using high speed blowing gas. The polymer-melt quickly cools down due to the high speed and forms micro and nano fibers that are then randomly gathered on a collector.
+Non Woven Polypropylene is critical for RPEs, this filtration material is manufactured through a process called **melt-blowing**. It consists in extruding a polymer-melt (thermoplastic) through nozzles using high speed blowing gas. The polymer-melt quickly cools down due to the high speed and forms micro and nano fibers that are then randomly gathered on a collector.
 {: style="text-align: justify;"}
 
 <figure class="half">
