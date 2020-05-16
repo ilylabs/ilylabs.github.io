@@ -53,6 +53,8 @@ After covering a specimen with a **speckle pattern**, the specimen is setup in s
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 62.5%;">
     <iframe src="https://streamable.com/e/uc8pol" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe>
 </div>
+*Selected extracts from 'DIC forever', I. Tabiai, M. Moeini, A. Lingua, K. Chizari.*
+{: style="text-align: center;"}
 
 After **analyzing an experiment**, it is possible to **explore full field results in a variety of ways**. Since the complete displacement and strain fields are known, it is possible to inspect various areas using **virtual extensometers** or **local averages**. 
 {: style="text-align: justify;"}
@@ -76,8 +78,10 @@ This assumption does not hold in the case of **heterogeneous materials** (such a
 ## $$\mu$$DIC
 
 [$$\mu$$DIC](https://github.com/PolymerGuy/muDIC) is a python toolktit for DIC written in Python. It contains tools designed to perform DIC analysis on experimental data as well as tools to perform virtual DIC experiments. The package was developed by:
+
 * Sindre Olufsen - Implementation - [PolymerGuy](https://github.com/polymerguy)
 * Marius Endre Andersen - Wrote the Matlab code on which this is based
+
 Our group will help implement additional features of the $$\mu$$DIC package, such as subset based DIC, stereo calibration or different kinds of elements.
 
 #### References and Notes

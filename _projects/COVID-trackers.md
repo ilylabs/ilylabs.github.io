@@ -69,23 +69,6 @@ The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$
 <html>
 <table>
     <thead>
-    {% for column in last_covid_update[0] %}
-        <th>{{ column[0] }}</th>
-    {% endfor %}
-    </thead>
-    <tbody>
-    {% for row in last_covid_update %}
-        <tr>
-        {% for cell in row %}
-            <td>{{ cell[1] }}</td>
-        {% endfor %}
-        </tr>
-    {% endfor %}
-    </tbody>
-</table>
-
-<table>
-    <thead>
     {%- for column in scores[0] -%}
         <th>{{ column[0] }}</th>
     {%- endfor -%}

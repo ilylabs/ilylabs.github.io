@@ -20,6 +20,10 @@ $link-color: rgb(12, 0, 0);
 html {
     font-size: 10.0px; // change to whatever
 
+    .width-half {
+      width: 50%
+    }
+
     @include breakpoint($medium) {
         font-size: 0.88em; // change to whatever
       }
