@@ -33,7 +33,7 @@ usemathjax: true
 {%- assign covidcanada=site.data.projects-COVID-canada-20200504 -%}
 
 
-The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$) for various countries daily, and more specifically for Canada, Québec and Morocco. I've been interested in knowing the $$R_0$$ value for various places but was surprised by how hard it was to do so. After some research, [Houda K.](https://twitter.com/sha3kouka) and myself found the [excellent ipython notebook by lipshar](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model) that provides all the tools necessary to *(1)* perform minimizations over various SIR models to get their current parameters and *(2)* to plot one of those SIR models given some parameters (this second point is often confused with a _prediction_). 
+The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$) for various countries daily, and more specifically for Canada, Québec and Morocco. I've been interested in knowing the $$R_0$$ value for various places but was surprised by how hard it was to do so. After some research, [Houda K.](https://twitter.com/sha3kouka) and myself found the [excellent ipython notebook by lipshar](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model) that provides all the tools necessary to *(1)* perform minimizations over various SIR models to get their current parameters and *(2)* plot one of those SIR models given some parameters (this second point is often confused with a _prediction_). 
 {: style="text-align: justify;"}
 
 ## SIR-F: R0 evolution by country
@@ -91,7 +91,7 @@ The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$
 
 ### SIR: Susceptible Infected Recovered
 
-The **SIR** model (Susceptible Infected Recovered) model is a simple mathematical model that relies on differential equations to **model the evolution of each group** (**S**usceptible to the virus/disease, **I**nfected by the virus/disease and **R**ecovered from the virus/disease - that can actually have a positive or negative outcome) **which actually means modelling the spread of the virus**.
+  The **SIR** model is a simple mathematical model that relies on differential equations to **model the evolution of each group** - **S**usceptible to the virus/disease, **I**nfected by the virus/disease and **R**ecovered/**R**emoved (this category includes both individuals who recover and those who die from the disease) -  **which actually means modelling the spread of the virus**.
 {: style="text-align: justify;"}
 
 The model thus divides an initial population $$N$$ (fixed) of individuals into three different groups that will vary through time:
