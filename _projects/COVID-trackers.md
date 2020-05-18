@@ -361,6 +361,25 @@ If we do so for Canada, it is possible to see that the model **currently assumes
 <html>
 <table>
     <thead>
+    {% for column in last_covid_update[0] %}
+        <th>{{ column[0] }}</th>
+    {% endfor %}
+    </thead>
+    <tbody>
+    {% for row in last_covid_update %}
+        <tr>
+        {% for cell in row %}
+            <td>{{ cell[1] }}</td>
+        {% endfor %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</html>
+
+<html>
+<table>
+    <thead>
     {%- for column in scores[0] -%}
         <th>{{ column[0] }}</th>
     {%- endfor -%}
