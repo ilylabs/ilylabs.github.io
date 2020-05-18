@@ -1,5 +1,5 @@
 ---
-title: "muDIC"
+title: "Digital Image Correlation"
 excerpt: "Full field measurement methods: Digital Image Correlation"
 sidebar:
   - nav: "projects-mudic"
