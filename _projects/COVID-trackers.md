@@ -58,13 +58,13 @@ The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$
 </table>
 </html>
 
-### Worldwide view
+### R0 worldwide view
 
 <html>
  <iframe id="R0 by country"
                title="R0 by country"
                 allowfullscreen
-                src="{{ site.url }}{{ site.baseurl }}/assets/covid19_tracker/R0-worldmap.html" frameborder="1" height= "480" width="100%" style="text-align: center;">
+                src="{{ site.url }}{{ site.baseurl }}/assets/covid19_tracker/R0-worldmap.html" frameborder="1" height= "400" width="100%" style="text-align: center;">
   </iframe>
 </html>
   
@@ -72,31 +72,9 @@ The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$
 
 {% include image-gallery.html folder="/assets/covid19_tracker" %}
 
-
-## SIR-F minimization scores 
-
-[Forgot the meaning of the parameters ?](#sir-f-minimization)
-
-<html>
-<table>
-    <thead>
-    {%- for column in scores[0] -%}
-        <th>{{ column[0] }}</th>
-    {%- endfor -%}
-    </thead>
-    <tbody>
-    {%- for row in scores -%}
-        <tr>
-        {%- for cell in row -%}
-            <td>{{ cell[1] }}</td>
-        {%- endfor -%}
-        </tr>
-    {%- endfor -%}
-    </tbody>
-    <caption>SIR-F scores</caption>
-</table>
-</html>
-
+If you are looking for the most recent minimization of the whole SIR-F parameters, 
+[use this link to directly jump there](#sir-f-parameters-minimization).
+{: .notice--info}
 
 ## Theory
 
@@ -375,7 +353,27 @@ If we do so for Canada, it is possible to see that the model **currently assumes
 
 {%- include gallery caption="R0 evolution for Canada, Québec and Morocco presented with a 20 days forecast." -%}
 
-If you are looking for the most recent parameter values and plots for the SIR-F model, 
-[use this link to directly jump there](#sir-f-r0-evolution-by-country).
-Feel free to explore these sections to better understand the theory behind the results when you have some time (also recommended resources in the sidebar)
-{: .notice--info}
+
+## SIR-F parameters minimization 
+
+[Forgot the meaning of the parameters ?](#sir-f-minimization)
+
+<html>
+<table>
+    <thead>
+    {%- for column in scores[0] -%}
+        <th>{{ column[0] }}</th>
+    {%- endfor -%}
+    </thead>
+    <tbody>
+    {%- for row in scores -%}
+        <tr>
+        {%- for cell in row -%}
+            <td>{{ cell[1] }}</td>
+        {%- endfor -%}
+        </tr>
+    {%- endfor -%}
+    </tbody>
+    <caption>SIR-F scores</caption>
+</table>
+</html>
