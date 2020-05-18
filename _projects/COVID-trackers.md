@@ -64,7 +64,7 @@ The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$
  <iframe id="R0 by country"
                title="R0 by country"
                 allowfullscreen
-                src="{{ site.url }}{{ site.baseurl }}/assets/R0-worldmap.html" frameborder="1" height= "480" width="100%" style="text-align: center;">
+                src="{{ site.url }}{{ site.baseurl }}/assets/covid19_tracker/R0-worldmap.html" frameborder="1" height= "480" width="100%" style="text-align: center;">
   </iframe>
 </html>
   
