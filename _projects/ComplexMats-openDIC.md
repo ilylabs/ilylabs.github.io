@@ -77,7 +77,7 @@ This assumption does not hold in the case of **heterogeneous materials** (such a
 
 ## $$\mu$$DIC
 
-[$$\mu$$DIC](https://github.com/PolymerGuy/muDIC) is a python toolktit for DIC written in Python. It contains tools designed to perform DIC analysis on experimental data as well as tools to perform virtual DIC experiments. The package was developed by:
+[$$\mu$$DIC](https://github.com/PolymerGuy/muDIC) is a python toolktit for DIC written in Python. It contains tools designed to perform DIC analysis on experimental data as well as tools to perform virtual DIC experiments. There's also a nice publication about the projet[^4]. The package was developed by:
 
 * Sindre Olufsen - Implementation - [PolymerGuy](https://github.com/polymerguy)
 * Marius Endre Andersen - Wrote the Matlab code on which this is based
@@ -95,3 +95,6 @@ Our group will help implement additional features of the $$\mu$$DIC package, suc
 [^7]: Tabiai I., Delorme R., Therriault D. et al. [In-situ Full Field Measurements During Inter-Facial Debonding in Single Fiber Composite Under Transverse Load](https://link.springer.com/article/10.1007/s11340-018-0429-9). Exp Mech 58, 1451–1467 (2018)
 
 [^8]: Olufsen, Sindre Nordmark, Arild Holm Clausen, Dag Werner Breiby, and Odd Sture Hopperstad. [X-Ray Computed Tomography Investigation of Dilation of Mineral-Filled PVC under Monotonic Loading](https://doi.org/10.1016/j.mechmat.2019.103296). Mechanics of Materials 142 (March 1, 2020): 103296.
+
+[^4]: Olufsen, Sindre Nordmark, Marius Endre Andersen, and Egil Fagerholt. [μ DIC: An Open-Source Toolkit for Digital Image Correlation.](https://doi.org/10.1016/j.softx.2019.100391) SoftwareX 11 (January 2020): 100391.
+

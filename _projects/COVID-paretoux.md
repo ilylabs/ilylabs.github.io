@@ -26,11 +26,14 @@ shared_library: https://www.zotero.org/groups/2499567/aerosolbox-public/library
 last_modified_at: 2020-05-08T21:17:22-04:00
 ---
 
+[Visit the project's website](https://paretoux.github.io/){: .btn .btn--danger .btn--large}
+{: style="text-align: center;"}
+
 ## News
 
 *2020/05/15*: Notre projet est cité dans le Carrefour de l'Actualité, le journal des nouvelles de Polytechnique Montréal, [COVID-19 : des boîtiers de plastique pour protéger le personnel hospitalier](https://www.polymtl.ca/carrefour-actualite/nouvelles/covid-19-des-boitiers-de-plastique-pour-proteger-le-personnel-hospitalier)
 
----
+## Context
 
 **Tracheal intubation** is one of the **highest-risk moments for COVID-19 transmission** to healthcare workers and other patients. The current strategy in Canadian hospitals to minimise the risk to healthcare workers during these procedures is to shield the workers from droplets and aerosols by having them wear Personal Protective Equipment (PPE). More recently (Feb/March 2020), **"aerosol boxes"** started being manufactured (sometimes at home!) and used by anesthesiologist world-wide to minimize aerosol spread during tracheal intubation and extubation.
 {: style="text-align: justify;"}
@@ -39,6 +42,8 @@ last_modified_at: 2020-05-08T21:17:22-04:00
 
 The "aerosol box" appears to have originated in Taiwan, where Dr. Hsien Yung Lai (Mennonite Christian Hospital) designed a cheap acrylic box (see gallery photos) that can be used to mainly shield the healthcare workers working above the box. The box can be cleaned using 70% alcohol after usage and re-used for another patient. Although an improvement, this simple design still allowed quite a significant amount of aerosols during tracheal intubation. Since then, several versions of the "aerosol box" proposed various modifications to the initial design such as the addition of arm-holes to add ports, gloves to minimize the spread through the larger arm-holes or plastic sheets to minimize aerosol spillage along the patient's thorax.
 {: style="text-align: justify;"}
+
+## The project
 
 Our team believes that an even **better containment can be achieved**, **experimentally validated** and improved until an extremely low contamination level is reached. This project is being done in collaboration with a **local manufacturer** that is equipped to **quickly prototype** such equipment and **massively produce it**. Finally, our team wants this work to be part of the **onoing Global Effort** against COVID19, and we will thus be **freely publishing** the output of this work (see the Summary table at the beginning of this post or the sidebar for more information).
 {: style="text-align: justify;"}
