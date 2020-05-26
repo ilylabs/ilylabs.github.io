@@ -10,29 +10,29 @@ tags: [COVID19, polymer processing, nonwoven fabric, respiratory protective equi
 partners: [Pre. Martine Dubé, Mysterious Industrial Partner]
 project_date: "Summer 2020 - ?"
 contribute: 
-recruiting: 1 Postdoctoral fellow (1 year)
+recruiting: Master of Applied Science (M.A.Sc.) student in Mechanical Engineering
 learn_more: 
 shared_library: 
 last_modified_at: 2020-05-14T11:35:26-04:00
 usemathjax: true
 ---
 
-<!-- 
+
 ## Recruitment
 
-[Pre. Martine Dubé](https://www.etsmtl.ca/Professeurs/mdube/Accueil) and myself are currently working with a [Mysterious Industrial Partner](https://www.youtube.com/watch?v=fq3abPnEEGE) to explore alternative manufacturing processes, [other than melt blowing](#nwp-melt-blown), for the production of Non Woven Fabrics. We are **currently looking for a Postdoctoral fellow (1 year contract)**, please contact me ASAP if you are interested.
+[Pre. Martine Dubé](https://www.etsmtl.ca/Professeurs/mdube/Accueil) and myself are currently working with a [Mysterious Industrial Partner](https://www.youtube.com/watch?v=fq3abPnEEGE) to explore alternative manufacturing processes, [other than melt blowing](#nwp-melt-blown), for the production of Non Woven Fabrics. We are **Master of Applied Science (M.A.Sc.) student in Mechanical Engineering**, please contact me ASAP if you are interested.
 {: .notice--danger}
 
  
-We are **looking for a Postdoctoral fellow** who:
-* is **currently in Canada** (since the project should start ASAP and borders are currently closed),
-* can **start ASAP** and is available for **at least 6 months** (ideally 12 months),
-* is interested/has a background in thermoplastics, polymer processing and engineering,
-* is autonomous, can supervise several students, is able to communicate with industrial partners (some experience in technological project management can help),
+We are looking for **Master of Applied Science (M.A.Sc.) student in Mechanical Engineering** who:
+* is **currently in Canada** (since the project should start ASAP and borders are currently closed)
+* can **start ASAP**
+* is interested/has a background in thermoplastics, polymer processing and engineering and material characterization
+* is able to work within a team, is able to communicate with industrial partners (some experience in technological project management can help), is interested in Research
 * optional: enthusiastic, motivated and interested
 
 Interested ? [Shoot me an e-mail ASAP](/research_opportunities/#how-to-apply).
--->
+
 
 ## Context
 

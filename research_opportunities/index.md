@@ -21,6 +21,9 @@ To **apply**, send me an e-mail with:
 * Links toward additional information that you deem to be relevant
 
 ## Funded positions
+
+* **June 2020, a Master of Applied Science (M.A.Sc.) student in Mechanical Engineering**, please see the [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)
+
 <!-- 
 * **May 2020, 1 Postdoctoral fellow (1 year contract)**, please see the [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)
 -->
