@@ -20,7 +20,7 @@ usemathjax: true
 
 ## Recruitment
 
-[Pre. Martine Dubé](https://www.etsmtl.ca/Professeurs/mdube/Accueil) and myself are currently working with a [Mysterious Industrial Partner](https://www.youtube.com/watch?v=fq3abPnEEGE) to explore alternative manufacturing processes, [other than melt blowing](#nwp-melt-blown), for the production of Non Woven Fabrics. We are **Master of Applied Science (M.A.Sc.) student in Mechanical Engineering**, please contact me ASAP if you are interested.
+[Pre. Martine Dubé](https://www.etsmtl.ca/Professeurs/mdube/Accueil) and myself are currently working with a [Mysterious Industrial Partner](https://www.youtube.com/watch?v=fq3abPnEEGE) to explore alternative manufacturing processes, [other than melt blowing](#nwp-melt-blown), for the production of Non Woven Fabrics. We are **Master of Applied Science (M.A.Sc.) student in Mechanical Engineering**, [please contact me ASAP if you are interested](/research_opportunities/#how-to-apply).
 {: .notice--danger}
 
  
@@ -30,6 +30,7 @@ We are looking for **Master of Applied Science (M.A.Sc.) student in Mechanical E
 * is interested/has a background in thermoplastics, polymer processing and engineering and material characterization
 * is able to work within a team, is able to communicate with industrial partners (some experience in technological project management can help), is interested in Research
 * optional: enthusiastic, motivated and interested
+* Learn more about the position: [official offer on ÉTS website](https://www.etsmtl.ca/recherche/etudes-superieures-et-recherche/projets-de-recherche-pour-etudiants/developpement-et-caracterisation-d%e2%80%99un-procede-pour/)
 
 Interested ? [Shoot me an e-mail ASAP](/research_opportunities/#how-to-apply).
 

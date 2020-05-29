@@ -22,7 +22,8 @@ To **apply**, send me an e-mail with:
 
 ## Funded positions
 
-* **June 2020, a Master of Applied Science (M.A.Sc.) student in Mechanical Engineering**, please see the [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)
+* **June 2020, a Master of Applied Science (M.A.Sc.) student in Mechanical Engineering**, learn more about the project here: [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)
+  * [Official offer on ÉTS website](https://www.etsmtl.ca/recherche/etudes-superieures-et-recherche/projets-de-recherche-pour-etudiants/developpement-et-caracterisation-d%e2%80%99un-procede-pour/)
 
 <!-- 
 * **May 2020, 1 Postdoctoral fellow (1 year contract)**, please see the [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)
