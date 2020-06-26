@@ -11,8 +11,8 @@ partners: PolymerGuy, Nicolas Thuard, d-lamin8, Dr. Patrick Diehl
 project_date: "Summer 2020"
 contribute: https://github.com/PolymerGuy/muDIC/issues
 learn_more: https://github.com/PolymerGuy/muDIC
-shared_library:
-recruiting:
+shared_library: https://www.zotero.org/groups/2460484/extremedic/items
+recruiting: 1 PhD student
 last_modified_at: 2020-05-14T12:17:43-04:00
 usemathjax: true 
 ---

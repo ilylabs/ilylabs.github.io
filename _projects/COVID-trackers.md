@@ -33,6 +33,10 @@ usemathjax: true
 {%- assign covidcanada=site.data.projects-COVID-canada-20200504 -%}
 
 
+The work around this project is still ongoing. [Lisphilar](https://twitter.com/lisphilar) contacted me after finding this webpage, he invited us to join him and contribute. We are currently working on the connections between the various measures (lockdown, masks, social distancing, etc...) taken at different times in different countries to mitigate the spread of the virus and the values of the SIR/SIRF-F/SEWIR parameters during the pandemic. The project now involves data analysis (maybe even some *Machine Learning*?), Natural Language Processing to analyze a massive dataset will the measures of all countries since the beginning of the pandemic, and a bunch of other interesting things. Interested ? [Join us here](https://github.com/lisphilar/covid19-sir).
+{: .notice--info}
+
+
 The goal of this project is to evaluate the now infamous $$R_0$$ (and $$R_e(t)$$) for various countries daily, and more specifically for Canada, Québec and Morocco. I've been interested in knowing the $$R_0$$ value for various places but was surprised by how hard it was to do so. After some research, [Houda K.](https://twitter.com/sha3kouka) and myself found the [excellent ipython notebook by lipshar](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model) that provides all the tools necessary to *(1)* perform minimizations over various SIR models to get their current parameters and *(2)* plot one of those SIR models given some parameters (this second point is often confused with a _prediction_). 
 {: style="text-align: justify;"}
 
