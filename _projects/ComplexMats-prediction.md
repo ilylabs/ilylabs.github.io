@@ -4,7 +4,7 @@ excerpt: "Characterization tools for a better understanding of the behavior of c
 sidebar:
   - nav: "projects-heteromaterials"
 header:
-  teaser: /assets/images/projects/ComplexMats/muDIC-pointcloud.gif
+  teaser: /assets/images/projects/ComplexMats/macrocystis.gif
 category: [Heterogeneous materials]
 tags: [full field measurements, digital image correlation, composite materials, non local modeling]
 partners: 
@@ -37,14 +37,17 @@ In order to use composites more efficiently and optimize usage, it is essential 
 ## Heterogeneous materials
 
 Fiber reinforced composite materials are not the only kind of materials for which characterization that provide accurate local behavior measurements are required. Any material that exhibit a heterogeneous mechanical behavior will require such advanced characterization techniques. I'll be sharing here some of the other fields for which such techniques are quite relevant.
+{: style="text-align: justify;"}
 
 ### Biological materials
 
 Biological materials are ... weird. They *grow*, and re-grow, they shrink when they aren't happy and are hard to keep happy during an experiment that aims at characterizing behavior. Plus, they're full of water nothing really stick to them most of the time. Because of these reasons (and many others), characterizing these materials using *traditional methods* has always been challenging. DIC however is able to provide strong insights about the behavior of these materials.
+{: style="text-align: justify;"}
 
 #### Kelp growth (*Macrocystis*)
 
 This completely unexpected experiment was possible thanks to [Pr. Frédérick Gosselin](http://fgosselin.meca.polymtl.ca) who provided the financial support to connect our DIC capabilities with the intriguing work [Pr. Patrick Martone](http://www3.botany.ubc.ca/martone/) is pursuing around kelp in his lab at the University of British Columbia. The figure below presents one of the experiments we worked on that aimed at measuring the growth of a *macrocystis* over a few hours. These experiments were done in direct collaboration with (soon to be Dr.) [Liam Coleman](https://twitter.com/kelpfiction) and [Joani Viliunas](https://twitter.com/JoaniViliunas).
+{: style="text-align: justify;"}
 
 <figure class="half">
     <a href="http://www3.botany.ubc.ca/martone/"><img src="/assets/images/projects/ComplexMats/macrocystis-setup.png"></a>
@@ -54,11 +57,13 @@ A piece of *Macrocystis* (close to the stipe ("*root*"), as the fastest growth i
 {: style="text-align: center; font-size:13px; font-style: italic;"}
 
 The contour plot animation shown in the right figure showed us *extension* (since we're not 100% certain it's growth - yet) happening all over the stipe along the vertical direction mainly at first. The stipe is expected to grow horizontally while growing vertically at the same time. Later on during the test, significantly stronger extension is registered toward the bottom left corner of the image. It is still unclear if this is because of unequal growth[^B] or because the light was stronger on the bottom side of the image than the top one (more light could stimulate stronger growth). Although the experiments did not provide us with definitive answers, it revealed the strong potential of DIC (and other full field measurement methods) to better understand the behavior of biological materials.
+{: style="text-align: justify;"}
 
 #### Pork lungs inflation/deflation
 
 Another interesting experiment I was able to contribute for was the study of pork lung behavior during inflation/deflation. The experiment was led by [Bénédict Bonnet](https://ca.linkedin.com/in/b%C3%A9n%C3%A9dicte-bonnet-7b14a065/en-us) (now a happy Msc in biomedical engineering). The study was supervised by [Pr. Frédérick Gosselin](http://fgosselin.meca.polymtl.ca), [Pr. Isabelle Villemure](https://www.polymtl.ca/expertises/en/villemure-isabelle) and [Dr. George Rakocih M.D.](https://www.ctsnet.org/home/grakovich). 
 There will be a publication for this one, it is currently under review.
+{: style="text-align: justify;"}
 
 <figure class="half">
     <a href="">
@@ -70,11 +75,12 @@ A pair of pork lungs donated to science are connected to a piston that is contro
 {: style="text-align: center; font-size:13px; font-style: italic;"}
 
 The animation on the right shows that lungs do not deform homogeneously during inflation, some areas are much more solicited that others, while some areas barely deform. The complete study aimed at studying the impact of lung resection (cutting and removing a section of lung) that is often sealed using a special staple gun. DIC was in this case able to reveal the impact of stapling lung tissue close to the staples and further away from them. 
+{: style="text-align: justify;"}
 
 ### 3D-printing and films
 
 3D-printed parts and films are also quite hard to characterize, for different reasons. Standard tools cannot be used to measure the deformation of films, while 3D printed parts crack and withstand strong local deformations. Once again, DIC can be used to provide a better understanding of how these materials deform under loading. 3D printed parts (or any kind of **welded** part) will exhibit local behavior along and around the welded area (or the layers for 3D printed parts). 
-
+{: style="text-align: justify;"}
 
 <figure class="half">
     <a href=""><img src="/assets/images/projects/ComplexMats/efep.gif"></a>
@@ -84,10 +90,12 @@ The animation on the left presents the evolution of the deformation along the ve
 {: style="text-align: center; font-size:13px; font-style: italic;"}
 
 Although DIC is an extremely interesting method for full field characterization of heterogeneous materials, it is still a limited method. Current DIC algorithms are limited around cracks and discontinuities that are often always part of heterogeneous materials.
+{: style="text-align: justify;"}
 
 ## Other characterization methods
 
 Although DIC is becoming quite popular when it comes to the characterization of composite materials (for other kinds of heterogeneous materials, it often remains anecdotic), it is not the only interesting method that could be adapted to provide novel and relevant insights about the behavior of heterogeneous materials. The two following videos present two examples of methods that could be adapted in laboratories to study and quantify the behavior of various very interesting heterogeneous materials.
+{: style="text-align: justify;"}
 
 <figure class="half">
     <a href=""> <iframe width="560" height="315" src="https://www.youtube.com/embed/aDzMB27XVxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </a>
@@ -95,7 +103,7 @@ Although DIC is becoming quite popular when it comes to the characterization of 
 </figure>
 
 The goal of this project is to do just that, and I'm [looking for a motivated PhD student to work on this with me](/research_opportunities/#how-to-apply). 
-
+{: style="text-align: justify;"}
 
 ## Notes and references
 
