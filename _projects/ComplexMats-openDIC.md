@@ -12,7 +12,7 @@ project_date: "Summer 2020"
 contribute: https://github.com/PolymerGuy/muDIC/issues
 learn_more: https://github.com/PolymerGuy/muDIC
 shared_library: https://www.zotero.org/groups/2460484/extremedic/items
-recruiting: 1 PhD student
+recruiting:
 last_modified_at: 2020-05-14T12:17:43-04:00
 usemathjax: true 
 ---
@@ -30,7 +30,7 @@ Suppose we have a white surface that we cover with tiny crosses like this one <s
     <a href="https://mudic.readthedocs.io/en/latest/intro/dic_intro.html"><img src="/assets/images/projects/ComplexMats/muDIC-pointcloud.gif"  width="60%"></a>
 </figure>
 *The initial square surface covered with <span style="color:blue">+</span> crosses is shown on the left. An animation of the deforming surface is shown on the right (from [^5] ).*
-{: style="text-align: center;"}
+{: style="text-align: center; font-size:13px; font-style: italic;"}
 
 DIC thus requires:
 1. A surface that deforms (well it can **not** deform but...)
@@ -45,7 +45,7 @@ The pattern is called a **speckle pattern** as it is often made using a **random
     <a href="https://mudic.readthedocs.io/en/latest/intro/dic_intro.html"><img src="/assets/images/projects/ComplexMats/muDIC-speckle048.gif"  width="60%"></a>
 </figure>
 *Left: Mineral filled PVC under monotonic load[^8]. Right:  Interfacial debonding of a 1mm in diameter PTFE fiber embedded in Epoxy, tensile load is applied along the vertical direction [^7]*
-{: style="text-align: center;"}
+{: style="text-align: center; font-size:13px; font-style: italic;"}
 
 After covering a specimen with a **speckle pattern**, the specimen is setup in some kind of **testing equipment** (such as a tensile testing machine). Cameras are setup in front of the machine in order to capture consecutive images of the surface that was covered with a speckle pattern. It is usually necessary to undergo some sort of **spatial calibration** here in order to later be able to perform **accurate metric measurements** on the captured images. The following video presents the main steps of a real DIC experiment:
 {: style="text-align: justify;"}
@@ -54,7 +54,7 @@ After covering a specimen with a **speckle pattern**, the specimen is setup in s
     <iframe src="https://streamable.com/e/uc8pol" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe>
 </div>
 *Selected extracts from 'DIC forever', I. Tabiai, M. Moeini, A. Lingua, K. Chizari.*
-{: style="text-align: center;"}
+{: style="text-align: center; font-size:13px; font-style: italic;"}
 
 After **analyzing an experiment**, it is possible to **explore full field results in a variety of ways**. Since the complete displacement and strain fields are known, it is possible to inspect various areas using **virtual extensometers** or **local averages**. 
 {: style="text-align: justify;"}
@@ -69,7 +69,7 @@ DIC is an interesting technique as it is an easy way to **gather information abo
     <a href="https://link.springer.com/article/10.1007/s11340-018-0429-9"><img src="/assets/images/projects/ComplexMats/muDIC-Spec048-eyy.gif"></a>
 </figure>
 *Left: Stable crack growth within a CT specimen laser cut out of a PMMA sheet, the vertical strain field was measured using Digital Image Correlation, the applied load is also along the vertical direction [^4] . Right: Interfacial debonding of a 1mm in diameter PTFE fiber embedded in Epoxy, tensile load is applied along the vertical direction[^7].*
-{: style="text-align: center;"}
+{: style="text-align: center; font-size:13px; font-style: italic;"}
 
 This assumption does not hold in the case of **heterogeneous materials** (such as composite materials) as the material itself is full of **discontinuities** (cracks, interfaces). DIC is thus becoming a critical tool when it comes to better understanding and **characterizing the behavior of heterogeneous materials**. 
 {: style="text-align: justify;"}

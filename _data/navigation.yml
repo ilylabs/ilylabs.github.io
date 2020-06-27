@@ -101,3 +101,10 @@ posts-rtlsdr:
         url: "https://www.rtl-sdr.com/about-rtl-sdr/"
       - title: "Get started with GQRX"
         url: "https://gqrx.dk/doc/practical-tricks-and-tips#more-229"
+projects-heteromaterials:
+  - title: Resources
+    children:
+      - title: "Digital Image Correlation"
+        url: "https://ilylabs.github.io/projects/ComplexMats-openDIC/"
+      - title: "The fascinating world of kelp"
+        url: "http://www3.botany.ubc.ca/martone/"

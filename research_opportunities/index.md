@@ -24,7 +24,7 @@ To **apply**, send me an e-mail with:
 
 * **July 2020, a Master of Applied Science (M.A.Sc.) student in Mechanical Engineering**, learn more about the project here: [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)
   * [Official offer on ÉTS website](https://www.etsmtl.ca/recherche/etudes-superieures-et-recherche/projets-de-recherche-pour-etudiants/developpement-et-caracterisation-d%e2%80%99un-procede-pour/)
-* **September 2020, a PhD student in Mechanical Engineering**, learn more about the project here: [Characterization tools for heterogeneous materials](/projects/ComplexMats-openDIC)
+* **September 2020, a PhD student in Mechanical Engineering**, learn more about the project here: [the characterization of heterogeneous materials](/projects/ComplexMats-prediction)
 
 <!-- 
 * **May 2020, 1 Postdoctoral fellow (1 year contract)**, please see the [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)

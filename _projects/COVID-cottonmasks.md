@@ -65,7 +65,7 @@ There are **different types of masks**. The simplest type of *mask* you can use,
     <a href="https://www.ncbi.nlm.nih.gov/pubmed/30233916"><img src="/assets/images/projects/COVID-masknonwoven.png" width="60%"></a>
 </figure>
 *The main different types of masks are shown on the left. The morphology of the filter layer (the melt-blown Non-Woven Polypropylene) is presented on the right, that is the filtration material used in masks. (Left [^1A], Right [^7])*
-{: style="text-align: center;"}
+{: style="text-align: center; font-size:13px; font-style: italic;"}
 
 Your best option after that is a **surgical mask**. These masks are not made of fabric like the one used in clothes, they're made of **Non Woven Fabric** (NWF). A NWF is a mat of randomly arranged fibers (presented in figure above). In most medical applications, the NWF used is a **Non-Woven Polypropylene** (NWP) made of fibers that are around 1-20 $$\mu\text{m}$$ in diameter. Although NWPs can filter out particles of very small size, they're still not quite efficient in the case of a surgical mask as they loosely fit around the nose and mouth. Aerosols can easily be inhaled with unfiltered air around their edges. In addition, although it might not look like it, surgical masks are specialized equipment that must be worn a certain way to be efficient[^11]. 
 {: style="text-align: justify;"}
@@ -86,7 +86,7 @@ Non Woven Polypropylene is critical for RPEs, this filtration material is manufa
     <a href="http://www.nonwoventools.com/2013/01/03/meltblown/biaxmeltblown-01-source-biax-fiberfilm-meltblown-process/"><img src="/assets/images/projects/COVID-meltblown_collector.gif" width="60%"></a>
 </figure>
 *The melt blown manufacturing process is presented on the left[^9], a line of nozzles blowing polymer melts on a collector is shown on the right[^10].*
-{: style="text-align: center;"}
+{: style="text-align: center; font-size:13px; font-style: italic;"}
 
 The process is simple and it does not require solvents or dangerous products. The current **issue is that factories worldwide are producing as much NWP as quickly as possible**, in addition to manufacturing as many melt blowing machine as quickly as possible, there is still however **a significant risk**, due to the uncertainty regarding the arrival of unexpected *second waves*, that **the demand will remain higher than the production capabilities for months or even years to come**. 
 {: style="text-align: justify;"}
@@ -105,7 +105,7 @@ Filtration mechanisms of RPE relies on a mat of randomly arranged fibers, also c
     <a href="http://www.irsst.qc.ca/media/documents/PubIRSST/RG-501.pdf"><img src="/assets/images/projects/COVID-filtration_partsize.PNG" width="60%"></a>
 </figure>
 *Filtration mechanisms and efficiency with respect to particle size. (Left [^2], Right [^3])*
-{: style="text-align: center;"}
+{: style="text-align: center; font-size:13px; font-style: italic;"}
 {% endcomment %}
 
 

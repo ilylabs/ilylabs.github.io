@@ -255,7 +255,7 @@ We can thus plot the model (I actually did not plot this one, the plot is from t
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/projects/COVID-basic_SIRF.png" width="75%"/>
 </center>
 
-Notice that the model this time considers the individual that die because of the virus (wether confirmed or not). Since the number of **D**eaths is reported and consequent in the case of COVID19, considering this additional feature for our model will help better fit the model for each country. 
+Note that the model this time considers the individual that die because of the virus (wether confirmed or not). Since the number of **D**eaths is reported and consequent in the case of COVID19, considering this additional feature for our model will help better fit the model for each country. 
 
 # SIR-F model fit
 
