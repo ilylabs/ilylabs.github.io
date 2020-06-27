@@ -84,3 +84,11 @@ projects-mudic:
         url: ""
       - title: "Dr. Patrick Diehl"
         url: "https://www.diehlpk.de/"
+
+projects-heteromaterials:
+  - title: Resources
+    children:
+      - title: "Digital Image Correlation"
+        url: "https://ilylabs.github.io/projects/ComplexMats-openDIC/"
+      - title: "The fascinating world of kelp"
+        url: "http://www3.botany.ubc.ca/martone/"
