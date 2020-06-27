@@ -84,3 +84,20 @@ projects-mudic:
         url: ""
       - title: "Dr. Patrick Diehl"
         url: "https://www.diehlpk.de/"
+
+
+projects-predictivealerts:
+  - title: Partners/Affiliations
+    children:
+      - title: "Centre Technologique en Aérospatiale"
+        url: "https://www.cegepmontpetit.ca/cta"
+      - title: "Mysterious Industrial Partner"
+        url: "https://www.youtube.com/watch?v=fq3abPnEEGE"
+
+posts-rtlsdr:
+  - title: Resources to get you started
+    children:
+      - title: "RTL-SDR.com"
+        url: "https://www.rtl-sdr.com/about-rtl-sdr/"
+      - title: "Get started with GQRX"
+        url: "https://gqrx.dk/doc/practical-tricks-and-tips#more-229"
