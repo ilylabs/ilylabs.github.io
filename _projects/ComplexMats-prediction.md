@@ -20,11 +20,10 @@ usemathjax: true
 I am currently recruiting a **PhD student in Mechanical Engineering** to work on this project with me, [please contact me ASAP if you are interested or would like more information](/research_opportunities/#how-to-apply).
 {: .notice--danger}
 
-## Composite materials
+## "Complex" (composite) materials
 
 The profitability of the aerospace, automotive, energy and many other industries is strongly linked to a reduction in the energy footprint and mass of the structures involved, while maintaining a similar level of performance and safety. To achieve these objectives, composite materials are increasingly being used. 
-However, our ability to predict the behavior of these materials in various situations is still limited, as it has been demonstrated by the ["World Wide Failure Exercise"](https://www.sciencedirect.com/science/article/pii/B9780080444758500020). During the last century, colossal efforts have been put in place to characterize the microstructure of certain metals and understand how they behave. Today, this work allows engineers to predict with robustness and precision the behavior of a metallic part and to take advantage of its microstructure to perform a specific function. For composite materials, the bulk of this work still remains to be done. 
-In order to use composites more efficiently and optimize usage, it is essential to better characterize their behavior at the microstructural level. [Digital Image Correlation (DIC) is a very interesting method that has been recently successfully applied to accomplish just that](/projects/ComplexMats-openDIC), however, **it is not the only one**. DIC provides a way to accurately measure the local behavior of a material, it is thus possible to measure the strain level for any pixel of a picture of the specimen taken during an experiment. The two following animations show some of the results that can be obtained using DIC, the strain levels are shown for the whole specimen and their evolution through time can be seen. Since composite materials have **heteroegenous mechanical properties** because of their **heterogeneous** nature, a characterization method capable of local measurements is required.
+However, our ability to predict the behavior of these materials in various situations is still limited, as it has been demonstrated by the ["World Wide Failure Exercise"](https://www.sciencedirect.com/science/article/pii/B9780080444758500020). During the last century, colossal efforts have been put in place to characterize the microstructure of certain metals and understand how they behave. Today, this work allows engineers to predict with robustness and precision the behavior of a metallic part and to take advantage of its microstructure to better perform a specific function. For composite materials, the bulk of this work still remains to be done. 
 {: style="text-align: justify;"}
 
 <figure class="half">
@@ -32,7 +31,10 @@ In order to use composites more efficiently and optimize usage, it is essential 
     <a href="https://link.springer.com/article/10.1007/s11340-018-0429-9"><img src="/assets/images/projects/ComplexMats/muDIC-Spec048-eyy.gif"></a>
 </figure>
 *Left: Stable crack growth within a CT specimen laser cut out of a PMMA sheet, the vertical strain field was measured using Digital Image Correlation, the applied load is also along the vertical direction [^4] . Right: Interfacial debonding of a 1mm in diameter PTFE fiber embedded in Epoxy, tensile load is applied along the vertical direction[^7].*
-{: style="text-align: center;"}
+{: style="text-align: center; font-size:13px; font-style: italic;"}
+
+In order to use composites more efficiently, it is essential to better characterize their behavior at the microstructural level. [Digital Image Correlation (DIC) is a very interesting method that has been recently successfully applied to accomplish just that](/projects/ComplexMats-openDIC), however, **it is not the only one**. DIC provides a way to accurately measure the local behavior of a material, it is thus possible to measure the strain level for any pixel of a picture of the specimen taken during an experiment. The two following animations show some of the results that can be obtained using DIC, the strain levels are shown for the whole specimen and their evolution through time can be seen. Since composite materials have **heteroegenous mechanical properties** because of their **heterogeneous** nature, a characterization method capable of local measurements is required.
+{: style="text-align: justify;"}
 
 ## Heterogeneous materials
 
@@ -61,7 +63,7 @@ The contour plot animation shown in the right figure showed us *extension* (sinc
 
 #### Pork lungs inflation/deflation
 
-Another interesting experiment I was able to contribute for was the study of pork lung behavior during inflation/deflation. The experiment was led by [Bénédict Bonnet](https://ca.linkedin.com/in/b%C3%A9n%C3%A9dicte-bonnet-7b14a065/en-us) (now a happy Msc in biomedical engineering). The study was supervised by [Pr. Frédérick Gosselin](http://fgosselin.meca.polymtl.ca), [Pr. Isabelle Villemure](https://www.polymtl.ca/expertises/en/villemure-isabelle) and [Dr. George Rakocih M.D.](https://www.ctsnet.org/home/grakovich). 
+Another interesting experiment I was able to contribute for was the study of pork lung behavior during inflation/deflation. The experiment was led by [Bénédicte Bonnet](https://ca.linkedin.com/in/b%C3%A9n%C3%A9dicte-bonnet-7b14a065/en-us) (now a happy Msc in biomedical engineering). The study was supervised by [Pr. Frédérick Gosselin](http://fgosselin.meca.polymtl.ca), [Pr. Isabelle Villemure](https://www.polymtl.ca/expertises/en/villemure-isabelle) and [Dr. George Rakovich M.D.](https://www.ctsnet.org/home/grakovich). 
 There will be a publication for this one, it is currently under review.
 {: style="text-align: justify;"}
 
@@ -86,7 +88,7 @@ The animation on the right shows that lungs do not deform homogeneously during i
     <a href=""><img src="/assets/images/projects/ComplexMats/efep.gif"></a>
     <a href=""><img src="/assets/images/projects/ComplexMats/chitosan.gif"></a>
 </figure>
-The animation on the left presents the evolution of the deformation along the vertical direction for a 3D printed EFEP (fluoropolymer) dogbone under tensile (vertical) loading. This material exhibits a final strain of more than 300% during a tensile test, and with DIC it is possible to quantify the different behavior of various areas of the specimen during the test. The animation on the right presents a contour plot of the strain along the principal direction of a pre-cracked chitosan *(thick)* film. It is possible to quantify the strain at the tip of the crack although the experiment was quite challenging because the film was transparent. (an extremely fine speckle pattern was also necessary)
+The animation on the left presents the evolution of the deformation along the vertical direction for a 3D printed EFEP (fluoropolymer) dogbone under tensile (vertical) loading. This material exhibits a final strain of more than 300% during a tensile test, and with DIC it is possible to quantify the different behavior of various areas of the specimen during the test. This work was done with [Yahya Abderrafai](https://www.linkedin.com/in/yahya-abderrafai-5207953b/?originalSubdomain=ca) and [Charlotte Weever](https://www.linkedin.com/in/charlotte-weever-1117307b/) for 3D-TRIP. The animation on the right presents a contour plot of the strain along the principal direction of a pre-cracked chitosan *(thick)* film. It is possible to quantify the strain at the tip of the crack although the experiment was quite challenging because the film was transparent (an extremely fine speckle pattern was also necessary). This work was done in collaboration with [Qinghua Wu](https://www.linkedin.com/in/qinghua-wu-90968210b/).
 {: style="text-align: center; font-size:13px; font-style: italic;"}
 
 Although DIC is an extremely interesting method for full field characterization of heterogeneous materials, it is still a limited method. Current DIC algorithms are limited around cracks and discontinuities that are often always part of heterogeneous materials.
