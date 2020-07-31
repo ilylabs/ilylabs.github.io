@@ -33,10 +33,6 @@ usemathjax: true
 {%- assign covidcanada=site.data.projects-COVID-canada-20200504 -%}
 
 
-I just realized that the dataset I'm using has not been updated since the 20th July. The daily updates are on pause until I'm able to fix this (hopefully next week-end). I'll also use this opportunity to update the code with [Lisphilar](https://twitter.com/lisphilar)'s [latest version](https://github.com/lisphilar/covid19-sir).
-{: .notice--warning}
-
-
 The work around this project is still ongoing. [Lisphilar](https://twitter.com/lisphilar) contacted me after finding this webpage, he invited us to join him and contribute. We are currently working on the connections between the various measures (lockdown, masks, social distancing, etc...) taken at different times in different countries to mitigate the spread of the virus and the values of the SIR/SIRF-F/SEWIR parameters during the pandemic. The project now involves data analysis (maybe even some *Machine Learning*?), Natural Language Processing to analyze a massive dataset will the measures of all countries since the beginning of the pandemic, and a bunch of other interesting things. Interested ? [Join us here](https://github.com/lisphilar/covid19-sir).
 {: .notice--info}
 
