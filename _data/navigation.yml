@@ -4,6 +4,8 @@ main:
     url: /projects/
   - title: "Research Opportunities"
     url: /research_opportunities/
+  - title: "Courses"
+    url: /courses/
   - title: "Contributions"
     url: /publications/
   - title: "Posts"

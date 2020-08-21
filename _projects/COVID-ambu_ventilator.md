@@ -2,7 +2,7 @@
 title: "AMBU ventilator"
 excerpt: "Development of a portable cleanable AMBU ventilator"
 header:
-  teaser: /assets/images/projects/COVID-e_vent_V3.jpg
+  teaser: /assets/images/projects/COVID-AMBU-proto06.png
 sidebar:
   nav: "projects-ambu"
 gallery:
@@ -19,6 +19,7 @@ tags: [COVID19, mechanical design, open science]
 partners: [Pre Martine Dubé, Hôpital Maisonneuve-Rosemont (Dr. Rami Issa)]
 project_date: "Summer 2020"
 contribute: E-mail me
+category: [COVID19]
 learn_more: 
 shared_library: 
 recruiting: Marc-Antoine Georgiev, Raphaêl Lanctot, Maxime Labrecque, Julien Gauthier, Sylvain Olivier
@@ -47,6 +48,8 @@ Les étudiants ont fabriqué un prototype fonctionnel du ventilateur AMBU (plan 
 <figure class="half">
     <a href="/assets/images/projects/COVID-AMBU-proto06.png"><img src="/assets/images/projects/COVID-AMBU-proto06.png"></a>
 </figure>
+
+Un grand merci à [Tanja Pelzmann](https://www.researchgate.net/profile/Tanja_Pelzmann) d'avoir pris le temps de partager son expertise en Arduino pour ce projet.
 
 ---
 
