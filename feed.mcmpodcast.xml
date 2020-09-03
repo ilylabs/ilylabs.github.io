@@ -10,7 +10,7 @@ layout: none
         <explicit>no</explicit>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.category.xml" rel="self" type="application/rss+xml" />
-		<itunes:category text="Science"></itunes:category>
+		<itunes:category>Science</itunes:category>
 		<itunes:image href={{ site.url | "/assets/images/mcmpodcast/01-stelia-rdelorme.png" }}/>
 		{% for post in site.mcmpodcast limit:900 %}
 			<item>
