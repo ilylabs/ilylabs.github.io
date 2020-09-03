@@ -2,7 +2,10 @@
 layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
 	<channel>
 		<title>{{ site.name | xml_escape }} - Matériaux Composites Montréal</title>
 		<description>Flux RSS des baladodiffusions 'Matériaux Composites Montréal' qui a pour but d'accompagner le cours MEC619 - Mécanique des Matériaux Composites à l'École de Technologie Supérieure à Montréal donné par Ilyass Tabiai. Durant chaque épisode, je fais une entrevue d'une trentaine de minutes avec un ou une ingénieur(e) dans le domaine des composites et dans la région de Montréal pour apporter un aspect pratique et appliqué au cours de Mécanique des Matériaux Composites.</description>
