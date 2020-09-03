@@ -23,7 +23,7 @@ layout: none
 				<link>{{ post.file }}</link>
 				<guid isPermaLink="true">{{ post.file }}</guid>
         		<itunes:subtitle>{{ post.excerpt | xml_escape }}</itunes:subtitle>
-        		<itunes:summary><{{content | xml_escape}}></itunes:summary>
+        		<itunes:summary><{{ post.content | xml_escape }}></itunes:summary>
 			</item>
 		{% endfor %}
 	</channel>
