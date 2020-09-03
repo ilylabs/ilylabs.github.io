@@ -12,7 +12,7 @@ layout: none
         <subtitle>Flux RSS des baladodiffusions 'Matériaux Composites Montréal' qui a pour but d'accompagner le cours MEC619 - Mécanique des Matériaux Composites à l'École de Technologie Supérieure à Montréal donné par Ilyass Tabiai.</subtitle>
         <explicit>no</explicit>
 		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/feed.category.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ site.url }}/feed.mcmpodcast.xml" rel="self" type="application/rss+xml" />
 		<itunes:category text="Science"></itunes:category>
 		<itunes:image href="https://ilylabs.github.io/assets/mcmpodcast/01-stelia-rdelorme.png"/>
 		{% for post in site.mcmpodcast limit:900 %}
