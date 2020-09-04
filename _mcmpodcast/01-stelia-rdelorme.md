@@ -11,7 +11,6 @@ file: "https://ia801404.us.archive.org/29/items/20200822-stelia-rolland-delorme/
 keywords: composites, normes qualité, aérospatiales, procédés de fabrication
 ---
 
-
 <table border="0" border-spacing="0" width="100%">
 	<col style="width:20%">
 	<col style="width:80%">
@@ -24,8 +23,8 @@ keywords: composites, normes qualité, aérospatiales, procédés de fabrication
 	</tr>
 </table>
 
-
-
+Après avoir obtenu son diplôme d'ingénieur en France, Rolland Delorme est venu au à Montréal poursuicre une **maîtrise modélisation des matériaux composites à matrices élastomères pour la modification du profil d'écoulement dans les aspirateurs de barrages hydro-électriques**. Dans cet épisode, Rolland va nous parler de cette application particulière des composites et de pourquoi est ce que c'était pertinent dans ce cas d'utiliser des composites. La Figure ci-dessous présente le profil de l'un de ces barrages et l'on peut y voir le zone "*aspirateur*" que Rolland évoque durant l'épisode. Après ce travail de modélisation, Rolland a rejoint l'équipe de **Stelia Aerospace North America**, une filiale d'Airbus, à Mirabel au sein de laquelle Rolland a occupé divers postes durant les dernières années. Stelia se spécialise dans la fabrication (et plus particulièrement les procédés de fabrication spéciaux) de matériaux composites pour des **applications spatiales et militaires**. Durant le reste de l'épisode, Rolland nous parle des diverses applications des composites en spatiale et militaire et des particularités de l'utilisation de Composites à Renforts Fibreux dans ces domaines.
+{: style="text-align: justify;"}
 
 <figure class="half">
     <a href="https://www.hydro.mb.ca/fr/corporate/teachers/producing_electricity/"><img src="/assets/mcmpodcast/producing_elec_cross.gif"></a>
