@@ -12,7 +12,7 @@ project_date: 2020-2024
 contribute: 
 learn_more: 
 shared_library: 
-recruiting: 
+recruiting: Stéphane Hu (du 67)
 last_modified_at: 2020-06-23T12:17:43-04:00
 usemathjax: true 
 ---
