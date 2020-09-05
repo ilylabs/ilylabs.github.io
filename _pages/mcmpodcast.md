@@ -3,7 +3,7 @@ title: Matériaux Composites Montréal
 layout: podcasts
 permalink: /mcmpodcast/
 collection: mcmpodcast
-author_profile: false
+author_profile: true
 toc: true
 toc_sticky: true
 toc_label: "Balados"

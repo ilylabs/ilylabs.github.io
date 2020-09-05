@@ -31,6 +31,7 @@ last_modified_at: 2020-08-21T18:14:22-04:00
 ### 2020/08/20
 
 Les étudiants ont fabriqué un prototype fonctionnel du ventilateur AMBU (plan et composants à venir ici) qui s'appuye en partie sur des conceptions pré-éxistantes. Le prototype qui a été fabriqué sera prochainement testé à l'Hôpital Maisonneuve Rosemont par Dr. Rami Issa sur des manequins pour s'assurer qu'il répond bien au besoin. En attendant, le prototype va prochainement servir de "poumon artificiel" pour [tester les boîtes aérosols Paretoux](/projects/COVID-paretoux) en partenariat avec [Pr. Étienne Robert et ses lasers](https://www.polymtl.ca/carrefour-actualite/en/news/examining-aerosol-movement-order-better-protect-health-care-personnel).
+{: style="text-align: justify;"}
 
 #### Images du prototype
 

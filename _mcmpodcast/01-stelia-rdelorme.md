@@ -34,6 +34,9 @@ Gauche: Vue en coupe de la prise d’eau et du bâtiment des machines d'une cent
 {: style="text-align: center; font-size:13px; font-style: italic;"}
 
 
+<i class="fa fa-rss" aria-hidden="true"></i>
+[Ce lien mène vers le flux RSS pour cette collection de balados]({{site.url}}/feed.mcmpodcast.xml)
+
 [^1]: [Hydro Manitoba, La production de l’électricité](https://www.hydro.mb.ca/fr/corporate/teachers/producing_electricity/)
 
 [^2]: [Carbon fiber satellite communication antennas offer higher performance](https://www.compositesworld.com/news/carbon-fiber-satellite-communication-antennas-offer-higher-performance)

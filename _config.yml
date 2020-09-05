@@ -292,6 +292,7 @@ defaults:
       read_time: true
       share: true
       classes: wide
+      related: true
       comments: true
   # _mcmpodcast
   - scope:
@@ -304,6 +305,7 @@ defaults:
       share: true
       classes: wide
       comments: true
+      related: true
 
 collections:
   projects:
