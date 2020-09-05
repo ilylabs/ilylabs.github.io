@@ -293,10 +293,24 @@ defaults:
       share: true
       classes: wide
       comments: true
-
+  # _mcmpodcast
+  - scope:
+      path: ""
+      type: mcmpodcast
+    values:
+      layout: podcast
+      author_profile: false
+      read_time: true
+      share: true
+      classes: wide
+      comments: true
 
 collections:
   projects:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: category
+  mcmpodcast:
     output: true
     permalink: /:collection/:path/
     sort_by: category

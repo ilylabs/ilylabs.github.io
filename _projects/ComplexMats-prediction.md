@@ -12,13 +12,10 @@ project_date: 2020-2024
 contribute: 
 learn_more: 
 shared_library: 
-recruiting: 1 PhD student (with financial support)
+recruiting: 
 last_modified_at: 2020-06-23T12:17:43-04:00
 usemathjax: true 
 ---
-
-I am currently recruiting a **PhD student in Mechanical Engineering** to work on this project with me, [please contact me ASAP if you are interested or would like more information](/research_opportunities/#how-to-apply).
-{: .notice--danger}
 
 ## "Complex" (composite) materials
 
@@ -104,8 +101,6 @@ Although DIC is becoming quite popular when it comes to the characterization of 
     <a href=""> <iframe width="560" height="315" src="https://www.youtube.com/embed/MfHjYKjaLcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </a>
 </figure>
 
-The goal of this project is to do just that, and I'm [looking for a motivated PhD student to work on this with me](/research_opportunities/#how-to-apply). 
-{: style="text-align: justify;"}
 
 ## Notes and references
 

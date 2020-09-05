@@ -17,6 +17,14 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+mcmpodcast-stelia-rdelorme:
+  - title: Liens utiles
+    children:
+      - title: "Rolland Delorme"
+        url: "https://ca.linkedin.com/in/rollanddelorme/en-us"
+      - title: "Stelia North America"
+        url: "http://stelia-northamerica.com/"
+
 projects-ambu:
   - title: Partners/Affiliations
     children:
