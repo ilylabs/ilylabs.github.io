@@ -25,6 +25,14 @@ mcmpodcast-stelia-rdelorme:
       - title: "Stelia North America"
         url: "http://stelia-northamerica.com/"
 
+mcmpodcast-bombardier-iparis:
+  - title: Liens utiles
+    children:
+      - title: "Isabelle Paris"
+        url: "https://www.linkedin.com/in/isabelle-paris-84132011"
+      - title: "Bombardier"
+        url: "https://www.bombardier.com/fr/aviation.html"
+
 projects-ambu:
   - title: Partners/Affiliations
     children:
