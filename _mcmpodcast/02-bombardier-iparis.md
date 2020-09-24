@@ -5,9 +5,9 @@ header:
   teaser: /assets/mcmpodcast/02-bombardier-iparis.png
 sidebar:
   - nav: "mcmpodcast-bombardier-iparis"
-project_date: 2020-08-22 11:42:00
+project_date: 2020-09-22 07:30:00
 partners: Isabelle Paris, Bombardier
-file: "https://ia801404.us.archive.org/29/items/20200822-stelia-rolland-delorme/20200822-Stelia-RollandDelorme.mp3"
+file: "https://archive.org/download/isabelle_paris_final/isabelle_paris_final.mp3"
 keywords: composites, normes qualité, aéronautique, procédés de fabrication
 ---
 
