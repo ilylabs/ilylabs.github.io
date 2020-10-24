@@ -33,6 +33,14 @@ mcmpodcast-bombardier-iparis:
       - title: "Bombardier"
         url: "https://www.bombardier.com/fr/aviation.html"
 
+mcmpodcast-hutchinson-mbenavente:
+  - title: Liens utiles
+    children:
+      - title: "Maria Benavente"
+        url: "https://www.linkedin.com/in/maria-benavente-a1435347"
+      - title: "Hutchinson"
+        url: "https://www.hutchinson.com/en/montr%C3%A9al"
+
 projects-ambu:
   - title: Partners/Affiliations
     children:
