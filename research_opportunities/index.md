@@ -22,17 +22,8 @@ To **apply**, send me an e-mail with:
 
 ## Funded positions
 
-* **October 2020, a Master of Applied Science (M.A.Sc.) student in Mechanical Engineering**, learn more about the project here: [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)
-  * [Official offer on ÉTS website](https://www.etsmtl.ca/recherche/etudes-superieures-et-recherche/projets-de-recherche-pour-etudiants/developpement-et-caracterisation-d%e2%80%99un-procede-pour/)
 
-* **January 2021, a PhD candidate in Mechanical Engineering**, learn more about the project here: [The experimental study of consolidation](/projects/PolyProc-consolidate.md)
-
-<!-- 
-* **May 2020, 1 Postdoctoral fellow (1 year contract)**, please see the [Materials for Respiratory Protective Equipment project](/projects/COVID-cottonmasks)
-* No funded opportunities are currently available
--->
-
-
+* **Summer 2021, a PhD candidate in Mechanical/Biomedical Engineering**
 
 ## Funding opportunities
 

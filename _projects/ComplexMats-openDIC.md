@@ -1,16 +1,16 @@
 ---
-title: "Digital Image Correlation"
-excerpt: "Full field measurement methods: Digital Image Correlation"
+title: "(open) Digital Image Correlation"
+excerpt: "Toward a fully open source Digital Image Correlation protocole. Full field measurement methods: Digital Image Correlation"
 sidebar:
   - nav: "projects-mudic"
 header:
   teaser: /assets/images/projects/ComplexMats/muDIC-pointcloud.gif
-category: [Heterogeneous materials]
+category: [Full field characterization]
 tags: [full field measurements, digital image correlation, open source, open science, python]
-partners: PolymerGuy, Nicolas Thuard, d-lamin8, Dr. Patrick Diehl
-project_date: "Summer 2020"
-contribute: https://github.com/PolymerGuy/muDIC/issues
-learn_more: https://github.com/PolymerGuy/muDIC
+partners: PolymerGuy, Nicolas Thuard, Alessandra Lingua, Stéphane Hu
+project_date: "Summer 2020 - Summer 2025"
+contribute: 
+learn_more: 
 shared_library: https://www.zotero.org/groups/2460484/extremedic/items
 recruiting:
 last_modified_at: 2020-05-14T12:17:43-04:00
@@ -75,14 +75,31 @@ This assumption does not hold in the case of **heterogeneous materials** (such a
 {: style="text-align: justify;"}
 
 
-## $$\mu$$DIC
+## Open Source software relevant for this project
+
+A fully open source stereo DIC system thus requires an acquisition system capable of simultaneously acquiring images from several cameras at the same time, and an open source DIC analysis software. 
+
+### $$\mu$$DIC
 
 [$$\mu$$DIC](https://github.com/PolymerGuy/muDIC) is a python toolktit for DIC written in Python. It contains tools designed to perform DIC analysis on experimental data as well as tools to perform virtual DIC experiments. There's also a nice publication about the projet[^4]. The package was developed by:
 
 * Sindre Olufsen - Implementation - [PolymerGuy](https://github.com/polymerguy)
 * Marius Endre Andersen - Wrote the Matlab code on which this is based
 
-Our group will help implement additional features of the $$\mu$$DIC package, such as subset based DIC, stereo calibration or different kinds of elements.
+### Digital Image Correlation engine (DICe)
+
+[DICe](https://github.com/dicengine/dice) is an open source DIC tool intended for use as a module in an external application or as a standalone analysis code. Its primary capabilities are computing full-field displacements and strains from sequences of digital images and rigid body motion tracking of objects. It supports stereo-DIC through opencv calibration, it is capable of subset based and global DIC.
+
+### ets-lipec/camera_toolkit
+
+[This toolkit is a homemade python package](https://github.com/ets-lipec/camera_toolkit) that can be used to simultaneously trigger/acquire 3 different kinds of devices:
+* USB webcams compatible with opencv
+* Any camera that can be triggered using gphoto2
+* The ADC channel of an Arduino
+
+This package can be used to trigger one or several DSLRs while also acquiring frames from one or several opencv webcams and acquiring the votlage value from an arduino. It can be used to acquire data for DIC analysis while testing a mechanical part as the force value from the tensile testing equipment can be acquired through the arduino as a 0/5V signal at the same moment a picture is acquired. Since it supports several cameras simultaneously (it uses threading to do so) it can be used for stereo-DIC. Information about each shot is saved in a database.
+
+It's an ongoing work.
 
 #### References and Notes
 

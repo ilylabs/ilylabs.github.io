@@ -4,12 +4,14 @@ main:
     url: /projects/
   - title: "Research Opportunities"
     url: /research_opportunities/
+  - title: "Team"
+    url: /team/
   - title: "Courses"
     url: /courses/
   - title: "Contributions"
     url: /publications/
-  - title: "Posts"
-    url: /posts/
+  #- title: "Posts"
+  #  url: /posts/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -96,8 +98,8 @@ projects-cottonmasks:
     children:
       - title: "Pre. Martine Dubé"
         url: "https://www.etsmtl.ca/Professeurs/mdube/Accueil"
-      - title: "Mysterious Industrial Partner"
-        url: "https://www.youtube.com/watch?v=fq3abPnEEGE"
+      - title: "Supermax Medical Canada"
+        url: "https://aureliagloves.com/"
 
 projects-mudic:
   - title: The Open Source Project
@@ -112,7 +114,7 @@ projects-mudic:
         url: "https://github.com/PolymerGuy"
       - title: "Nicolas Thuard"
         url: ""
-      - title: "d-lamin8"
+      - title: "Alessandra Lingua"
         url: ""
       - title: "Dr. Patrick Diehl"
         url: "https://www.diehlpk.de/"

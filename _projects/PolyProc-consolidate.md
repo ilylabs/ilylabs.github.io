@@ -3,7 +3,7 @@ title: "The experimental study of consolidation"
 excerpt: "We are currently recruiting a PhD student to work with Pr. Martine Dubé and I on this subject and provide a better understanding of the processes behind the manufacturing of thermoplastic composites"
 header:
   teaser: /assets/images/projects/PolyProcs-clogged-squirrel.gif
-category: [Polymer processing]
+category: [Polymers & Composites]
 tags: [in-situ consolidation, composites, 3d-printing, thermoplastics, welding]
 sidebar:
   - nav: "projects-consolidate"
@@ -12,13 +12,10 @@ contribute:
 learn_more: 
 partners: [Pr. Martine Dubé]
 shared_library: 
-recruiting: 1 PhD ? + Ethan Cabon, Andre Correa, 
+recruiting: Ethan Cabon, Andre Correa
 last_modified_at: 2020-06-23T12:17:43-04:00
 usemathjax: true 
 ---
-
-We are currently recruiting a PhD student to work with Pr. Martine Dubé and I on this subject and provide a better understanding of the processes behind the manufacturing of thermoplastic composites.
-{: .notice--warning}
 
 # The adoption of high preformance composite materials
 

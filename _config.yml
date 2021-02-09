@@ -306,6 +306,30 @@ defaults:
       classes: wide
       comments: true
       related: true
+  # _pastprojects
+  - scope:
+      path: ""
+      type: pastprojects
+    values:
+      layout: project
+      author_profile: false
+      read_time: true
+      share: true
+      classes: wide
+      related: true
+      comments: true
+  # _teammembers
+  - scope:
+      path: ""
+      type: teammembers
+    values:
+      layout: member
+      author_profile: false
+      read_time: false
+      share: false
+      classes: wide
+      related: false
+      comments: false
 
 collections:
   projects:
@@ -313,6 +337,14 @@ collections:
     permalink: /:collection/:path/
     sort_by: category
   mcmpodcast:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: category
+  pastprojects:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: category
+  teammembers:
     output: true
     permalink: /:collection/:path/
     sort_by: category
