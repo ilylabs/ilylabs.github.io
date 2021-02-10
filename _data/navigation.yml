@@ -142,3 +142,11 @@ projects-heteromaterials:
         url: "https://ilylabs.github.io/projects/ComplexMats-openDIC/"
       - title: "The fascinating world of kelp"
         url: "http://www3.botany.ubc.ca/martone/"
+
+projects-lungleaks:
+  - title: Partners
+    children:
+      - title: "Professor Isabelle Villemure"
+        url: "https://www.polymtl.ca/expertises/en/villemure-isabelle"
+      - title: "Dr. George Rakovich M.D."
+        url: "https://www.ctsnet.org/home/grakovich"

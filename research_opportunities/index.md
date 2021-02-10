@@ -22,8 +22,7 @@ To **apply**, send me an e-mail with:
 
 ## Funded positions
 
-
-* **Summer 2021, a PhD candidate in Mechanical/Biomedical Engineering**
+* **Summer 2021, currently recruiting a PhD candidate in Mechanical/Biomedical Engineering**, [learn more here](/projects/ComplexMats-lungs)
 
 ## Funding opportunities
 
