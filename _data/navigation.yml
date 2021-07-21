@@ -2,12 +2,12 @@
 main:
   - title: "Projects"
     url: /projects/
+  - title: "Courses"
+    url: /courses/
   - title: "Research Opportunities"
     url: /research_opportunities/
   #- title: "Team"
   #  url: /team/
-  - title: "Courses"
-    url: /courses/
   - title: "Contributions"
     url: /publications/
   #- title: "Posts"
