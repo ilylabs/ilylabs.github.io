@@ -17,6 +17,9 @@ last_modified_at: 2020-05-14T11:35:26-04:00
 usemathjax: true
 ---
 
+This project is partly financed by [MITACS](https://www.mitacs.ca/).
+{: .notice--info}
+
 ## Context
 
 The current pandemic has pushed us to employ all the means available to slow down the spread of the virus ([keep R0 as low as possible](../../projects/COVID-trackers)) first through **(1) quarantining measures**, which appears to be the most efficient kind of measure, and then through **(2) social distancing** and minimizing travel outside of home as much as possible. Several governments and states worldwide are feeling that the spread of the virus is now under control, and quarantining measures are being gradually lifted in some places. However, that does not mean that the virus is gone, the **virus is still out there** and is still a significant threat for a large portion of the population[^1]. 

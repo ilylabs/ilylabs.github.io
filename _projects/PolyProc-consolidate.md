@@ -7,13 +7,13 @@ category: [Polymers & Composites]
 tags: [in-situ consolidation, composites, 3d-printing, thermoplastics, welding]
 sidebar:
   - nav: "projects-consolidate"
-project_date: 2020-2024
+project_date: 2020-2025
 contribute: 
 learn_more: 
-partners: [Pr. Martine Dubé]
+partners: [Prof. Martine Dubé]
 shared_library: 
-recruiting: Ethan Cabon, Andre Correa
-last_modified_at: 2020-06-23T12:17:43-04:00
+recruiting: Ethan Cabon, Andre Correa, Maryam Sshokrollahi
+last_modified_at: 2021-06-22T12:17:43-04:00
 usemathjax: true 
 ---
 

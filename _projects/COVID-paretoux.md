@@ -26,6 +26,9 @@ shared_library: https://www.zotero.org/groups/2499567/aerosolbox-public/library
 last_modified_at: 2020-05-08T21:17:22-04:00
 ---
 
+This project is partly finance by [NSERC](https://www.nserc-crsng.gc.ca/).
+{: .notice--info}
+
 This project now has a dedicated website:
 [Visit the project's website](https://paretoux.github.io/){: .btn .btn--danger .btn--large}
 {: style="text-align: center;"}

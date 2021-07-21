@@ -20,9 +20,13 @@ To **apply**, send me an e-mail with:
 * Short motivation letter: introduce yourself and clearly explain why you are contacting me
 * Links toward additional information that you deem to be relevant
 
-## Funded positions
+## Funded positions currently available
 
-* **Summer 2021, currently recruiting a PhD candidate in Mechanical/Biomedical Engineering**, [learn more here](/projects/ComplexMats-lungs)
+Open positions here!
+{: .notice--danger}
+
+* **Fall 2021, currently recruiting a PhD candidate in Mechanical/Materials Engineering**, [learn more about the project here](/projects/PolyProc-EEGElectrodes)
+* **Fall 2021, currently recruiting a Master of Science candidate in Mechanical/Materials Engineering**, [learn more about the project here](/projects/Polyproc-3dprintedballoons)
 
 ## Funding opportunities
 

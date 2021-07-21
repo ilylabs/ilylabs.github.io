@@ -180,3 +180,21 @@ labosminilipec-thermoplastic:
     children:
     - title: "Site du cours"
     url: "https://www.etsmtl.ca/etudes/cours/MEC786"
+
+projects-dry_EEG:
+  - title: "Partners"
+    children:
+    - title: "Beam Me Up Augmented Intelligence"
+      url: "https://www.bmu.co/"
+    - title: "Prof. Gelareh Momen"
+      url: "http://cqmf-qcam.ca/uqac-en/gelareh-momen"
+    - title: "Daniel Poirier eng."
+      url: "https://www.polymtl.ca/crepec/en/membres/poirier-daniel"
+    - title: "Prof. Éric David"
+      url: "https://www.etsmtl.ca/en/research/professors/edavid/"
+
+projects-3dballon:
+  - title: "Partners"
+    children:
+    - title: "Prof. David St-Onge"
+      url: "https://www.etsmtl.ca/en/research/professors/dastonge/"

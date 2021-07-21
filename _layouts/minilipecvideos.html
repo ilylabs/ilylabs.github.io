@@ -1,0 +1,16 @@
+---
+layout: single
+---
+
+{{ content }}
+
+{% assign groups = site.labosminilipec | group_by: "category" | sort: "name" %}
+{% for group in groups %}
+    <h2 id="{{group.name | slugify}}">{{ group.name | remove: '["' | remove: '"]'  }}</h2>
+
+  {%- for post in group.items -%}
+    {%- unless post.hidden -%}
+      {% include minilipecvideo-single.html %}
+    {%- endunless -%}
+  {%- endfor -%}
+{% endfor %}

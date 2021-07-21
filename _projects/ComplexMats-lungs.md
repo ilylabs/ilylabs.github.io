@@ -12,13 +12,11 @@ project_date: 2021-2024
 contribute: 
 learn_more: 
 shared_library: 
-recruiting: 1 PhD student
-last_modified_at: 2021-02-09T12:17:43-04:00
+recruiting: Magalie Mambangui
+last_modified_at: 2021-07-21T12:17:43-04:00
 usemathjax: true 
 ---
 
-We are currently recruiting a PhD student to work on this subject. [Contact me if you are interested.](/research_opportunities/index.md)
-{: .notice--warning}
 
 #### First phase of the project
 
@@ -44,5 +42,3 @@ The work of Bénédicte Bonnet is summarized in the following poster:
 #### Second phase of the project
 
 [Pr. Isabelle Villemure](https://www.polymtl.ca/expertises/en/villemure-isabelle), [Dr. George Rakovich M.D.](https://www.ctsnet.org/home/grakovich) and myself are currently pursuing this project with a second phase that aims at studying the local mechanics and behavior of airleaks that appear after resection.
-
-To do so, we are currently hiring a **PhD student in Mechcanical Engineering**. [Follow the instruction provided here if you'd like to apply](/research_opportunities/index.md).
