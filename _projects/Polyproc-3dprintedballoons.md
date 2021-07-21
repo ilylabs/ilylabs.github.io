@@ -27,7 +27,7 @@ However, in recent years, with the development of new materials, new knowledge, 
 {: style="text-align: justify;"}
 
 <center>
-<a href=""><img src="/assets/images/projects/3dballon-rigid.jpg" width="60%"></a>
+<a href=""><img src="/assets/images/projects/3dballon-rigid.jpg" width="50%"></a>
 </center>
 A blimp!
 {: style="text-align: center; font-size:13px; font-style: italic;"}
@@ -38,7 +38,7 @@ A blimp!
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5oJnm3KTDz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
-The top image shows an example of two commercial systems sold by Bitbrain. The bottom image presents the difference between wet and dry electrodes (Bibtrain).
+The INIT Robots lab flying their blimp around the room.
 {: style="text-align: center; font-size:13px; font-style: italic;"}
 
 To do so, we are currently hiring a **Master of Science student in Mechcanical Engineering**. [Follow the instruction provided here if you'd like to apply](/research_opportunities/index.md).
