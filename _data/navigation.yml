@@ -4,8 +4,8 @@ main:
     url: /projects/
   - title: "Research Opportunities"
     url: /research_opportunities/
-  - title: "Team"
-    url: /team/
+  #- title: "Team"
+  #  url: /team/
   - title: "Courses"
     url: /courses/
   - title: "Contributions"
@@ -150,3 +150,33 @@ projects-lungleaks:
         url: "https://www.polymtl.ca/expertises/en/villemure-isabelle"
       - title: "Dr. George Rakovich M.D."
         url: "https://www.ctsnet.org/home/grakovich"
+
+labosminilipec-infusion:
+  - title: "Nicolas Côté"
+    children:
+    - title: "Linked In"
+    url: "https://www.linkedin.com/in/nicolas-c%C3%B4t%C3%A9-625a45132/"
+  - title: "MEC786"
+    children:
+    - title: "Site du cours"
+    url: "https://www.etsmtl.ca/etudes/cours/MEC786"
+
+labosminilipec-prepegs:
+  - title: "Nicolas Côté"
+    children:
+    - title: "Linked In"
+    url: "https://www.linkedin.com/in/nicolas-c%C3%B4t%C3%A9-625a45132/"
+  - title: "MEC786"
+    children:
+    - title: "Site du cours"
+    url: "https://www.etsmtl.ca/etudes/cours/MEC786"
+
+labosminilipec-thermoplastic:
+  - title: "Nicolas Côté"
+    children:
+    - title: "Linked In"
+    url: "https://www.linkedin.com/in/nicolas-c%C3%B4t%C3%A9-625a45132/"
+  - title: "MEC786"
+    children:
+    - title: "Site du cours"
+    url: "https://www.etsmtl.ca/etudes/cours/MEC786"

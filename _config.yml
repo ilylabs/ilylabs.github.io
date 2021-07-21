@@ -306,6 +306,18 @@ defaults:
       classes: wide
       comments: true
       related: true
+  # _labosminilipec
+  - scope:
+      path: ""
+      type: labosminilipec
+    values:
+      layout: minilipecvideo
+      author_profile: false
+      read_time: true
+      share: true
+      classes: wide
+      comments: true
+      related: true
   # _pastprojects
   - scope:
       path: ""
@@ -348,3 +360,7 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort_by: category
+  labosminilipec:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: category   
