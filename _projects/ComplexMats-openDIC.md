@@ -12,7 +12,7 @@ project_date: "Summer 2020 - Summer 2025"
 contribute: 
 learn_more: 
 shared_library: https://www.zotero.org/groups/2460484/extremedic/items
-recruiting:
+recruiting: Stéphane Hu (du 67)
 last_modified_at: 2020-05-14T12:17:43-04:00
 usemathjax: true 
 ---
