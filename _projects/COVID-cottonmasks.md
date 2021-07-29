@@ -4,10 +4,13 @@ excerpt:  "Development of a process specifically aimed at the production of Mate
 header:
   teaser: /assets/images/projects/COVID-masknonwoven.png
 sidebar:
-  nav: "projects-cottonmasks"
+  - title: ""
+    image: "/assets/images/projects/nonwovens-aurelia.png"
+    image_alt: "aurelia gloves"
+    nav: "projects-cottonmasks"
 category: [Polymers & Composites]
 tags: [COVID19, polymer processing, nonwoven fabric, respiratory protective equipment]
-partners: [Pre. Martine Dubé, Supermax Medical Canada]
+partners: [Pre. Martine Dubé, Aurelia gloves]
 project_date: "Summer 2020 - ?"
 contribute: 
 recruiting: 

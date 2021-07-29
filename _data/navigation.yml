@@ -96,10 +96,10 @@ projects-paretoux:
 projects-cottonmasks:
   - title: Partners/Affiliations
     children:
+      - title: "Aurelia Gloves"
+        url: "https://aureliagloves.com/"
       - title: "Pre. Martine Dubé"
         url: "https://www.etsmtl.ca/Professeurs/mdube/Accueil"
-      - title: "Supermax Medical Canada"
-        url: "https://aureliagloves.com/"
 
 projects-mudic:
   - title: The Open Source Project
@@ -198,3 +198,13 @@ projects-3dballon:
     children:
     - title: "Prof. David St-Onge"
       url: "https://www.etsmtl.ca/en/research/professors/dastonge/"
+
+projects-metamaterials:
+  - title: Partners/Affiliations
+    children:
+      - title: "Vijithan Rajaratnam"
+        url: "https://ca.linkedin.com/in/vijithan-rajaratnam-694393a8"
+  - title: Publications
+    children:
+      - title: "Polychronopoulos and Memoli 'Acoustic Levitation with Optimized Reflective Metamaterials.'"
+        url: "https://doi.org/10.1038/s41598-020-60978-4"
