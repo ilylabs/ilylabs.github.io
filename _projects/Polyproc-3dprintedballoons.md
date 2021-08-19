@@ -11,7 +11,6 @@ partners: Prof. David St-Onge, Louis Catar (PhD)
 project_date: "2021 - 2025"
 contribute: 
 last_modified_at: 2021-07-22T12:17:43-04:00
-usemathjax: true 
 ---
 
 We are currently **recruiting a Master of Science student** to work on this subject. [Contact me if you are interested.](/research_opportunities/index.md)
@@ -23,7 +22,7 @@ We are currently **recruiting a Master of Science student** to work on this subj
 A lightweight 3D printed structure after tensile failure
 {: style="text-align: center; font-size:13px; font-style: italic;"}
 
-The blimp or zeppelin is an aircraft, also called **aerostat** (shown in the figure below[^1]), that has the essential characteristic of being **lighter-than-air**. Airship technologies have known a golden age in the early twentieth century followed by a sudden decline with the advent of commercial aviation. During their short popular era, several dramatic accidents involving blimps have tainted the reputation of such vehicles. 
+The blimp or zeppelin is an aircraft, also called **aerostat** (shown in the figure below[^1] ), that has the essential characteristic of being **lighter-than-air**. Airship technologies have known a golden age in the early twentieth century followed by a sudden decline with the advent of commercial aviation. During their short popular era, several dramatic accidents involving blimps have tainted the reputation of such vehicles. 
 Recent developments of drones, mainly quadcopters, have allowed for their usage in **several indoor cases** (exploration). However, the limited capacity of quadcopters limits their capabilities for long-duration missions. 
 However, in recent years, with the development of new materials, new knowledge, and possibilities in automation, aerostats offer an alternative transport solution with **less energy consumption**. This characteristic would allow for **longer missions**. 
 {: style="text-align: justify;"}
@@ -46,6 +45,6 @@ The INIT Robots lab flying their blimp around the room.
 To do so, we are currently hiring a **Master of Science student in Mechcanical Engineering**. [Follow the instruction provided here if you'd like to apply](/research_opportunities/index.md).
 
 
-­[^1]: C. Stockbridge, A. Ceruti, and P. Marzocca, *"Airship Research and Development in the Areas of Design, Structures, Dynamics and Energy Systems"* International Journal of Aeronautical and Space Sciences, vol. 13, pp. 170–187, Jun. 2012, doi: 10.5139/IJASS.2012.13.2.170.
+­[^1]:C. Stockbridge, A. Ceruti, and P. Marzocca, *"Airship Research and Development in the Areas of Design, Structures, Dynamics and Energy Systems"* International Journal of Aeronautical and Space Sciences, vol. 13, pp. 170-187, Jun. 2012, doi: 10.5139/IJASS.2012.13.2.170
 
-[^2]: S. Drucker, S. Inman, and B. Fiedler, *"Simulation and optimization of the load introduction geometry of additively manufactured lattice structure specimens"* ECCM 2018 - 18th European Conference on Composite Materials, 2018
+[^2]:S. Drucker, S. Inman, and B. Fiedler, *"Simulation and optimization of the load introduction geometry of additively manufactured lattice structure specimens"* ECCM 2018 - 18th European Conference on Composite Materials, 2018

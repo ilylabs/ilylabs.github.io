@@ -44,7 +44,7 @@ The pattern is called a **speckle pattern** as it is often made using a **random
     <a href="https://mudic.readthedocs.io/en/latest/intro/dic_intro.html"><img src="/assets/images/projects/ComplexMats/muDIC-deformation.gif" width="60%"></a>
     <a href="https://mudic.readthedocs.io/en/latest/intro/dic_intro.html"><img src="/assets/images/projects/ComplexMats/muDIC-speckle048.gif"  width="60%"></a>
 </figure>
-*Left: Mineral filled PVC under monotonic load[^8]. Right:  Interfacial debonding of a 1mm in diameter PTFE fiber embedded in Epoxy, tensile load is applied along the vertical direction [^7]*
+Left: Mineral filled PVC under monotonic load[^8]. Right:  Interfacial debonding of a 1mm in diameter PTFE fiber embedded in Epoxy, tensile load is applied along the vertical direction [^7]
 {: style="text-align: center; font-size:13px; font-style: italic;"}
 
 After covering a specimen with a **speckle pattern**, the specimen is setup in some kind of **testing equipment** (such as a tensile testing machine). Cameras are setup in front of the machine in order to capture consecutive images of the surface that was covered with a speckle pattern. It is usually necessary to undergo some sort of **spatial calibration** here in order to later be able to perform **accurate metric measurements** on the captured images. The following video presents the main steps of a real DIC experiment:

@@ -11,7 +11,6 @@ project_date: Summer 2021 - Fall 2021
 partners: [Vijithan Rajaratnam]
 shared_library: https://www.zotero.org/groups/2737409/metacousticlevitation/library
 last_modified_at: 2021-07-28T12:17:43-04:00
-usemathjax: true 
 ---
 
 Levitation is defined as an *"equilibrium state of an object that allows suspension without contact".* Most levitation is today obtained using **magnetic levitation**, meaning that it relies on magnetic fields to achieve levitation. This kind of levitation is quite cool, as can be seen in the images below. It can be used to make complex mechanisms such as [magnetic gears](https://en.wikipedia.org/wiki/Magnetic_gear). The main drawback is that **it only works for magnetic materials, which is not the case for polymers**.

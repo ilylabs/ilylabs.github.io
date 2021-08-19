@@ -208,3 +208,12 @@ projects-metamaterials:
     children:
       - title: "Polychronopoulos and Memoli 'Acoustic Levitation with Optimized Reflective Metamaterials.'"
         url: "https://doi.org/10.1038/s41598-020-60978-4"
+
+
+projects-dicanamorphosis:
+  - title: "Partners"
+    children:
+    - title: "Stéphane Hu"
+      url: "https://www.linkedin.com/in/st%C3%A9phane-hu-593349119/"
+    - title: "Yvan Dilem"
+      url: "https://www.linkedin.com/in/yvan-dilem-1b9197139"

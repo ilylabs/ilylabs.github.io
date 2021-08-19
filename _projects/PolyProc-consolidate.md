@@ -12,7 +12,7 @@ contribute:
 learn_more: 
 partners: [Prof. Martine Dubé]
 shared_library: 
-recruiting: Ethan Cabon, Andre Correa, Maryam Sshokrollahi
+recruiting: Ethan Cabon, Andre Correa
 last_modified_at: 2021-06-22T12:17:43-04:00
 usemathjax: true 
 ---
