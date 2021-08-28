@@ -12,7 +12,7 @@ contribute:
 learn_more: 
 partners: [Beam Me Up Augmented Intelligence, Prof. Éric David, Daniel Poirier eng., Prof. Gelareh Momen]
 shared_library: 
-recruiting: 1 PhD student
+recruiting: 1MEng, 1 PhD
 last_modified_at: 2021-06-22T12:17:43-04:00
 usemathjax: true 
 ---

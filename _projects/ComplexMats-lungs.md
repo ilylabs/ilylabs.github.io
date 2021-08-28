@@ -18,7 +18,7 @@ usemathjax: true
 ---
 
 
-#### First phase of the project
+## First phase of the project
 
 The first phase of this project was carried out by [Bénédicte Bonnet](https://ca.linkedin.com/in/b%C3%A9n%C3%A9dicte-bonnet-7b14a065/en-us) (now a happy Msc in biomedical engineering) and mainly aimed at developing an experimental setup that can be used to quantify and better understand the presence of air leaks in lungs after resection. The study was supervised by [Pr. Frédérick Gosselin](http://fgosselin.meca.polymtl.ca), [Pr. Isabelle Villemure](https://www.polymtl.ca/expertises/en/villemure-isabelle) and [Dr. George Rakovich M.D.](https://www.ctsnet.org/home/grakovich). 
 There will be a publication for this one, it is currently under review.
@@ -39,6 +39,6 @@ The animation on the right shows that lungs do not deform homogeneously during i
 The work of Bénédicte Bonnet is summarized in the following poster:
 ![Lungs poster](/assets/images/projects/poster_lungs.png)
 
-#### Second phase of the project
+## Second phase of the project
 
-[Pr. Isabelle Villemure](https://www.polymtl.ca/expertises/en/villemure-isabelle), [Dr. George Rakovich M.D.](https://www.ctsnet.org/home/grakovich) and myself are currently pursuing this project with a second phase that aims at studying the local mechanics and behavior of airleaks that appear after resection.
+[Pr. Isabelle Villemure](https://www.polymtl.ca/expertises/en/villemure-isabelle), [Dr. George Rakovich M.D.](https://www.ctsnet.org/home/grakovich) and myself are currently pursuing this project with a second phase that aims at studying the local mechanics and behavior of airleaks that appear after resection. We are currently looking for an industrial partner in order to pursue this project.

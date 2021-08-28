@@ -100,6 +100,10 @@ projects-cottonmasks:
         url: "https://aureliagloves.com/"
       - title: "Pre. Martine Dubé"
         url: "https://www.etsmtl.ca/Professeurs/mdube/Accueil"
+  - title: "Supported by"
+    children:
+    - title: "MITACS"
+      url: "https://www.mitacs.ca/"
 
 projects-mudic:
   - title: The Open Source Project
@@ -192,6 +196,10 @@ projects-dry_EEG:
       url: "https://www.polymtl.ca/crepec/en/membres/poirier-daniel"
     - title: "Prof. Éric David"
       url: "https://www.etsmtl.ca/en/research/professors/edavid/"
+  - title: "Supported by"
+    children:
+    - title: "CREPEC"
+      url: "https://www.polymtl.ca/crepec/en"
 
 projects-3dballon:
   - title: "Partners"

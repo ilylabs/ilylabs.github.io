@@ -16,9 +16,12 @@ contribute:
 recruiting: 
 learn_more: 
 shared_library: 
-last_modified_at: 2020-05-14T11:35:26-04:00
+last_modified_at: 2021-08-28T18:29:26-04:00
 usemathjax: true
 ---
+
+We are currently **recruiting a MEng and a PhD student** to work on this subject. [Contact me if you are interested.](/research_opportunities/index.md)
+{: .notice--danger}
 
 This project is partly financed by [MITACS](https://www.mitacs.ca/).
 {: .notice--info}
@@ -79,9 +82,20 @@ Non Woven Polypropylene is critical for RPEs, this filtration material is manufa
 The process is simple and it does not require solvents or dangerous products. The current **issue is that factories worldwide are producing as much NWP as quickly as possible**, in addition to manufacturing as many melt blowing machine as quickly as possible, there is still however **a significant risk**, due to the uncertainty regarding the arrival of unexpected *second waves*, that **the demand will remain higher than the production capabilities for months or even years to come**. 
 {: style="text-align: justify;"}
 
-The development of local manufacturing solutions that can provide a **robust alternative to melt blowing can make a significant difference in the months and years to come**.
+## Cotton-candy masks
+
+**Centrifugal spinning** is a technique for manufacturing polymeric fibers to form nonwoven textiles. Inspired by the **cotton-candy method**, this technique relies on centrifugal force to **eject a jet of molten polymer and to stretch it rapidly before collecting the consolidated fibers into an entangled mat**. By controlling the rotation speed, the temperature of the molten material and the geometry of the nozzles, this technology allows the production of high quality fibers with **micrometric or even nanometric diameters**. The high productivity and versatility of the polymers used makes the cotton-candy method very attractive for the biomedical, filtration and high performance textile industries.
 {: style="text-align: justify;"}
 
+
+<figure class="half">
+    <a href=""><img src="/assets/images/projects/Nonwovens-slowmo.gif" width="100%"></a>
+    <a href=""><img src="/assets/images/projects/Nonwovens-slowmo.gif" width="100%"></a>
+</figure>
+*The GIF on the left shows a centrifugal melt spinneret while it's extruding a fiber using and ultra high speed cameraé*
+{: style="text-align: center; font-size:13px; font-style: italic;"}
+
+We are currently looking for a PhD student to help us adapt this method for boidegradable polymers.
 
 {% comment %}
 ## Filtration mechanisms
