@@ -43,6 +43,17 @@ mcmpodcast-hutchinson-mbenavente:
       - title: "Hutchinson"
         url: "https://www.hutchinson.com/en/montr%C3%A9al"
 
+motioncomposites-poshaughnessey:
+  - title: Liens utiles
+    children:
+      - title: "Patrice Gouin O'Shaughnessey"
+        url: "https://ca.linkedin.com/in/patrice-gouin-o-shaughnessey-48962441"
+      - title: "Motion Composites"
+        url: "https://www.motioncomposites.com/"
+      - title: "MDA"
+        url: "https://mda.space/en/satellite-systems/"
+
+
 projects-ambu:
   - title: Partners/Affiliations
     children:
@@ -154,6 +165,7 @@ projects-lungleaks:
         url: "https://www.polymtl.ca/expertises/en/villemure-isabelle"
       - title: "Dr. George Rakovich M.D."
         url: "https://www.ctsnet.org/home/grakovich"
+
 
 labosminilipec-infusion:
   - title: "Nicolas Côté"
