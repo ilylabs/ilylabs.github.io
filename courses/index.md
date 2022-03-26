@@ -38,15 +38,42 @@ Je donne aussi le cours de [Mise en forme de polymères et composites (MEC786)](
 À cause de l'impact du COVID-19, il a été nécessaire de préparer des vidéos pour accomagner les laboratoires de composites des étudiants. Cela a été l'opportunité de tenter de préparer du contenu de qualité pour intéresser et encourager les étudiants à prendre part au laboratoire et au cours. [Nicolas Côté](https://www.linkedin.com/in/nicolas-c%C3%B4t%C3%A9-625a45132/), chargé de laboratoire, et moi même avons donc préparé une série de vidéos qui présente les procédés de fabrication et de caractérisation des matériaux composites.
 {: style="text-align: justify;"}
 
+## Philosophie des Sciences
+
+### En construction...
+
+Le travail autour de ce cours/atelier en est encore à ces début et est présentemnet en cours de rédacton et test sous un format *Google Clasroom*. Le cours aura pour but de sommairement présenter plusieurs thèmes dont l'importance est critique pour effectuer de la recherche scientifique. Il s'adresse principalement aux étudiants gradués qui rejoignent l'ÉTS et a pour but d'adresser ce qui apparait comme un manque dans la formation des jeunes chercheuses et chercheurs à travers trois sections:
+
+1. **La valeur du savoir**  
+(principalement basé sur "*Sci-Phi: Science Ficiton as Philosophy*" de D. K. Johnson)
+2. **Le problème de la démarcation**  
+(principalement basé sur "Philosophy of Science" de J. L. Kasser)
+3. **La Recherche scientifique aujourd'hui**  
+(basé sur une série de vidéos disponibles sur Youtube)
+
+### Apep
+
+Le cours se termine par une histoire sous format d'un jeu-texte qui permet d'explorer les concepts précedemment présentés à travers une histoire captivante écrite par [Hugo Labrande](https://twitter.com/hlabrande). Le jeu est disponible est peut être exploré ici (en Anglais): 
+
+* [Apep](/assets/apep/index.html){:target="\_blank"}  
+(prévoir 6 à 7 sessions de 15 à 20 minutes chacune avec possibilité de sauvegarde)
+
+## Python pour les étudiants gradués
+
+### En construction...
+
 ## Retours des étudiants
 
-**Clé usb dans le cerveau**
+**clé usb dans le cerveau**
 ![](/assets/courses/cle_usb_cerveau.png)
 
-**Donner lui un bonus**
+**donner lui un bonus**
 ![](/assets/courses/donner_lui_un_bonus.png)
 
 **Quiz Balado Dodo**
 ![](/assets/courses/quiz_balado_dodo.png)
+
+**a true gangsta**
+![](/assets/courses/true_gangsta.jpg)
 
 Merci aux étudiants pour leurs belles paroles ;)
