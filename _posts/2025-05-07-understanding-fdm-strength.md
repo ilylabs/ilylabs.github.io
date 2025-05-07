@@ -7,6 +7,7 @@ categories: [3D Printing, research]
 tags: [FFF, FGF, 3D Printing, PETG, Mechanical Properties, Anisotropy, Interface Bonding, Notches]
 ---
 
+Audio summary of this work generated thanks to NotebookLM:
 <audio controls>
   <source src="{{ site.baseurl }}/assets/audio/Notch_Effects_in_3D_Printed_Structures.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -21,9 +22,10 @@ However, a major roadblock to wider adoption, especially for high-performance ap
 
 ### The Culprits: Incomplete Bonding and Extrudate Geometry 
 
-<iframe src="https://widgets.figshare.com/articles/26980852/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
-
-Figure 1: Schematic of the main strength reduction mechanisms in FFF/FGF printed parts: a. Fast cooling of the extrudates prevents the complete interdiffusion of the polymer chains at the interface. b. Extrudate geometric features act as stress concentration areas. c. Porous mesostructure is also a result of the oval shape geometry of the extrudate.
+<figure style="text-align: center;">
+  <iframe src="https://widgets.figshare.com/articles/26980852/embed?show_title=1" width="738" height="456" allowfullscreen frameborder="0"></iframe>
+  <figcaption style="text-align: center;"><strong>Figure 1:</strong> Schematic of the main strength reduction mechanisms in FFF/FGF printed parts: a. Fast cooling of the extrudates prevents the complete interdiffusion of the polymer chains at the interface. b. Extrudate geometric features act as stress concentration areas. c. Porous mesostructure is also a result of the oval shape geometry of the extrudate.</figcaption>
+</figure>
 
 We've identified two main factors that contribute to this weakness: 
 
