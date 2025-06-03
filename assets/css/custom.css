@@ -1,0 +1,30 @@
+/* Custom styles to adjust spacing in posts list */
+.posts-list {
+  margin-top: 0;  /* Remove negative margin */
+  
+  h1.page__title {
+    margin-bottom: 0.5em;  /* Reduce space after Posts title */
+  }
+
+  .taxonomy__section {
+    margin-top: 1em;  /* Reduce space between year sections */
+    
+    &:first-child {
+      margin-top: 0.5em;  /* Reduce space after title for first year */
+    }
+
+    .archive__subtitle {
+      margin: 0.5em 0;  /* Balanced margins around year headings */
+      padding-bottom: 0.3em;  /* Slightly reduce padding under year */
+    }
+
+    .entries-list {
+      margin-top: 0.5em;  /* Reduce space between year heading and posts */
+    }
+  }
+
+  /* Adjust spacing between posts */
+  .archive__item {
+    margin-bottom: 1em;
+  }
+}
