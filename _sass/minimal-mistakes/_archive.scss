@@ -453,3 +453,15 @@
 		display: inline-block;
 	}
 }
+
+.posts-list {
+  margin-top: -2em;  // Reduce space between title and content
+  
+  .taxonomy__section {
+    margin-top: 2em;
+    
+    &:first-child {
+      margin-top: 1em;  // Less space for first year section
+    }
+  }
+}

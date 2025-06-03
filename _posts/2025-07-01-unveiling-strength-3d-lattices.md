@@ -8,7 +8,8 @@ tags: [Micro-Lattices, Photosensitive Polymers, Tensile Testing, Additive Manufa
 ---
 
 {: .notice--info}
-Under review
+Under review.  
+This work was possible thanks to the support of [Flying Whales](https://www.flying-whales.com/en/home/).
 
 ## Revolutionizing Aerospace with Advanced Micro-Lattice Structures
 
