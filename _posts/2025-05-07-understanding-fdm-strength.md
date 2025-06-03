@@ -8,14 +8,11 @@ tags: [FFF, FGF, 3D Printing, PETG, Mechanical Properties, Anisotropy, Interface
 ---
 
 {: .notice--info}
-**Publication associated with this work**:
-> Maryam Shokrollahi, Adam W. Smith, Arthur Levy, Martine Dubé, Ilyass Tabiai, "Reassessing anisotropy in 3D printed structures: The role of extrudate geometry vs interface bonding", Journal of Manufacturing Processes, Volume 149, 2025, Pages 456-472, ISSN 1526-6125, [https://doi.org/10.1016/j.jmapro.2025.05.070](https://www.sciencedirect.com/science/article/pii/S1526612525006322)
+**Publication associated with this work**: Maryam Shokrollahi, Adam W. Smith, Arthur Levy, Martine Dubé, Ilyass Tabiai, "Reassessing anisotropy in 3D printed structures: The role of extrudate geometry vs interface bonding", Journal of Manufacturing Processes, Volume 149, 2025, Pages 456-472, ISSN 1526-6125, [https://doi.org/10.1016/j.jmapro.2025.05.070](https://www.sciencedirect.com/science/article/pii/S1526612525006322)
 
-{: .notice}
-**Audio summary courtesy of NotebookLM**:
 <audio controls>
   <source src="{{ site.baseurl }}/assets/audio/Notch_Effects_in_3D_Printed_Structures.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+  Audio summary courtesy of NotebookLM.
 </audio>
 
 ## Unlocking the Potential of 3D Printing: New Insights into Mechanical Performance 
