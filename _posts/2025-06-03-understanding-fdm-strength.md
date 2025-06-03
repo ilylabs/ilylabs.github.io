@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Understanding 3D Print Strength: Notches vs. Bonding"
-date: 2025-05-07
+date: 2025-06-03
 author: "Maryam Shokrollahi, Adam W. Smith, Arthur Levy, Martine Dubé, Ilyass Tabiai"
 categories: [3D Printing, research]
 tags: [FFF, FGF, 3D Printing, PETG, Mechanical Properties, Anisotropy, Interface Bonding, Notches]
@@ -20,7 +20,7 @@ tags: [FFF, FGF, 3D Printing, PETG, Mechanical Properties, Anisotropy, Interface
 3D printing, also known as Additive Manufacturing (AM), is revolutionizing how we create objects.  From prototyping to producing consumer goods, its applications are expanding rapidly.  Two common polymer extrusion-based methods are Fused Filament Fabrication (FFF) and Fused Granular Fabrication (FGF). FFF uses pre-made filaments to create small-to-medium sized objects, while FGF uses polymer pellets to produce larger structures.
 {: style="text-align: justify;"}
 
-However, a major roadblock to wider adoption, especially for high-performance applications, is **the limited mechanical strength of the printed parts**.  Our recent research delves into why these parts aren't as strong as we'd like them to be. 
+However, a major roadblock to wider adoption, especially for high-performance applications, is **the limited mechanical strength of the printed parts**.  Our recent research offers novel proofs to determine why these parts aren't as strong as we'd like them to be. 
 
 ### The Culprits: Incomplete Bonding and Extrudate Geometry 
 
