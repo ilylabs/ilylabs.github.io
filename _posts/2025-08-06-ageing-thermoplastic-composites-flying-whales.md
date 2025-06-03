@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Understanding the Ageing of Thermoplastic Composites for Aerospace Applications"
-date: 2025-06-03
+date: 2025-08-06
 author: "Annelise Jean-Fulcrand, Ewen Léger, Frédéric Dau, Martine Dubé, Ilyass Tabiai"
 categories: [Materials Science, Aerospace, Composites]
 tags: [Thermoplastic Composites, Ageing, UV Radiation, Condensation, Carbon Fibre, Mechanical Properties, SEM, FTIR, DSC]
