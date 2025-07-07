@@ -8,7 +8,9 @@ tags: [Thermoplastic Composites, Ageing, UV Radiation, Condensation, Carbon Fibr
 ---
 
 {: .notice--info}
-**Publication associated with this work**: Annelise Jean-Fulcrand, Ewen Léger, Frédéric Dau, Martine Dubé, Ilyass Tabiai, Degradation mechanisms of CF/PPS, CF/PEI, and CF/PEEK under combined UV radiation and condensation, Composites Part A: Applied Science and Manufacturing, Volume 198, 2025, 109131, ISSN 1359-835X, [https://doi.org/10.1016/j.compositesa.2025.109131](https://www.sciencedirect.com/science/article/pii/S1359835X25004257)
+**Publication associated with this work**: Annelise Jean-Fulcrand, Ewen Léger, Frédéric Dau, Martine Dubé, Ilyass Tabiai, Degradation mechanisms of CF/PPS, CF/PEI, and CF/PEEK under combined UV radiation and condensation, Composites Part A: Applied Science and Manufacturing, Volume 198, 2025, 109131, ISSN 1359-835X, [https://doi.org/10.1016/j.compositesa.2025.109131](https://www.sciencedirect.com/science/article/pii/S1359835X25004257).
+This work was possible thanks to the support of [Flying Whales](https://www.flying-whales.com/en/home/).
+
 
 ## The Challenge of Durability: Thermoplastic Composites in Extreme Environments
 
