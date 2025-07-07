@@ -1,14 +1,14 @@
 ---
 layout: single
 title: "Understanding the Ageing of Thermoplastic Composites for Aerospace Applications"
-date: 2025-08-06
+date: 2025-07-07
 author: "Annelise Jean-Fulcrand, Ewen Léger, Frédéric Dau, Martine Dubé, Ilyass Tabiai"
 categories: [Materials Science, Aerospace, Composites]
 tags: [Thermoplastic Composites, Ageing, UV Radiation, Condensation, Carbon Fibre, Mechanical Properties, SEM, FTIR, DSC]
 ---
 
 {: .notice--info}
-Under review
+**Publication associated with this work**: Annelise Jean-Fulcrand, Ewen Léger, Frédéric Dau, Martine Dubé, Ilyass Tabiai, Degradation mechanisms of CF/PPS, CF/PEI, and CF/PEEK under combined UV radiation and condensation, Composites Part A: Applied Science and Manufacturing, Volume 198, 2025, 109131, ISSN 1359-835X, [https://doi.org/10.1016/j.compositesa.2025.109131](https://www.sciencedirect.com/science/article/pii/S1359835X25004257)
 
 ## The Challenge of Durability: Thermoplastic Composites in Extreme Environments
 

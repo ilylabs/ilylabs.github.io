@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Unveiling the Strength of Ultra-Lightweight 3D Printed Micro-Lattices"
-date: 2025-07-01
+date: 2025-08-06
 author: "Louis Catar, Ilyass Tabiai, David St-Onge"
 categories: [3D Printing, Materials Science, Aerospace]
 tags: [Micro-Lattices, Photosensitive Polymers, Tensile Testing, Additive Manufacturing, Ultra-lightweight]
