@@ -21,15 +21,9 @@
         <td markdown="span">{{ page.project_date | markdownify | strip_html | truncate: 160 }}</td>
       </tr>
       {% endif %}
-      {% if page.keywords %} 
+      {% if page.tags %}
       <tr>
         <td markdown="span">Keywords</td>
-        <td markdown="span">{{ page.keywords | markdownify | strip_html | truncate: 160 }}</td>
-      </tr>
-      {% endif %}
-      {% if page.tags %} 
-      <tr>
-        <td markdown="span">Tags</td>
         <td markdown="span">{{ tag_hashes | markdownify | strip_html | truncate: 160 }}</td>
       </tr>
       {% endif %}

@@ -101,7 +101,7 @@
       </td>
       <td>
         <div class="column right">
-          <img src="{{ teaser | relative_url }}" alt="">
+          {%- if teaser -%}<img src="{{ teaser | relative_url }}" alt="">{%- endif -%}
         </div>
       </td>
       </tr>

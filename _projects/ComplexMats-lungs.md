@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/projects/ComplexMats/lungs.gif
 category: [Heterogeneous materials]
 tags: [full field measurements, digital image correlation, composite materials, non local modeling]
-partners: Pr. Isabelle Villemure, Dr. George Rakovich M.D.
+partners: [Pr. Isabelle Villemure, Dr. George Rakovich M.D.]
 project_date: 2021-2024
 contribute: 
 learn_more: 

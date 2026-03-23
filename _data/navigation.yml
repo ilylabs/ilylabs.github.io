@@ -237,3 +237,41 @@ projects-dicanamorphosis:
       url: "https://www.linkedin.com/in/st%C3%A9phane-hu-593349119/"
     - title: "Yvan Dilem"
       url: "https://www.linkedin.com/in/yvan-dilem-1b9197139"
+
+projects-4dprinting:
+  - title: "Related Research"
+    children:
+    - title: "LIPEC Lab"
+      url: "https://ilylabs.github.io"
+
+projects-aerospacedurability:
+  - title: "Related Research"
+    children:
+    - title: "Composites Part A: Applied Science and Manufacturing"
+      url: "https://www.sciencedirect.com/journal/composites-part-a-applied-science-and-manufacturing"
+
+projects-msla:
+  - title: "Partners"
+    children:
+    - title: "Prof. David St-Onge"
+      url: "https://www.etsmtl.ca/en/research/professors/dastonge/"
+    - title: "INIT Robots Lab"
+      url: "https://initrobots.ca/en/"
+
+projects-recycledcomposites:
+  - title: "Related Research"
+    children:
+    - title: "LIPEC Lab"
+      url: "https://ilylabs.github.io"
+
+projects-satellitedeorbitation:
+  - title: "Related Research"
+    children:
+    - title: "LIPEC Lab"
+      url: "https://ilylabs.github.io"
+
+projects-spacemanufacturing:
+  - title: "Related Research"
+    children:
+    - title: "Acta Astronautica"
+      url: "https://www.sciencedirect.com/journal/acta-astronautica"

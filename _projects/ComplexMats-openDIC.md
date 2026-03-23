@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/projects/ComplexMats/muDIC-pointcloud.gif
 category: [Full field characterization]
 tags: [full field measurements, digital image correlation, open source, open science, python]
-partners: PolymerGuy, Nicolas Thuard, Alessandra Lingua, Stéphane Hu
+partners: [PolymerGuy, Nicolas Thuard, Alessandra Lingua, Stéphane Hu]
 project_date: "Summer 2020 - Summer 2025"
 contribute: 
 learn_more: 

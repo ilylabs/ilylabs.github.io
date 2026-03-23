@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/projects/ComplexMats/anamorphostephane.png
 category: [Full field characterization]
 tags: [digital image correlation, speckle pattern, anamorphosis, python]
-partners: Yvan Dilem, Stéphane Hu
+partners: [Yvan Dilem, Stéphane Hu]
 project_date: "Summer 2021 - Winter 2022"
 contribute: 
 last_modified_at: 2021-08-18T22:17:43-04:00

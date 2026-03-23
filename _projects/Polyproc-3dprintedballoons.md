@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/projects/indoor_neo.gif
 category: [Polymers & Composites]
 tags: [3d printing, ]
-partners: Prof. David St-Onge, Louis Catar (PhD)
+partners: [Prof. David St-Onge, Louis Catar (PhD)]
 project_date: "2021 - 2025"
 contribute: 
 last_modified_at: 2026-03-23T00:00:00-04:00

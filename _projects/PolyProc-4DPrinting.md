@@ -3,6 +3,8 @@ title: "4D Printing & Smart Composite Materials"
 excerpt: "Photoreactive bistable composite panels that change shape on demand — programmable materials for adaptive building envelopes and structural actuation."
 header:
   teaser:
+sidebar:
+  - nav: "projects-4dprinting"
 category: [Polymers & Composites]
 tags: [4D printing, smart materials, bistable, composites, photoreactive, adaptive structures]
 partners:

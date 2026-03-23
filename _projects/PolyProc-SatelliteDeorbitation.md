@@ -3,6 +3,8 @@ title: "Deployable Composites for Satellite Deorbitation"
 excerpt: "Lightweight deployable electromagnetic sail panels for passive satellite deorbitation — reducing space debris through composite material innovation."
 header:
   teaser:
+sidebar:
+  - nav: "projects-satellitedeorbitation"
 category: [Polymers & Composites]
 tags: [composites, space, deployable structures, electromagnetic, satellite, debris]
 partners:

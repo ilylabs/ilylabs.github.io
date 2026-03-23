@@ -3,9 +3,11 @@ title: "Multi-Material Stereolithography (MSLA)"
 excerpt: "A novel multi-resin MSLA printer architecture with an automated wiper mechanism enabling graded and heterogeneous material deposition in vat photopolymerization."
 header:
   teaser:
+sidebar:
+  - nav: "projects-msla"
 category: [Polymers & Composites]
 tags: [3d-printing, SLA, MSLA, multi-material, photopolymer, additive manufacturing]
-partners: Prof. David St-Onge
+partners: [Prof. David St-Onge]
 project_date: "2022-?"
 contribute:
 learn_more:

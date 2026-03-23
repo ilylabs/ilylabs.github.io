@@ -3,6 +3,8 @@ title: "Aerospace Thermoplastic Composites Durability"
 excerpt: "Long-term ageing behaviour of CF/PPS, CF/PEI and CF/PEEK laminates — understanding how high-performance thermoplastic composites degrade in service conditions."
 header:
   teaser:
+sidebar:
+  - nav: "projects-aerospacedurability"
 category: [Polymers & Composites]
 tags: [composites, thermoplastics, durability, ageing, aerospace, PEEK, PPS, carbon fiber]
 partners:

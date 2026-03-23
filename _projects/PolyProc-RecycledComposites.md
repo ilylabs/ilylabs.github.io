@@ -3,6 +3,8 @@ title: "Recycled & Upcycled Thermoplastic Composites"
 excerpt: "Closing the loop on high-performance carbon fiber composites — upcycling aerospace prepreg waste into printable feedstock for large-format additive manufacturing."
 header:
   teaser:
+sidebar:
+  - nav: "projects-recycledcomposites"
 category: [Polymers & Composites]
 tags: [composites, recycling, upcycling, PEEK, PEKK, 3d-printing, sustainability, carbon fiber]
 partners:

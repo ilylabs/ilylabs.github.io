@@ -3,6 +3,8 @@ title: "Space Manufacturing & In-Situ Resource Utilization"
 excerpt: "3D printing composite structures from lunar regolith simulant — investigating additive manufacturing for on-site production of structural parts on the Moon."
 header:
   teaser:
+sidebar:
+  - nav: "projects-spacemanufacturing"
 category: [Polymers & Composites]
 tags: [3d-printing, space, composites, lunar, ISRU, additive manufacturing]
 partners:

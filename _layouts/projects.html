@@ -6,7 +6,7 @@ layout: single
 {% assign groups = site.projects | group_by: "category" | sort: "name" %}
 <br />
 {% for group in groups %}
-    <h2 id="{{group.name | slugify}}">{{ group.name | remove: '["' | remove: '"]'  }}</h2>
+    <h2 id="{{group.name | slugify}}">{{ group.name | remove: "[" | remove: "]" | remove: '"' }}</h2>
 
   {%- for post in group.items -%}
     {%- unless post.hidden -%}
