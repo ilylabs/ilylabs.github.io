@@ -34,7 +34,7 @@
     {%- capture page_partners %}{% for tag in post.partners %}{{" "}}{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture -%}
     {%- assign partners_hashes = page_partners -%}
 
-  <table>
+  <table style="width: 100%; table-layout: fixed;">
     <colgroup>
       <col width="70%" />
       <col width="30%" />
@@ -42,15 +42,11 @@
       <tbody>
         <tr>
         <td>
-        <table>
+        <table style="width: 100%; table-layout: fixed;">
           <colgroup>
           <col width="30%" />
           <col width="70%" />
           </colgroup>
-          <thead>
-            <th></th>
-            <th></th>
-          </thead>
           <tbody>
             {%- if post.excerpt -%} 
             <tr>
@@ -94,7 +90,7 @@
       </td>
       <td>
         <div class="column right">
-          <img src="{{ teaser | relative_url }}" alt="">
+          <img src="{{ teaser | relative_url }}" alt="" style="width: 100%; height: auto; display: block;">
         </div>
       </td>
       </tr>
