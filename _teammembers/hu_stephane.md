@@ -5,7 +5,7 @@ Linkedin:
 header:
     teaser:
 category: "PhD candidate"
-project_date: "2021-2024"
+project_date: "2021-?"
 cosupervisors:
 bachelor: 
 masters:

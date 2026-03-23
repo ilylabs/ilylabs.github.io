@@ -6,9 +6,9 @@ main:
     url: /courses/
   - title: "Research Opportunities"
     url: /research_opportunities/
-  #- title: "Team"
-  #  url: /team/
-  - title: "Contributions"
+  - title: "Team"
+    url: /team/
+  - title: "Publications"
     url: /publications/
   - title: "Posts"
     url: /posts/

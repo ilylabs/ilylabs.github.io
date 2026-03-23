@@ -1,6 +1,6 @@
 ---
 title: "Dry EEG-electrodes"
-excerpt: ""
+excerpt: "Development of flexible dry EEG electrodes from conductive SEBS-based composite materials for long-duration, comfortable brain-computer interface applications."
 header:
   teaser: /assets/images/projects/dry_EEG/electrodes.png
 category: [Polymers & Composites]
@@ -12,28 +12,26 @@ contribute:
 learn_more: 
 partners: [Beam Me Up Augmented Intelligence, Prof. Éric David, Daniel Poirier eng., Prof. Gelareh Momen]
 shared_library: 
-recruiting: 1MEng, 1 PhD
-last_modified_at: 2021-06-22T12:17:43-04:00
+recruiting:
+last_modified_at: 2026-03-23T00:00:00-04:00
 usemathjax: true 
 ---
-
-We are currently **recruiting a PhD student** to work on this subject. [Contact me if you are interested.](/research_opportunities/index.md)
-{: .notice--danger}
 
 This project is supported and financed by the [CREPEC](https://www.polymtl.ca/crepec/en).
 {: .notice--info}
 
-Today, several types of electrodes are used in electroencephalography (EEG). Although these electrodes have undergone various improvements to increase their performance, comfort and accuracy, the most efficient models are made of **metallic materials** that are assembled on a **"frame"** often made of **thermoplastic** that allows the **electrodes** to be **approximately positioned** on the individual's skull. However, one of the **main drawbacks** of these electrodes is that they require **a lot of pressure** or even, for some, **superficial abrasion of the upper skin layer of the skull with a pointed shape**, which makes them **uncomfortable** and **very difficult** to use for **long periods of time**, especially because of the metallic materials used.
+Today, several types of electrodes are used in electroencephalography (EEG). The most efficient commercial models are made of **metallic materials** that are uncomfortable for prolonged use, requiring significant pressure or even superficial abrasion of the scalp. This makes long-duration EEG data collection — needed for emerging brain-computer interface applications — impractical with current designs.
 {: style="text-align: justify;"}
 
 <center>
 <a href=""><img src="/assets/images/projects/dry_EEG/bitbrain-headsets.png" width="80%"></a>
 <a href=""><img src="/assets/images/projects/dry_EEG/bitbrain-electrodes.png" width="80%"></a>
 </center>
-The top image shows an example of two commercial systems sold by Bitbrain. The bottom image presents the difference between wet and dry electrodes (Bibtrain).
+Two commercial EEG systems by Bitbrain, illustrating the difference between wet and dry electrode designs.
 {: style="text-align: center; font-size:13px; font-style: italic;"}
 
-[Beam Me Up Labs](https://www.bmu.co/) has been working for the past five years to develop tools that use artificial intelligence to perform EEG signal analysis and classification. However, potential applications of this work now require the ability to **collect data using EEG electrodes for periods of several hours while operators perform various activities**. This project proposes the development of a dry EEG electrode architecture made of **conductive composite materials** to allow consistent signal acquisition for long durations for active users. It is also proposed to develop a manufacturing method to directly fabricate these electrodes on a helmet made of thermoplastic or composite materials to provide an integrated manufacturing process.
+[Beam Me Up Labs](https://www.bmu.co/) develops AI tools for EEG signal analysis and classification. Their applications now require **hours-long data collection during active use** — a challenge that existing metallic electrodes cannot meet. This project addresses this gap by developing **flexible dry EEG electrodes from conductive SEBS-based composite materials**, combining good electrical conductivity with the softness and conformability needed for comfortable, long-duration wear.
 {: style="text-align: justify;"}
 
-To do so, we are currently hiring a **PhD student in Mechcanical Engineering**. [Follow the instruction provided here if you'd like to apply](/research_opportunities/index.md).
+A key innovation is the **integrated manufacturing approach**: electrodes are fabricated directly onto thermoplastic or composite helmets, streamlining production and ensuring reliable electrode positioning. Research conducted since 2021 in collaboration with Prof. Éric David (ÉTS) and Prof. Gelareh Momen (UQAC) has produced a series of publications on SEBS composite formulation, printability, and electromechanical performance (2025–2026).
+{: style="text-align: justify;"}

@@ -1,0 +1,15 @@
+---
+title: "Rim El Maache"
+excerpt: "MSc candidate in Mechanical Engineering"
+linkedin:
+header:
+    teaser:
+category: "MSc candidate"
+project_date: "2023-?"
+cosupervisors:
+bachelor:
+masters:
+phd:
+---
+
+Rim El Maache is a Master's student at ilylabs conducting research in mechanical engineering. She joined the lab in 2023.
