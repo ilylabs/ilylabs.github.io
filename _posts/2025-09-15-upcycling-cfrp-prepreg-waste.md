@@ -7,7 +7,7 @@ categories: [Polymers & Composites, Sustainability]
 tags: [Composites, Recycling, Upcycling, PEEK, PEKK, Additive Manufacturing, Carbon Fiber, Sustainability]
 ---
 
-Published in 2025.
+Published in [*Composites Communications* (2025)](https://doi.org/10.1016/j.coco.2025.102650).
 {: .notice--info}
 
 ## Closing the Loop on High-Performance Composite Manufacturing

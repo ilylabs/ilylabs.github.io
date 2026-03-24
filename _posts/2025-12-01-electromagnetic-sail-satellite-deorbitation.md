@@ -7,7 +7,7 @@ categories: [Polymers & Composites, Space]
 tags: [Space, Composites, Satellite, Deorbitation, Electromagnetic, Deployable, Space Debris]
 ---
 
-Published in 2025.
+Published in [2025](https://doi.org/10.82417/hxey-n154).
 {: .notice--info}
 
 ## The Space Debris Problem

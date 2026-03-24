@@ -7,7 +7,7 @@ categories: [Polymers & Composites, Aerospace]
 tags: [Aerostat, Membrane, Composite, Lightweight, Gas Barrier, Airship, VELUM]
 ---
 
-Published in *Aerospace Science and Technology* (2026).
+Published in [*Aerospace Science and Technology* (2026)](https://doi.org/10.1016/j.ast.2026.111785).
 {: .notice--info}
 
 ## A New Membrane Architecture for the Next Generation of Airships

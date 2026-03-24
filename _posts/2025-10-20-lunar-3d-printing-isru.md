@@ -7,7 +7,7 @@ categories: [Polymers & Composites, Space]
 tags: [3D Printing, Space, Lunar, Regolith, ISRU, Additive Manufacturing, Composites]
 ---
 
-Published in *Acta Astronautica* (2025).
+Published in [*Acta Astronautica* (2025)](https://doi.org/10.1016/j.actaastro.2025.08.012).
 {: .notice--info}
 
 ## Building Structures on the Moon — Without Shipping Everything from Earth
