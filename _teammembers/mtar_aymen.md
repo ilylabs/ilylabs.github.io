@@ -6,7 +6,7 @@ header:
     teaser:
 category: "MSc candidate"
 project_date: "2024-?"
-cosupervisors: Prof. Martin Beauregard
+cosupervisors: Prof. Martin Beauregard, Prof. Conrad Boton
 bachelor:
 masters:
 phd:
