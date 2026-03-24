@@ -44,5 +44,5 @@
 
 {%- if page.zotero_lastname -%}
 <h3>Publications</h3>
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4390760%2Fitems%3Fkey%3DhIghhwsB7LyrUtDFrpIyKFqY%26format%3Dbibtex%26limit%3D100&author={{ page.zotero_lastname | url_encode }}&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4390760%2Fitems%3Fkey%3DhIghhwsB7LyrUtDFrpIyKFqY%26format%3Dbibtex%26limit%3D100%26q%3D{{ page.zotero_lastname | url_encode }}%26qmode%3DtitleCreatorYear&jsonp=1"></script>
 {%- endif -%}
