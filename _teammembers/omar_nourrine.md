@@ -7,6 +7,8 @@ header:
 category: "PhD candidate"
 project_date: "2021-?"
 cosupervisors: Prof. Isabelle Villemure (Polytechnique Montréal)
+project: ComplexMats-lungs
+zotero_lastname: Omar
 bachelor:
 masters:
 phd:

@@ -7,6 +7,8 @@ header:
 category: "MSc alumni"
 project_date: "2022-2026"
 cosupervisors:
+project: Polyproc-3dprintedballoons
+zotero_lastname: Kheirani
 bachelor:
 masters: Polymers & Composites Engineering, ÉTS
 phd:

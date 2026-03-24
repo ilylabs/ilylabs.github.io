@@ -7,6 +7,8 @@ header:
 category: "MSc alumni"
 project_date: "2021-2024"
 cosupervisors: Prof. Martine Dubé
+project: COVID-cottonmasks
+zotero_lastname: Gunther
 bachelor:
 masters:
 phd:

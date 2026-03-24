@@ -7,6 +7,8 @@ header:
 category: "MSc candidate"
 project_date: "2024-?"
 cosupervisors: Prof. Martin Beauregard, Prof. Conrad Boton
+project: PolyProc-4DPrinting
+zotero_lastname: Mtar
 bachelor:
 masters:
 phd:

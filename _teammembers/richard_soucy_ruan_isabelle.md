@@ -7,6 +7,8 @@ header:
 category: "MSc alumni"
 project_date: "2022-2025"
 cosupervisors: Prof. Martine Dubé
+project: PolyProc-RecycledComposites
+zotero_lastname: Richard Soucy
 bachelor:
 masters: Mechanical Engineering, ÉTS
 phd:

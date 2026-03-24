@@ -7,6 +7,8 @@ header:
 category: "PhD candidate"
 project_date: "2021-?"
 cosupervisors: Prof. Martine Dubé
+project: ComplexMats-openDIC
+zotero_lastname: Hu
 bachelor:
 masters:
 phd:

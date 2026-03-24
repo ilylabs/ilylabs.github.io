@@ -58,6 +58,12 @@
         <td markdown="span">{{ post.cosupervisors | markdownify | strip_html | truncate: 160 }}</td>
       </tr>
       {%- endif -%}
+      {%- if post.project -%}
+      <tr>
+        <td markdown="span">Research project</td>
+        <td markdown="span"><a href="{{ site.baseurl }}/projects/{{ post.project }}/">{{ post.project }}</a></td>
+      </tr>
+      {%- endif -%}
       {%- if post.bachelor -%}
       <tr>
         <td markdown="span">Bachelor</td>

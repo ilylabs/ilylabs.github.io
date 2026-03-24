@@ -7,6 +7,8 @@ header:
 category: "MSc candidate"
 project_date: "2025-?"
 cosupervisors: Prof. David Melancon (Polytechnique Montréal)
+project: PolyProc-SatelliteDeorbitation
+zotero_lastname: Dumitru
 bachelor:
 masters:
 phd:

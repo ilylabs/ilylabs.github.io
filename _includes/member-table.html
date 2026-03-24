@@ -27,11 +27,22 @@
           <td markdown="span">{{ page.project_date | markdownify | strip_html | truncate: 160 }}</td>
         </tr>
         {%- endif -%}
-        {%- if page.cosupervisors -%} 
+        {%- if page.cosupervisors -%}
         <tr>
           <td markdown="span">Co-supervisors</td>
           <td markdown="span">{{ page.cosupervisors | markdownify | strip_html | truncate: 160 }}</td>
         </tr>
         {%- endif -%}
+        {%- if page.project -%}
+        <tr>
+          <td markdown="span">Research project</td>
+          <td markdown="span"><a href="{{ site.baseurl }}/projects/{{ page.project }}/">{{ page.project }}</a></td>
+        </tr>
+        {%- endif -%}
     </tbody>
 </table>
+
+{%- if page.zotero_lastname -%}
+<h3>Publications</h3>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4390760%2Fitems%3Fkey%3DhIghhwsB7LyrUtDFrpIyKFqY%26format%3Dbibtex%26limit%3D100&author={{ page.zotero_lastname | url_encode }}&jsonp=1"></script>
+{%- endif -%}

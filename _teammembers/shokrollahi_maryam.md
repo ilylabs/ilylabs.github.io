@@ -7,6 +7,8 @@ header:
 category: "PhD alumni"
 project_date: "2021-2026"
 cosupervisors: Prof. Martine Dubé
+project: PolyProc-consolidate
+zotero_lastname: Shokrollahi
 bachelor:
 masters:
 phd: Mechanical Engineering, ÉTS

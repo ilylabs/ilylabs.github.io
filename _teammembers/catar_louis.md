@@ -7,6 +7,8 @@ header:
 category: "PhD candidate"
 project_date: "2021-?"
 cosupervisors: Prof. David St-Onge
+project: Polyproc-3dprintedballoons
+zotero_lastname: Catar
 bachelor:
 masters:
 phd:

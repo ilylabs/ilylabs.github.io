@@ -7,6 +7,8 @@ header:
 category: "PhD candidate"
 project_date: "2021-?"
 cosupervisors: Prof. David St-Onge
+project: PolyProc-SpaceManufacturing
+zotero_lastname: Moazen
 bachelor:
 masters:
 phd:

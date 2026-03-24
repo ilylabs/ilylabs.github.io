@@ -7,6 +7,8 @@ header:
 category: "MSc candidate"
 project_date: "2024-?"
 cosupervisors: Prof. Bora Ung
+project: ComplexMats-prediction
+zotero_lastname: Liksutin
 bachelor:
 masters:
 phd:

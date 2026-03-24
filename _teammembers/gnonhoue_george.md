@@ -7,6 +7,8 @@ header:
 category: "PhD alumni"
 project_date: "2020-2026"
 cosupervisors:
+project: PolyProc-EEGElectrodes
+zotero_lastname: Gnonhoue
 bachelor:
 masters:
 phd:
