@@ -44,5 +44,7 @@ html {
 // regardless of which page layout is active.
 .search__toggle {
   display: flex !important;
+  align-items: center;
+  flex-shrink: 0; /* prevent squeeze in flex layouts */
   font-size: 18px;
 }
