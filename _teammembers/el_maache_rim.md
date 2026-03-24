@@ -2,9 +2,10 @@
 title: "Rim El Maache"
 excerpt: "MSc candidate in Mechanical Engineering"
 linkedin: https://ca.linkedin.com/in/rim-el-maache
+hidden: true
 header:
     teaser:
-category: "MSc candidate"
+category: "Student"
 project_date: "2023-?"
 cosupervisors:
 bachelor:

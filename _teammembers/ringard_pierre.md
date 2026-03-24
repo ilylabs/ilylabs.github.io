@@ -2,9 +2,10 @@
 title: "Pierre Ringard"
 excerpt: "MSc candidate in Mechanical Engineering"
 linkedin:
+hidden: true
 header:
     teaser:
-category: "MSc candidate"
+category: "Student"
 project_date: "2025-?"
 cosupervisors:
 bachelor:

@@ -2,9 +2,10 @@
 title: "Baptiste Rouanet"
 excerpt: "MSc candidate in Mechanical Engineering"
 linkedin: https://fr.linkedin.com/in/baptiste-rouanet
+hidden: true
 header:
     teaser:
-category: "MSc candidate"
+category: "Student"
 project_date: "2024-?"
 cosupervisors:
 bachelor:
