@@ -317,7 +317,11 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-sitemap
   jemoji
+  json (>= 2.19.2)
+  nokogiri (>= 1.19.2)
+  rexml (>= 3.4.4)
   tzinfo-data
+  webrick (>= 1.9.2)
 
 CHECKSUMS
   activesupport (8.1.2.1) sha256=beec20ced12ad569194554399449a6372fdab03061b8f48a9ed6ef9b7dc251b2
