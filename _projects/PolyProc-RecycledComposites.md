@@ -5,7 +5,7 @@ header:
   teaser:
 sidebar:
   - nav: "projects-recycledcomposites"
-category: [Polymers & Composites]
+category: [3D Printing]
 tags: [composites, recycling, upcycling, PEEK, PEKK, 3d-printing, sustainability, carbon fiber]
 partners:
 project_date: "2022-?"

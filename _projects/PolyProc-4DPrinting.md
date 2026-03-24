@@ -5,7 +5,7 @@ header:
   teaser:
 sidebar:
   - nav: "projects-4dprinting"
-category: [Polymers & Composites]
+category: [3D Printing]
 tags: [4D printing, smart materials, bistable, composites, photoreactive, adaptive structures]
 partners:
 project_date: "2024-?"

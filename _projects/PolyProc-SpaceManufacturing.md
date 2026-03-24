@@ -5,7 +5,7 @@ header:
   teaser:
 sidebar:
   - nav: "projects-spacemanufacturing"
-category: [Polymers & Composites]
+category: [3D Printing]
 tags: [3d-printing, space, composites, lunar, ISRU, additive manufacturing]
 partners:
 project_date: "2022-?"

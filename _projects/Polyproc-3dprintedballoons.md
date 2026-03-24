@@ -5,7 +5,7 @@ sidebar:
   - nav: "projects-3dballon"
 header:
   teaser: /assets/images/projects/indoor_neo.gif
-category: [Polymers & Composites]
+category: [3D Printing]
 tags: [3d printing, ]
 partners: [Prof. David St-Onge, Louis Catar (PhD)]
 project_date: "2021 - 2025"

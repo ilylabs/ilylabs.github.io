@@ -5,7 +5,7 @@ header:
   teaser:
 sidebar:
   - nav: "projects-msla"
-category: [Polymers & Composites]
+category: [3D Printing]
 tags: [3d-printing, SLA, MSLA, multi-material, photopolymer, additive manufacturing]
 partners: [Prof. David St-Onge]
 project_date: "2022-?"
