@@ -38,9 +38,11 @@ html {
   }
 
 // Fix search toggle button visibility on all pages.
-// The html font-size is set to 10px at mobile viewports above, which causes
-// the theme's em/rem-based masthead elements to render too small. This override
-// ensures the search toggle button is always visible at a consistent size.
+// The theme hides .search__toggle on certain layout classes (e.g. layout--single,
+// layout--archive) via display:none. Use display:flex (matching the theme's own
+// active-state value) and an explicit font-size so the button is always visible
+// regardless of which page layout is active.
 .search__toggle {
+  display: flex !important;
   font-size: 18px;
 }

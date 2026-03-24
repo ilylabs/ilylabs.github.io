@@ -336,10 +336,9 @@ defaults:
       type: teammembers
     values:
       layout: member
-      author_profile: false
+      author_profile: true
       read_time: false
       share: false
-      classes: wide
       related: false
       comments: false
 
