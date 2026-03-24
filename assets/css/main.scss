@@ -27,12 +27,20 @@ html {
     @include breakpoint($medium) {
         font-size: 0.88em; // change to whatever
       }
-    
+
       @include breakpoint($large) {
         font-size: 1.02em; // change to whatever
       }
-    
+
       @include breakpoint($x-large) {
         font-size: 1.13em; // change to whatever
-      } 
+      }
   }
+
+// Fix search toggle button visibility on all pages.
+// The html font-size is set to 10px at mobile viewports above, which causes
+// the theme's em/rem-based masthead elements to render too small. This override
+// ensures the search toggle button is always visible at a consistent size.
+.search__toggle {
+  font-size: 18px;
+}
