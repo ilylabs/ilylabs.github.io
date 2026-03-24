@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "VELUM: Ultra-Lightweight Composite Membranes for Minimal-Leakage Aerial Vehicles"
 date: 2026-01-15
 author: "Afsaneh Kheirani, Ilyass Tabiai"

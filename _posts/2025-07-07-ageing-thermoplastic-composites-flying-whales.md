@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "Understanding the Ageing of Thermoplastic Composites for Aerospace Applications"
 date: 2025-07-07
 author: "Annelise Jean-Fulcrand, Ewen Léger, Frédéric Dau, Martine Dubé, Ilyass Tabiai"

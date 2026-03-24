@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "Unveiling the Strength of Ultra-Lightweight 3D Printed Micro-Lattices"
 date: 2025-08-06
 author: "Louis Catar, Ilyass Tabiai, David St-Onge"

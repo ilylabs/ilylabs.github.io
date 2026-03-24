@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "La science cachée des plastiques et l'avenir de l'impression 3D"
 date: 2025-04-21
 author: "Ilyass Tabiai"

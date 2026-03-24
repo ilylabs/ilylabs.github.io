@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "Understanding 3D Print Strength: Notches vs. Bonding"
 date: 2025-06-03
 author: "Maryam Shokrollahi, Adam W. Smith, Arthur Levy, Martine Dubé, Ilyass Tabiai"

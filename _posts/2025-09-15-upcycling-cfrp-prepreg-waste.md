@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "From Scrap to Print: Upcycling Aerospace CF/PEKK Prepreg Waste for 3D Printing"
 date: 2025-09-15
 author: "Ilyass Tabiai"

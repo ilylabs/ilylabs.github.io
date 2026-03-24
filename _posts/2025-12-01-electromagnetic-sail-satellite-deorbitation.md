@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "An Electromagnetic Sail for Satellite Deorbitation: Tackling Space Debris with Deployable Composites"
 date: 2025-12-01
 author: "Ilyass Tabiai"
