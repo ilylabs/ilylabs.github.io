@@ -6,7 +6,7 @@ header:
     teaser:
 category: "PhD candidate"
 project_date: "2021-?"
-cosupervisors:
+cosupervisors: Prof. Martine Dubé
 bachelor:
 masters:
 phd:

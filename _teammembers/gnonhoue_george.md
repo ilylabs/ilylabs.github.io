@@ -1,7 +1,7 @@
 ---
 title: "George Gnonhoue"
 excerpt: "PhD candidate in Mechanical Engineering — Conductive polymer composites for flexible dry EEG electrodes"
-linkedin:
+linkedin: https://ca.linkedin.com/in/george-gnonhoue-ing-08743a1ab
 header:
     teaser:
 category: "PhD alumni"

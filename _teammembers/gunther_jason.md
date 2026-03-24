@@ -4,9 +4,9 @@ excerpt: "MSc candidate in Mechanical Engineering — Polymer processing, centri
 linkedin: https://www.linkedin.com/in/jasongunther95/
 header:
     teaser:
-category: "MSc candidate"
-project_date: "2021-?"
-cosupervisors:
+category: "MSc alumni"
+project_date: "2021-2024"
+cosupervisors: Prof. Martine Dubé
 bachelor:
 masters:
 phd:
