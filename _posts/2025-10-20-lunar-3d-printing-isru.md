@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Printing on the Moon: LDPE–Lunar Regolith Composites for Space Manufacturing"
 date: 2025-10-20
 author: "Sare Moazen, Ilyass Tabiai"

@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Run a python app (or script) as a systemd service"
 category: [posts]
 tags:  python ubuntu telegram

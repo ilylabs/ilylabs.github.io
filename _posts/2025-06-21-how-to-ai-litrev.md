@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Accelerate Your Literature Reviews with AI: A New Video Guide"
 date: 2025-06-21
 author: "Ilyass Tabiai"

@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Flexible Dry EEG Electrodes from SEBS Composites: Comfortable Brain Monitoring for Active Users"
 date: 2025-11-10
 author: "Ilyass Tabiai"
