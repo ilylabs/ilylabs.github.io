@@ -1,7 +1,7 @@
 ---
 title: "Rim El Maache"
 excerpt: "MSc candidate in Mechanical Engineering"
-linkedin:
+linkedin: https://ca.linkedin.com/in/rim-el-maache
 header:
     teaser:
 category: "MSc candidate"

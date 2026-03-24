@@ -1,7 +1,7 @@
 ---
 title: "Oussama Mnafki"
 excerpt: "MSc candidate in Mechanical Engineering"
-linkedin:
+linkedin: https://www.linkedin.com/in/oussama-mnafki-94047a1a6/
 header:
     teaser:
 category: "MSc candidate"

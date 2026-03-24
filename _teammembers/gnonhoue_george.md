@@ -4,7 +4,7 @@ excerpt: "PhD candidate in Mechanical Engineering — Conductive polymer composi
 linkedin:
 header:
     teaser:
-category: "PhD candidate"
+category: "PhD alumni"
 project_date: "2020-2026"
 cosupervisors:
 bachelor:

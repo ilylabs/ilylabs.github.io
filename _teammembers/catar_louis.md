@@ -1,7 +1,7 @@
 ---
 title: "Louis Catar"
 excerpt: "PhD candidate in Mechanical Engineering — Multi-material 3D printing, micro-lattice structures, aerostats"
-linkedin:
+linkedin: https://www.linkedin.com/in/louis-catar/
 header:
     teaser:
 category: "PhD candidate"

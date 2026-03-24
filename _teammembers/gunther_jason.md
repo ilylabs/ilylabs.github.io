@@ -1,7 +1,7 @@
 ---
 title: "Jason Gunther"
 excerpt: "MSc candidate in Mechanical Engineering — Polymer processing, centrifugal spinning, thermoplastic composites"
-linkedin:
+linkedin: https://www.linkedin.com/in/jasongunther95/
 header:
     teaser:
 category: "MSc candidate"

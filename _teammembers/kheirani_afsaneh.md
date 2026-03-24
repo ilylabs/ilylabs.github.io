@@ -1,7 +1,7 @@
 ---
 title: "Afsaneh Kheirani"
 excerpt: "MSc alumni — Lightweight composite membranes for aerostats and airships"
-linkedin:
+linkedin: https://ca.linkedin.com/in/afsaneh-kheirani-9a813b115
 header:
     teaser:
 category: "MSc alumni"

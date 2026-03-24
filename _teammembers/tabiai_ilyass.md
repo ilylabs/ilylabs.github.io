@@ -2,13 +2,14 @@
 title: "Ilyass Tabiai"
 excerpt: "Professor in Mechanical Engineering"
 category: "Professor"
+hidden: true
 project_date: "2020-?"
 header:
-    teaser: https://media-exp1.licdn.com/dms/image/C4E03AQHjm5c6_vAg7Q/profile-displayphoto-shrink_200_200/0/1563899117084?e=1618444800&v=beta&t=Zj-UthEwycVmzT-9WsQQ2urLqguqNo33UobyeW5n5n0
+    teaser:
 cosupervisors:
-linkedin: 
-github:
-twitter:
+linkedin: https://ca.linkedin.com/in/ilyasstabiai/
+github: https://github.com/ilyasst
+twitter: https://twitter.com/ilytab
 bachelor: Arts et Métiers, France
 masters: Georgia Tech, USA
 phd: Polytechnique Montreal, Canada

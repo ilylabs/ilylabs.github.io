@@ -1,7 +1,7 @@
 ---
 title: "Baptiste Rouanet"
 excerpt: "MSc candidate in Mechanical Engineering"
-linkedin:
+linkedin: https://fr.linkedin.com/in/baptiste-rouanet
 header:
     teaser:
 category: "MSc candidate"
