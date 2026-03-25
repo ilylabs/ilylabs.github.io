@@ -5,6 +5,7 @@ date: 2026-01-15
 author: "Afsaneh Kheirani, Ilyass Tabiai"
 categories: [Polymers & Composites, Aerospace]
 tags: [Aerostat, Membrane, Composite, Lightweight, Gas Barrier, Airship, VELUM]
+excerpt: "The VELUM membrane architecture achieves competitive helium barrier performance at lower areal mass than commercial aerostat envelopes. By decoupling gas barrier and structural functions, it creates new design space for longer missions and larger payloads in lighter-than-air vehicles."
 ---
 
 Published in [*Aerospace Science and Technology* (2026)](https://doi.org/10.1016/j.ast.2026.111785).

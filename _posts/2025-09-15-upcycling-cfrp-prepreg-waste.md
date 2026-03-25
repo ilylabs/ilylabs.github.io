@@ -5,6 +5,7 @@ date: 2025-09-15
 author: "Ilyass Tabiai"
 categories: [Polymers & Composites, Sustainability]
 tags: [Composites, Recycling, Upcycling, PEEK, PEKK, Additive Manufacturing, Carbon Fiber, Sustainability]
+excerpt: "Aerospace manufacturing generates expensive CF/PEKK and CF/PEEK scrap that is typically discarded. We demonstrate a viable upcycling route: converting prepreg offcuts into printable Fused Granule Fabrication feedstock, with mechanical properties competitive for non-primary structure applications."
 ---
 
 Published in [*Composites Communications* (2025)](https://doi.org/10.1016/j.coco.2025.102650).

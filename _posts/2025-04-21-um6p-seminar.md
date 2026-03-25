@@ -5,6 +5,7 @@ date: 2025-04-21
 author: "Ilyass Tabiai"
 categories: [3D Printing, research, presentation]
 tags: [FFF, FGF, 3D Printing, polymer processing]
+excerpt: "Conférence du Professeur Ilyass Tabiai à l'Institut d'Études Avancées (IAS) – UM6P sur la science des polymères, les défis de l'impression 3D, et l'avenir de la fabrication additive. Une plongée dans les innovations qui transforment les secteurs industriels modernes."
 ---
 
 <figure style="text-align: center;">

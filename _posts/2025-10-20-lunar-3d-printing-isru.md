@@ -5,6 +5,7 @@ date: 2025-10-20
 author: "Sare Moazen, Ilyass Tabiai"
 categories: [Polymers & Composites, Space]
 tags: [3D Printing, Space, Lunar, Regolith, ISRU, Additive Manufacturing, Composites]
+excerpt: "Every kilogram shipped to the Moon is expensive. This work investigates LDPE–lunar regolith composites as a printable feedstock for in-situ additive manufacturing, establishing feasibility and design guidelines for a first-generation lunar 3D printing system."
 ---
 
 Published in [*Acta Astronautica* (2025)](https://doi.org/10.1016/j.actaastro.2025.08.012).

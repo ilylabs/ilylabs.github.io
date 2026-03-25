@@ -5,6 +5,7 @@ date: 2025-06-03
 author: "Maryam Shokrollahi, Adam W. Smith, Arthur Levy, Martine Dubé, Ilyass Tabiai"
 categories: [3D Printing, research]
 tags: [FFF, FGF, 3D Printing, PETG, Mechanical Properties, Anisotropy, Interface Bonding, Notches]
+excerpt: "Why aren't 3D printed parts as strong as we'd expect? New research identifies two key culprits — incomplete interface bonding and stress-concentrating extrudate notches — and shows how separating these effects changes our understanding of FFF/FGF mechanical performance."
 ---
 
 {: .notice--info}

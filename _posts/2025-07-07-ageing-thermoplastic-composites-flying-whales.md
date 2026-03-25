@@ -5,6 +5,7 @@ date: 2025-07-07
 author: "Annelise Jean-Fulcrand, Ewen Léger, Frédéric Dau, Martine Dubé, Ilyass Tabiai"
 categories: [Materials Science, Aerospace, Composites]
 tags: [Thermoplastic Composites, Ageing, UV Radiation, Condensation, Carbon Fibre, Mechanical Properties, SEM, FTIR, DSC]
+excerpt: "How do carbon fibre-reinforced thermoplastic composites degrade under combined UV radiation and moisture? We characterize distinct ageing mechanisms in CF/PPS, CF/PEI, and CF/PEEK — cross-linking vs. chain scission — with direct implications for aerospace component durability and maintenance."
 ---
 
 {: .notice--info}

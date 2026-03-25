@@ -5,6 +5,7 @@ date: 2025-08-06
 author: "Louis Catar, Ilyass Tabiai, David St-Onge"
 categories: [3D Printing, Materials Science, Aerospace]
 tags: [Micro-Lattices, Photosensitive Polymers, Tensile Testing, Additive Manufacturing, Ultra-lightweight]
+excerpt: "Ultra-lightweight polymeric micro-lattices offer extraordinary stiffness-to-mass ratios for aerospace. This research maps how photosensitive 3D printing technologies and lattice geometry jointly determine mechanical performance, opening new paths for tailored structural design beyond raw material properties."
 ---
 
 {: .notice--info}

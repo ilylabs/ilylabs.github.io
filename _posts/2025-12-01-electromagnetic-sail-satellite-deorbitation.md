@@ -5,6 +5,7 @@ date: 2025-12-01
 author: "Ilyass Tabiai"
 categories: [Polymers & Composites, Space]
 tags: [Space, Composites, Satellite, Deorbitation, Electromagnetic, Deployable, Space Debris]
+excerpt: "Space debris is a growing threat to orbital operations. This work presents a deployable composite electromagnetic sail for small satellites — a passive, propellant-free deorbitation system that uses Earth's magnetic field to brake and re-enter at end-of-life."
 ---
 
 Published in [2025](https://doi.org/10.82417/hxey-n154).

@@ -5,6 +5,7 @@ date: 2025-11-10
 author: "Ilyass Tabiai"
 categories: [Polymers & Composites, Biomedical]
 tags: [EEG, Electrodes, SEBS, Composites, Biomedical, 3D Printing, Brain-Computer Interface]
+excerpt: "Conventional EEG electrodes are impractical for long-duration wearable use. This research develops flexible dry electrodes from conductive SEBS composites — soft enough to conform to the scalp without gel or pressure, and manufacturable in a single 3D-printed step for brain-computer interface applications."
 ---
 
 A series of publications from 2025–2026.
