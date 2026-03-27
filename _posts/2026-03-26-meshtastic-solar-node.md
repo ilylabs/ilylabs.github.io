@@ -5,6 +5,8 @@ category: [posts]
 tags: meshtastic lora iot maker electronics 3dprinting
 date: 2026-03-26 09:00:00
 excerpt: "A hands-on build log of a solar-powered outdoor Meshtastic LoRa node using a Seeed XIAO nRF52840 + Wio-SX1262, three 18650 cells, a recycled WiFi camera solar panel, and a 3D-printed hermetic enclosure. It went out in winter. It came back alive."
+hidden: true
+sitemap: false
 ---
 
 I have been playing with [Meshtastic](https://meshtastic.org/) for a while now, and at some point the obvious question came up: can I put a node *outside*, *permanently*, running on solar, with no maintenance? Turns out the answer is yes — but it took a few iterations to get there.

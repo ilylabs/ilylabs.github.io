@@ -8,7 +8,8 @@ author_profile: true
 ---
 
 <div class="posts-list">
-{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% assign visiblePosts = site.posts | where_exp: "post", "post.hidden != true" %}
+{% assign postsByYear = visiblePosts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
     <h1 class="archive__subtitle">{{ year.name }}</h1>
