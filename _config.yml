@@ -281,6 +281,7 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: wide
   # _projects
   - scope:
       path: ""
