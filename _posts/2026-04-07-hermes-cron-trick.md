@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "No-LLM Silent Hermes Cron Trick"
-date: 2026-04-07 09:00:00
+date: 2026-04-06 22:34:00
 author: Ilyass Tabiai
 categories: [Hermes Agent, AI, local LLM]
 tags: [hermes agent, automation, cron, llm, local inference optimization, ai]
