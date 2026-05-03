@@ -212,7 +212,7 @@ The CLI outputs structured data, has stable error codes, and is designed for aut
 * **Does it solve my problem?** Absolutely.
 * **Would I use it again?** I already do — daily.
 
-**Try it:** The code is open source. If you're blocked by authentication restrictions, Piggydrive might be your workaround.
+**Try it:** The code is open source at [github.com/ilyasst/piggydrive](https://github.com/ilyasst/piggydrive). If you're blocked by authentication restrictions, Piggydrive might be your workaround.
 
 **Contribute:** Found a bug? Want a feature? The daemon and CLI are straightforward Python — fix it with your favorite tools.
 
