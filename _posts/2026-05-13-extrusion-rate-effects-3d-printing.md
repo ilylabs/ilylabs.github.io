@@ -70,7 +70,7 @@ Die swell, a complex phenomenon characterized by the expansion of material as it
 - Poorer dimensional accuracy
 - Worse layer adhesion
 
-![Surface roughness profiles showing degradation at high extrusion rates. The 3D surface maps and Ra values clearly show EXT-E24 has significantly rougher texture than EXT-E6 and EXT-E12.](/assets/img/extrusion-rate/fig5-surface-roughness.png)
+![Surface roughness of extrudates showing degradation at high extrusion rates. The 3D surface maps and Ra values clearly show EXT-E24 has significantly rougher texture than EXT-E6 and EXT-E12.](/assets/img/extrusion-rate/fig5-surface-roughness.png)
 
 The surface quality degrades alongside the mechanical properties. **This connects to our earlier work on notch geometry**: the surface roughness created during extrusion acts as stress concentrators, further reducing mechanical performance. The rougher the surface, the more pronounced the notch effect, and the more brittle the part becomes.
 
