@@ -27,6 +27,8 @@ We studied **bare extrudates**, single strands of PLA pushed through a nozzle, w
 
 This let us separate **material behavior** from **meso-structural (scale of bonded filaments) effects**. What changes in the polymer itself versus what changes because of how you arrange it?
 
+![Schematic illustration of the samples produced using a 1 mm nozzle: (a) Extrudate fabrication, (b) Printed single-extrudate-thick box geometry, (c) Type IV tensile samples extracted at 0° direction.](/assets/img/extrusion-rate/fig1-specimens.png)
+
 ## The Findings: Speed Has a Price
 
 ### 1. Toughness Collapse: 85% Loss
