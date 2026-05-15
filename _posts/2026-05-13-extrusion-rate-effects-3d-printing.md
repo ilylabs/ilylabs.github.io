@@ -27,7 +27,7 @@ We studied **bare extrudates**, single strands of PLA pushed through a nozzle, w
 
 This let us separate **material behavior** from **meso-structural (scale of bonded filaments) effects**. What changes in the polymer itself versus what changes because of how you arrange it?
 
-![Schematic illustration of the samples produced using a 1 mm nozzle: (a) Extrudate fabrication, (b) Printed single-extrudate-thick box geometry, (c) Type IV tensile samples extracted at 0° direction.](/assets/img/extrusion-rate/fig1-specimens.png)
+![Schematic illustration of the samples produced using a 1 mm nozzle: (a) Extrudate fabrication, (b) Printed single-extrudate-thick box geometry, (c) Type IV tensile samples extracted at 0° direction.](/assets/img/extrusion-rate/fig1-specimens.png){: width="50%"}
 
 ## The Findings: Speed Has a Price
 
@@ -55,7 +55,7 @@ Here's where it gets interesting: **higher extrusion rates increase crystallinit
 
 This dramatic increase happens beyond a threshold, **the jump occurs between 12 mm³/s and 24 mm³/s** for PLA. The effect is non-proportional, with substantial changes occurring only at the highest extrusion rates.
 
-![DSC thermograms showing crystallinity increase. Notice how the melting peak grows dramatically for high-rate extrudates (EXT-E24) compared to low-rate (EXT-E6), indicating fourfold crystallinity increase.](/assets/img/extrusion-rate/fig4-dsc-thermograms.png)
+![DSC thermograms showing crystallinity increase. Notice how the melting peak grows dramatically for high-rate extrudates (EXT-E24) compared to low-rate (EXT-E6), indicating fourfold crystallinity increase.](/assets/img/extrusion-rate/fig4-dsc-thermograms.png){: width="80%"}
 
 Crystallinity is the degree to which polymer chains organize into ordered structures. More crystallinity means:
 - Higher stiffness
@@ -72,7 +72,7 @@ Die swell, a complex phenomenon characterized by the expansion of material as it
 - Poorer dimensional accuracy
 - Worse layer adhesion
 
-![Surface roughness of extrudates showing degradation at high extrusion rates. The 3D surface maps and Ra values clearly show EXT-E24 has significantly rougher texture than EXT-E6 and EXT-E12.](/assets/img/extrusion-rate/fig5-surface-roughness.png)
+![Surface roughness of extrudates showing degradation at high extrusion rates. The 3D surface maps and Ra values clearly show EXT-E24 has significantly rougher texture than EXT-E6 and EXT-E12.](/assets/img/extrusion-rate/fig5-surface-roughness.png){: width="80%"}
 
 The surface quality degrades alongside the mechanical properties. **This connects to our earlier work on notch geometry**: the surface roughness created during extrusion acts as stress concentrators, further reducing mechanical performance. The rougher the surface, the more pronounced the notch effect, and the more brittle the part becomes.
 
