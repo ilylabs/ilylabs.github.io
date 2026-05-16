@@ -5,6 +5,7 @@ date: 2026-05-13
 author: "Maryam Shokrollahi, Olivier Lampron, Martine Dubé, Ilyass Tabiai"
 categories: [3D Printing, research]
 tags: [FFF, FDM, PLA, Extrusion Rate, Mechanical Properties, Crystallinity, Surface Roughness, Anisotropy]
+teaser: "/assets/img/extrusion-rate/fig1-specimens.png"
 excerpt: "Pushing your 3D printer faster doesn't just save time, it fundamentally changes the material. Our latest work reveals that higher extrusion rates reduce toughness by up to 85%, increase crystallinity fourfold, and degrade surface quality. Here's what's really happening inside the nozzle."
 ---
 
