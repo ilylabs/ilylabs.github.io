@@ -88,8 +88,8 @@ For large aerospace structures, camera placement is constrained by geometry, tes
 Our anamorphic approach provides a practical path for both static and in-flight configurations:
 
 <div style="text-align: center;">
-  <img src="/assets/img/anamorphic-dic/fig012.png" width="80%" alt="Figure 11: 3D point cloud comparison. The anamorphic pattern (SP-2, red) produces points that cluster more tightly around the best-fit plane compared to the regular pattern (SP-1, blue), demonstrating improved 3D localization precision. A lower $\\sigma_{pixel}$  value (X, Y and Z) yields more accurate DIC measurements." />
-  <p><em>Figure 11: 3D point cloud comparison. The anamorphic pattern (SP-2, red) produces points that cluster more tightly around the best-fit plane compared to the regular pattern (SP-1, blue), demonstrating improved 3D localization precision. A lower $\\sigma_{pixel}$  value (X, Y and Z) yields more accurate DIC measurements.</em></p>
+  <img src="/assets/img/anamorphic-dic/fig012.png" width="80%" alt="Figure 11: 3D point cloud comparison. The anamorphic pattern (SP-2, red) produces points that cluster more tightly around the best-fit plane compared to the regular pattern (SP-1, blue), demonstrating improved 3D localization precision. A lower σ_pixel value (X, Y and Z) yields more accurate DIC measurements." />
+  <p><em>Figure 11: 3D point cloud comparison. The anamorphic pattern (SP-2, red) produces points that cluster more tightly around the best-fit plane compared to the regular pattern (SP-1, blue), demonstrating improved 3D localization precision. A lower σ_pixel value (X, Y and Z) yields more accurate DIC measurements.</em></p>
 </div>
 
 - **No camera repositioning needed**: The pattern compensates for the camera angle
