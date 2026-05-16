@@ -71,8 +71,8 @@ We tested this on a planar target with controlled tilt angles up to 89.7°: extr
 In simple terms, when viewing conditions become difficult, our anamorphic pattern keeps the measurement stable. Across the full angle range, we get lower matching uncertainty and cleaner 3D reconstruction than with a regular pattern. This is exactly what we wanted and proves that applying anamorphic transformations actually improves DIC accuracy, or most specifically recovers accuracy.
 
 <div style="text-align: center;">
-  <img src="/assets/img/anamorphic-dic/fig009.png" width="80%" alt="Figure 8: Evolution of matching uncertainty (σ_pixel) across all tilt angles. Blue contours: regular pattern SP-1. Red contours: anamorphic pattern SP-2. Graph below shows mean uncertainty: SP-2 consistently lower than SP-1." />
-  <p><em>Figure 8: Main result: matching uncertainty across all tilt angles. The anamorphic pattern (SP-2, red) shows consistently lower uncertainty than the regular pattern (SP-1, blue). Mean values (bottom graph) confirm SP-2 outperforms SP-1 across all angles.</em></p>
+  <img src="/assets/img/anamorphic-dic/fig009.png" width="80%" alt="Figure 8: Main result: grayscale intensity over the rectangular area selected far from the camera (where the speckle pattern degrades the most). The red pattern (many black and white pixels only) is what a good speckle pattern looks like in DIC. The blue patter, obtained with a regular pattern, shows that most pixels forming the speckle pattern are in the grey area (not in the extreme of the grayscale intensity) which is not what we want for DIC as it makes the black and white pattern noisier." />
+  <p><em>Figure 8: Main result: grayscale intensity over the rectangular area selected far from the camera (where the speckle pattern degrades the most). The red pattern (many black and white pixels only) is what a good speckle pattern looks like in DIC. The blue patter, obtained with a regular pattern, shows that most pixels forming the speckle pattern are in the grey area (not in the extreme of the grayscale intensity) which is not what we want for DIC as it makes the black and white pattern noisier.</em></p>
 </div>
 
 - **Lower matching uncertainty**: The anamorphic pattern consistently reduced matching uncertainty compared with regular patterns
@@ -88,8 +88,8 @@ For large aerospace structures, camera placement is constrained by geometry, tes
 Our anamorphic approach provides a practical path for both static and in-flight configurations:
 
 <div style="text-align: center;">
-  <img src="/assets/img/anamorphic-dic/fig012.png" width="80%" alt="Figure 11: 3D point cloud visualization. Blue points: regular pattern SP-1. Red points: anamorphic pattern SP-2. Gray points: reference SP-Ref. Section views show SP-2 points closer to best-fit plane with smaller deviations." />
-  <p><em>Figure 11: 3D point cloud comparison. The anamorphic pattern (SP-2, red) produces points that cluster more tightly around the best-fit plane compared to the regular pattern (SP-1, blue), demonstrating improved 3D localization precision.</em></p>
+  <img src="/assets/img/anamorphic-dic/fig012.png" width="80%" alt="Figure 11: 3D point cloud comparison. The anamorphic pattern (SP-2, red) produces points that cluster more tightly around the best-fit plane compared to the regular pattern (SP-1, blue), demonstrating improved 3D localization precision. A lower $\\sigma_{pixel}$  value (X, Y and Z) yields more accurate DIC measurements." />
+  <p><em>Figure 11: 3D point cloud comparison. The anamorphic pattern (SP-2, red) produces points that cluster more tightly around the best-fit plane compared to the regular pattern (SP-1, blue), demonstrating improved 3D localization precision. A lower $\\sigma_{pixel}$  value (X, Y and Z) yields more accurate DIC measurements.</em></p>
 </div>
 
 - **No camera repositioning needed**: The pattern compensates for the camera angle
