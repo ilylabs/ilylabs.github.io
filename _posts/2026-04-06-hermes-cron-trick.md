@@ -5,6 +5,7 @@ date: 2026-04-06 22:34:00
 author: Ilyass Tabiai
 categories: [Hermes Agent, AI, local LLM]
 tags: [hermes agent, automation, cron, llm, local inference optimization, ai]
+teaser: "/assets/posts/hermes-avatar.png"
 excerpt: "A guerilla technique for running frequent cron-like tasks with Hermes Agent while minimizing LLM token usage on local hardware. Uses standard Linux cron for polling and injects one-time Hermes jobs only when there's actual work to report."
 ---
 
