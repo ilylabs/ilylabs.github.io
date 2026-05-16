@@ -15,36 +15,36 @@ Planar validation of speckle pattern optimization for large-scale 3D streamlined
 
 In aerospace structures, we still face a major measurement gap: we do not have an accurate way to observe the real deformation behavior of large structures such as wings or fuselage sections under realistic loading, especially in-flight. Instrumentation gives us local information, and simulations are essential, but we still need full-field experimental measurements to validate what the structure is truly doing.
 
-This is exactly where DIC should help. The challenge is that large structures force camera placements at non-ideal angles, and this is where standard speckle patterns start to fail.
-
-## The Problem with DIC on Large Structures
-
-Digital Image Correlation (DIC) is a standard tool for measuring deformations in experimental mechanics. It works by tracking a random speckle pattern on a surface between images. Using the changes in that pattern, we can measure displacements, and compute strains from them, with sub-pixel accuracy. But when we measure large structures like aircraft wings or fuselages, we often cannot position the camera perpendicular to the surface.
-
-This creates a real problem: **perspective distortions cause speckles to appear non-uniform in the camera view**, degrading correlation quality and increasing measurement uncertainty.
+This is exactly where Digital Image Correlation (DIC) should help. The challenge is that large structures force camera placements at non-ideal angles, and this is where standard speckle patterns start to fail.
 
 <div style="text-align: center;">
   <img src="/assets/img/anamorphic-dic/fig003.png" width="60%" alt="Figure 2: Comparison between speckle patterns with and without perspective effects. Left: circular speckles viewed perpendicular to camera. Right: same speckles viewed from tilted angle: they appear deformed and non-uniform in size." />
   <p><em>Figure 2: Perspective distortion effect on speckle patterns. Left: circular speckles viewed perpendicular to camera. Right: same speckles viewed from tilted angle: they appear deformed and non-uniform in size.</em></p>
 </div>
 
+## The Problem with DIC on Large Structures
+
+Digital Image Correlation (DIC) is a standard tool for measuring deformations in experimental mechanics. It works by tracking a random speckle pattern on a surface between images. Using the changes in that pattern, we can measure displacements, and compute strains from them, with sub-pixel accuracy. But when we measure large structures like aircraft wings or fuselages, we often cannot position the camera perpendicular to the surface.
+
+<div style="text-align: center;">
+  <img src="/assets/img/anamorphic-dic/fig004.png" width="60%" alt="Figure 3: Anamorphic transformation of a circular speckle projected onto a developable surface. Shows how different points on the surface project to the same location on the camera sensor due to the anamorphic transformation." />
+  <p><em>Figure 3: Anamorphic transformation concept. Shows how a circular speckle is geometrically transformed so it appears uniform from the camera's viewpoint, even when projected onto a tilted surface.</em></p>
+</div>
+
+This creates a real problem: **perspective distortions cause speckles to appear non-uniform in the camera view**, degrading correlation quality and increasing measurement uncertainty.
+
 ### The Anamorphic Solution
 
 Our key insight is simple: **if we know the camera geometry, we can pre-distort the speckle pattern so it appears uniform to the camera**.
-
-Think of it like anamorphic art: the image looks stretched when viewed from certain angles, but appears normal from a specific viewpoint. Here, the anamorphic speckle pattern is designed to compensate for camera perspective, so the DIC algorithm sees uniform speckles.
-
-We can illustrate this with "Cinq Cercles Concentriques" by Felice Varini: from most positions, the painted geometry looks fragmented, but from the designed viewpoint, it reconstructs into clean concentric circles. Our approach follows the same logic for measurement rather than visual effect: we intentionally distort the pattern on the structure so the camera recovers the right local speckle geometry.
 
 <div style="text-align: center;">
   <img src="/assets/posts/cinq_cercles_concentriques.png" width="60%" alt="Cinq Cercles Concentriques artwork by Felice Varini" />
   <p><em>"Cinq Cercles Concentriques" by Felice Varini, Paris 2007.</em></p>
 </div>
 
-<div style="text-align: center;">
-  <img src="/assets/img/anamorphic-dic/fig004.png" width="80%" alt="Figure 3: Anamorphic transformation of a circular speckle projected onto a developable surface. Shows how different points on the surface project to the same location on the camera sensor due to the anamorphic transformation." />
-  <p><em>Figure 3: Anamorphic transformation concept. Shows how a circular speckle is geometrically transformed so it appears uniform from the camera's viewpoint, even when projected onto a tilted surface.</em></p>
-</div>
+Think of it like anamorphic art: the image looks stretched when viewed from certain angles, but appears normal from a specific viewpoint. Here, the anamorphic speckle pattern is designed to compensate for camera perspective, so the DIC algorithm sees uniform speckles.
+
+We can illustrate this with "Cinq Cercles Concentriques" by Felice Varini: from most positions, the painted geometry looks fragmented, but from the designed viewpoint, it reconstructs into clean concentric circles. Our approach follows the same logic for measurement rather than visual effect: we intentionally distort the pattern on the structure so the camera recovers the right local speckle geometry.
 
 {: style="text-align: justify;"}
 
@@ -53,18 +53,13 @@ We can illustrate this with "Cinq Cercles Concentriques" by Felice Varini: from 
 1. **Geometric model**: Known camera position and surface geometry define the perspective transformation
 2. **Pattern generation**: A reference speckle pattern is locally transformed according to this transformation
 3. **Physical application**: We print the anamorphic pattern and apply it to the test surface
-4. **Standard DIC**: No changes to the correlation algorithm, it sees uniform speckles
+4. **Standard DIC**: That's the neat part! No changes to the correlation algorithm, it sees uniform speckles
 
 {: style="text-align: justify;"}
 
 ### Experimental Validation
 
-We tested this on a planar target with controlled tilt angles up to 89.7°: extreme grazing angles representative of real aircraft testing scenarios.
-
-<div style="text-align: center;">
-  <img src="/assets/img/anamorphic-dic/fig005.png" width="70%" alt="Figure 4: Experimental setup scheme. Two planes tilted at angle θ, with cameras at fixed distance. Regular speckle pattern (SP-Ref) on reference plane, regular (SP-1) and anamorphic (SP-2) patterns on tilted plane." />
-  <p><em>Figure 4: Experimental setup diagram. Reference plane with regular speckle (SP-Ref) at 2.5m from cameras. Tilted plane with both regular (SP-1) and anamorphic (SP-2) patterns for comparison.</em></p>
-</div>
+We tested this on a planar target with controlled tilt angles up to 89.7°: extreme grazing angles representative of real aircraft testing scenarios. This scenario aims at preparing real in-flight experiments where a camera is fixed on the fuselage close to the wing and is filming the wing throughout the flight.
 
 <div style="text-align: center;">
   <img src="/assets/img/anamorphic-dic/fig006.png" width="80%" alt="Figure 5: Physical experimental setup. Wooden boards on adjustable tripods with printed speckle patterns, stereo cameras, and LED lighting panel." />
@@ -73,7 +68,7 @@ We tested this on a planar target with controlled tilt angles up to 89.7°: extr
 
 ### Key Results
 
-In simple terms, when viewing conditions become difficult, our anamorphic pattern keeps the measurement stable. Across the full angle range, we get lower matching uncertainty and cleaner 3D reconstruction than with a regular pattern.
+In simple terms, when viewing conditions become difficult, our anamorphic pattern keeps the measurement stable. Across the full angle range, we get lower matching uncertainty and cleaner 3D reconstruction than with a regular pattern. This is exactly what we wanted and proves that applying anamorphic transformations actually improves DIC accuracy, or most specifically recovers accuracy.
 
 <div style="text-align: center;">
   <img src="/assets/img/anamorphic-dic/fig009.png" width="80%" alt="Figure 8: Evolution of matching uncertainty (σ_pixel) across all tilt angles. Blue contours: regular pattern SP-1. Red contours: anamorphic pattern SP-2. Graph below shows mean uncertainty: SP-2 consistently lower than SP-1." />
@@ -106,7 +101,7 @@ Our anamorphic approach provides a practical path for both static and in-flight 
 
 ### Next Steps
 
-This study validates the approach on planar surfaces, and we are now extending it to complex curved surfaces, including wings and fuselage sections, and then toward in-flight deployment scenarios. The transformation framework is generic and can be applied offline during pattern generation.
+This study validates the approach on planar surfaces, and we are now extending it to complex curved surfaces, including wings and fuselage sections, and then toward in-flight deployment scenarios. The transformation framework is generic and can be applied offline during pattern generation. We will soon be sharing results fo in-flight tests where this technique was used to obtain displacement and strains on a wing during a test!
 
 {: style="text-align: justify;"}
 
