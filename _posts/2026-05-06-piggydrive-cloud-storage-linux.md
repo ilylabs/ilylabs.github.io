@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Piggydrive: Access Cloud Storage on Linux When OAuth Blocks You"
-category: [posts]
+categories: [Software, Linux]
 tags: piggydrive cloud-storage linux mac bridge oauth automation cli tools
 date: 2026-05-06 10:00:00
 excerpt: "University and enterprise cloud storage often blocks third-party clients at the authentication layer. Piggydrive sidesteps the problem: use a trusted machine as a bridge, access files over a private network. The result? Full cloud access from Linux without fighting OAuth restrictions."

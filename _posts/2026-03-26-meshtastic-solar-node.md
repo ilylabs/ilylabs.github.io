@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Building a solar-powered Meshtastic node that survived winter outdoors"
-category: [posts]
+categories: [Electronics, IoT]
 tags: meshtastic lora iot maker electronics 3dprinting
 date: 2026-03-26 09:00:00
 excerpt: "A hands-on build log of a solar-powered outdoor Meshtastic LoRa node using a Seeed XIAO nRF52840 + Wio-SX1262, three 18650 cells, a recycled WiFi camera solar panel, and a 3D-printed hermetic enclosure. It went out in winter. It came back alive."

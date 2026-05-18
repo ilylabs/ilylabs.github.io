@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Run a python app (or script) as a systemd service"
-category: [posts]
+categories: [Software, Linux]
 tags:  python ubuntu telegram
 date: 2020-05-08 09:42:00
 excerpt: "Learn how to run a Python script as a `systemd` service on a Raspberry Pi, Ubuntu, or Debian. This ensures your script starts automatically on boot and restarts automatically if it crashes — no manual intervention needed."

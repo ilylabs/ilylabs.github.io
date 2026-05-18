@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Distill: Privacy-first transcription tool that runs entirely on your laptop"
-category: [posts]
+categories: [AI Tools, Productivity]
 tags: distill transcription ai privacy local-first whisper diarization cli
 date: 2026-04-09 10:00:00
 excerpt: "Every week, hours of valuable conversations vanish into black holes of cloud services. Distill breaks the tradeoff between convenience and privacy by running entirely locally — transcription, speaker diarization, and protocol generation, all on your machine."
