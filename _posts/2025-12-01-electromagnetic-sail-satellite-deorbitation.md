@@ -44,5 +44,11 @@ This work presents a deployable composite mechanism that stabilizes and deploys 
 
 {: style="text-align: justify;"}
 
-The results demonstrate that deployable composite mechanisms enable practical electrodynamic tether systems for small satellite deorbitation — and that **polymer composite design and manufacturing expertise** is essential for meeting the mass and reliability constraints of space sustainability infrastructure.
+The results demonstrate that deployable composite mechanisms enable practical electrodynamic tether systems for small satellite deorbitation, and that **polymer composite design and manufacturing expertise** is essential for meeting the mass and reliability constraints of space sustainability infrastructure.
 {: style="text-align: justify;"}
+
+## About This Work
+
+This research was conducted by **Dorian Stefan Dumitru**, **Ilyass Tabiai**, and **David Melancon**. It represents a collaborative effort at the intersection of composite materials engineering, mechanical design, and space sustainability.
+
+This work was made possible with the support of the **Canadian Space Agency (CSA)** and the **Consortium for Research and Innovation in Aerospace in Québec (CREPEC)**, which provided financial support for this research initiative.
