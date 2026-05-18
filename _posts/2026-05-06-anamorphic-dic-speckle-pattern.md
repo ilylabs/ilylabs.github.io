@@ -5,6 +5,7 @@ date: 2026-05-06
 author: "Stéphane W. Hu, Guilhem Marchal, Yvan Dilem, Denis Walch, Ilyass Tabiai"
 categories: [Experimental Mechanics, Aerospace]
 tags: [DIC, Digital Image Correlation, Speckle Pattern, Anamorphic Transformation, Aerospace Testing, Optics]
+teaser: "/assets/img/anamorphic-dic/fig003.png"
 excerpt: "Measuring large aircraft structures with Digital Image Correlation from tilted camera angles creates perspective distortions that degrade measurement quality. New research shows how anamorphic transformation of speckle patterns can pre-compensate for these effects, improving measurement precision."
 ---
 
