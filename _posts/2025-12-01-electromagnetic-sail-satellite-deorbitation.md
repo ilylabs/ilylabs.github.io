@@ -14,9 +14,9 @@ Published in [2025](https://doi.org/10.82417/hxey-n154).
 
 ## The Space Debris Problem
 
-More than 27,000 pieces of orbital debris are currently tracked by space agencies — and millions more are too small to track but large enough to destroy a satellite on impact. As the number of launches increases with commercial space activity, the risk of cascading collision events (**Kessler syndrome**) grows. One of the most tractable solutions for **small satellite operators** is to design satellites that deorbit themselves at end-of-life, rather than remaining in orbit indefinitely.
+More than 27,000 pieces of orbital debris are currently tracked by space agencies — and millions more are too small to track but large enough to destroy a satellite on impact. As the number of launches increases with commercial space activity, the risk of cascading collision events (**[Kessler syndrome](https://en.wikipedia.org/wiki/Kessler_syndrome)**) grows. One of the most tractable solutions for **small satellite operators** is to design satellites that deorbit themselves at end-of-life, rather than remaining in orbit indefinitely.
 
-For small satellites in low Earth orbit (LEO), **electrodynamic tethers** offer a particularly attractive approach among passive deorbitation mechanisms. A long, thin conductive tether generates electromagnetic drag when current flows through it in Earth's magnetic field — requiring no propellant and minimal mass.
+For small satellites in low Earth orbit, **electrodynamic tethers** offer a particularly attractive approach among passive deorbitation mechanisms. A long, thin conductive tether generates electromagnetic drag when current flows through it in Earth's magnetic field — requiring no propellant and minimal mass.
 
 <div style="text-align: center;">
   <img src="/assets/posts/esail/kepler_syndrome.png" width="70%" alt="Visualization of Kessler syndrome: cascading collision events creating exponential debris growth in orbit." />
