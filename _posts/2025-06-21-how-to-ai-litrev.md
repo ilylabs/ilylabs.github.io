@@ -14,7 +14,11 @@ I've just published a new video demonstrating my personal workflow for conductin
 
 The video provides a direct and practical approach, showcasing how to integrate various digital tools to streamline the initial stages of your literature review.
 
-### What the Video Covers:
+## Why This Workflow Works
+
+The goal is not to replace critical reading. It is to make the first pass faster, more systematic, and easier to repeat when you are entering a new topic. By combining search, mapping, summarization, and reference management, the workflow helps you move from a broad question to a focused reading list much faster.
+
+## What the Video Covers
 
 * **Strategic Literature Search:** Learn how to initiate your search effectively using platforms like Google and Google Scholar.
 * **Visualizing Research Connections:** Discover how **Connected Papers** can help you map out the relationships between academic publications, making it easier to identify key works.
@@ -22,7 +26,11 @@ The video provides a direct and practical approach, showcasing how to integrate 
 * **Deep Research with Google Gemini:** Explore **Google Gemini's deep research feature**, which utilizes web-Browse capabilities to generate comprehensive reports and audio summaries on complex topics.
 * **Efficient Reference Management:** A brief look at how I use **Zotero** to organize all the interesting publications I find throughout the process.
 
-This workflow is aimed at significantly reducing the time typically spent on understanding a new subject and identifying core publications, ultimately boosting the efficiency of your research process.
+## When to Use It
+
+This workflow is aimed at significantly reducing the time typically spent on understanding a new subject and identifying core publications, ultimately boosting the efficiency of your research process. It is especially useful when you need a structured starting point before deep reading, note-taking, or writing.
+
+## Watch the Full Guide
 
 You can watch the full video [here](https://www.youtube.com/watch?v=PR0nmKI3M-8).
 
