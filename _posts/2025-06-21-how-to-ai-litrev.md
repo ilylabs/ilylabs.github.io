@@ -14,6 +14,8 @@ I've just published a new video demonstrating my personal workflow for conductin
 
 The video provides a direct and practical approach, showcasing how to integrate various digital tools to streamline the initial stages of your literature review.
 
+If you want a local-first companion workflow for turning meetings and interviews into searchable notes, see [Distill](/posts/2026-04-09-distill-local-transcription/).
+
 ## Why This Workflow Works
 
 The goal is not to replace critical reading. It is to make the first pass faster, more systematic, and easier to repeat when you are entering a new topic. By combining search, mapping, summarization, and reference management, the workflow helps you move from a broad question to a focused reading list much faster.

@@ -15,6 +15,8 @@ excerpt: "Conférence du Professeur Ilyass Tabiai à l'Institut d'Études Avanc�
 Plongez dans le monde fascinant des plastiques, des polymères et de leur rôle essentiel dans l'industrie moderne. Dans cette conférence captivante, le Professeur Ilyass Tabiai (ÉTS Montréal) explique la science derrière les polymères, les défis et les innovations liés à l'impression 3D, et comment la fabrication additive est en train de transformer les secteurs industriels.
 {: style="text-align: justify;"}
 
+Pour aller plus loin sur les effets de procédé et de microstructure en impression 3D, voyez aussi [Understanding 3D Print Strength: Notches vs. Bonding](/posts/2025-06-03-understanding-fdm-strength/) et [Extrusion Rate Effects in 3D Printing](/posts/2026-05-13-extrusion-rate-effects-3d-printing/).
+
 ## Pourquoi cette conférence compte
 
 Cette conférence met en contexte des sujets centraux pour la fabrication additive moderne: science des polymères, comportement des matériaux en impression 3D, et limites actuelles des procédés FFF et FGF. Ces thèmes sont directement liés aux défis rencontrés lorsqu'on cherche à produire des pièces plus robustes, plus fiables et mieux adaptées aux applications industrielles.
