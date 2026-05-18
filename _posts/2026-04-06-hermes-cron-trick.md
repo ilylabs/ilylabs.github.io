@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "No-LLM Silent Hermes Cron Trick"
+title: "Running Hermes Cron with Minimal LLM Usage"
 date: 2026-04-06 22:34:00
 author: Ilyass Tabiai
 categories: [Hermes Agent, AI, local LLM]
 tags: [hermes agent, automation, cron, llm, local inference optimization, ai]
 teaser: "/assets/posts/hermes-avatar.png"
-excerpt: "A guerilla technique for running frequent cron-like tasks with Hermes Agent while minimizing LLM token usage on local hardware. Uses standard Linux cron for polling and injects one-time Hermes jobs only when there's actual work to report."
+excerpt: "A practical pattern for running frequent cron-like tasks with Hermes Agent while minimizing LLM token usage on local hardware. Standard Linux cron handles polling, and Hermes is injected only when there is actual work to report."
 ---
 
 With autonomous agents like Hermes, one of the main uses I have for them is cron-like tasks, such as "Check for new meeting recordings every 20 minutes."

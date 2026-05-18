@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Accelerate Your Literature Reviews with AI: A New Video Guide"
+title: "AI-Assisted Literature Reviews: A Practical Video Workflow"
 date: 2025-06-21
 author: "Ilyass Tabiai"
 categories: [research tools, ai]
 tags: [research tools, ai]
-excerpt: "A practical video guide to conducting efficient literature reviews using AI-driven tools. Learn the personal workflow used to quickly grasp the state-of-the-art in any field — ideal for students and researchers entering a new research area."
+excerpt: "A practical video workflow for conducting efficient literature reviews with AI-driven tools. Learn how to quickly grasp the state of the art in a new field using search, Connected Papers, NotebookLM, Gemini, and Zotero."
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PR0nmKI3M-8?si=sLsDHd12zU_1yVwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
