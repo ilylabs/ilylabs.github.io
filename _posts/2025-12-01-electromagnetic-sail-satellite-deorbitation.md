@@ -49,6 +49,6 @@ The results demonstrate that deployable composite mechanisms enable practical el
 
 ## About This Work
 
-This research was conducted by **Dorian Stefan Dumitru**, **Ilyass Tabiai**, and **David Melancon**. It represents a collaborative effort at the intersection of composite materials engineering, mechanical design, and space sustainability.
+This research was conducted by **Dorian Stefan Dumitru**, **Ilyass Tabiai**, and **[David Mélançon](https://www.polymtl.ca/expertises/en/melancon-david)**. It represents a collaborative effort at the intersection of composite materials engineering, mechanical design, and space sustainability.
 
-This work was made possible with the support of the **Canadian Space Agency (CSA)** and the **Consortium for Research and Innovation in Aerospace in Québec (CREPEC)**, which provided financial support for this research initiative.
+This work was made possible with the support of the **[Canadian Space Agency (CSA)](https://www.asc-csa.gc.ca/eng/)** and the **[Consortium for Research and Innovation in Aerospace in Québec (CREPEC)](https://crepec.com/en/home/)**, which provided financial support for this research initiative.
