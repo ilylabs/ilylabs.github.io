@@ -49,11 +49,14 @@ html {
   font-size: 18px;
 }
 
-/* Home page Recent Posts — each tile lays out as [text on LEFT][teaser on RIGHT].
-   Scoped to the `home-recent-posts` wrapper added by the local _layouts/home.html
-   override, so tag/category archives + 'You may also enjoy' tiles keep the stock
-   look. On narrow screens the teaser stacks above the text. */
-.home-recent-posts {
+/* Post tiles with teaser on the RIGHT — applied to BOTH the home page
+   Recent Posts (`.home-recent-posts` wrapper, added by _layouts/home.html
+   override) AND the /posts/ archive (`.posts-list` wrapper, added by
+   posts/index.md). Tag/category archives + 'You may also enjoy' tiles
+   keep the stock look. On narrow screens the teaser stacks above the
+   text. */
+.home-recent-posts,
+.posts-list {
   .archive__item {
     display: flex;
     align-items: flex-start;
