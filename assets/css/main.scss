@@ -53,12 +53,13 @@ html {
    Recent Posts (`.home-recent-posts` wrapper, added by _layouts/home.html
    override) AND the /posts/ archive (`.posts-list` wrapper, added by
    posts/index.md). Tag/category archives + 'You may also enjoy' tiles
-   keep the stock look. On narrow screens the teaser stacks above the
-   text. */
+   keep the stock look. Teaser stays on the right at every viewport
+   (just smaller on phones) — no column-stacking which previously made
+   the images render full-width on mobile. */
 .home-recent-posts,
 .posts-list {
   .archive__item {
-    display: flex;
+    display: flex !important; /* beats any future MM override */
     align-items: flex-start;
     gap: 1.5rem;
     margin-bottom: 1.5em;
@@ -80,12 +81,11 @@ html {
   }
   @media (max-width: 600px) {
     .archive__item {
-      flex-direction: column-reverse;
+      gap: 0.75rem;
     }
     .archive__item-teaser {
-      flex: 0 0 auto;
-      max-width: 100%;
-      width: 100%;
+      flex: 0 0 30%;
+      max-width: 110px;
     }
   }
 }
