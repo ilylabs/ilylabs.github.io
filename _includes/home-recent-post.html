@@ -12,10 +12,25 @@
 {%- assign post = include.post -%}
 {%- assign locale = include.locale | default: site.locale -%}
 
+{%- comment -%}
+  Reset `teaser` per-iteration. Liquid `assign` persists ACROSS for-loop
+  iterations when a branch fails to reassign — without this reset, a post
+  with no teaser would inherit the previous post's value (which made
+  Hermes Cron render the anamorphic-DIC image).
+{%- endcomment -%}
+{%- assign teaser = nil -%}
+
+{%- comment -%}
+  Pick chain mirrors the local _includes/archive-single.html (commit
+  dde4176): post.header.teaser → top-level post.teaser → first inline
+  <img src="…"> extracted from the body → site.teaser (the squirrel).
+  Top-level `teaser:` is the convention used in this repo's _posts.
+{%- endcomment -%}
 {%- if post.header.teaser -%}
   {%- capture teaser -%}{{ post.header.teaser }}{%- endcapture -%}
+{%- elsif post.teaser -%}
+  {%- capture teaser -%}{{ post.teaser }}{%- endcapture -%}
 {%- else -%}
-  {%- comment -%} Extract the first <img src="…"> in the rendered body {%- endcomment -%}
   {%- assign _parts = post.content | split: '<img' -%}
   {%- if _parts.size > 1 -%}
     {%- assign _tail = _parts[1] | split: 'src="' -%}
