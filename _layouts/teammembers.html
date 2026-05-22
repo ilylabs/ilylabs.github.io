@@ -4,8 +4,15 @@ layout: single
 
 {{ content }}
 {% assign groups = site.teammembers | group_by: "category" | sort: "name" %}
+{%- comment -%}
+  Categories listed here are hidden from the Teams page render.
+  Their member docs in _teammembers/ stay and their per-person pages
+  still resolve — just not listed in the /team/ sections.
+{%- endcomment -%}
+{% assign exclude_categories = "Professor,Student" | split: "," %}
 <br />
 {% for group in groups %}
+  {%- unless exclude_categories contains group.name -%}
     <h2 id="{{group.name | slugify}}">{{ group.name | remove: '["' | remove: '"]'  }}</h2>
 
   {%- for post in group.items -%}
@@ -14,5 +21,6 @@ layout: single
     {%- endunless -%}
   {%- endfor -%}
   <hr>
+  {%- endunless -%}
 {% endfor %}
 
