@@ -14,6 +14,10 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
+<!-- FontAwesome (sidebar / social icons). MM theme references `fab fa-fw fa-…`
+     classes; without this CSS those icons render blank. -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" crossorigin="anonymous">
+
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}

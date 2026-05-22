@@ -1,0 +1,54 @@
+{%- comment -%}
+  Home-page Recent-Posts tile — overrides the stock `archive-single.html`
+  list rendering for this one surface. Adds:
+  • teaser chain: post.header.teaser → first inline <img src="…"> in the
+    post body → site.teaser fallback (set in _config.yml).
+  • a `.archive__item-body` wrapper so the layout CSS in main.scss can
+    flex the body LEFT and the teaser RIGHT inside `.home-recent-posts`.
+  Only invoked from the local `_layouts/home.html` override; other archive
+  pages keep the stock `archive-single.html` look.
+{%- endcomment -%}
+
+{%- assign post = include.post -%}
+{%- assign locale = include.locale | default: site.locale -%}
+
+{%- if post.header.teaser -%}
+  {%- capture teaser -%}{{ post.header.teaser }}{%- endcapture -%}
+{%- else -%}
+  {%- comment -%} Extract the first <img src="…"> in the rendered body {%- endcomment -%}
+  {%- assign _parts = post.content | split: '<img' -%}
+  {%- if _parts.size > 1 -%}
+    {%- assign _tail = _parts[1] | split: 'src="' -%}
+    {%- if _tail.size > 1 -%}
+      {%- assign teaser = _tail[1] | split: '"' | first -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- unless teaser -%}{%- assign teaser = site.teaser -%}{%- endunless -%}
+{%- endif -%}
+
+{%- if post.id -%}
+  {%- assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" -%}
+{%- else -%}
+  {%- assign title = post.title -%}
+{%- endif -%}
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+    <div class="archive__item-body">
+      <h2 class="archive__item-title no_toc p-name" itemprop="headline">
+        {%- if post.link -%}
+          <a href="{{ post.link }}">{{ title }}</a> <a class="u-url" href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {%- else -%}
+          <a class="u-url" href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+        {%- endif -%}
+      </h2>
+      {% include page__meta.html locale=locale type="list" %}
+      {% if post.excerpt %}<p class="archive__item-excerpt p-summary" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    </div>
+    {% if teaser %}
+      <div class="archive__item-teaser">
+        <a href="{{ post.url | relative_url }}"><img src="{{ teaser | relative_url }}" alt=""></a>
+      </div>
+    {% endif %}
+  </article>
+</div>

@@ -1,0 +1,27 @@
+---
+layout: archive
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale -%}
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{%- comment -%}
+  Local override of MM's home layout: render Recent Posts with the
+  custom `home-recent-post.html` include, which adds first-inline-image
+  teaser extraction and lays the teaser on the RIGHT of each tile.
+  Scoped via the `home-recent-posts` wrapper class so tag/category/
+  related-posts pages keep the stock look.
+{%- endcomment -%}
+<div class="entries-list home-recent-posts">
+  {% for post in posts %}
+    {% include home-recent-post.html post=post locale=locale %}
+  {% endfor %}
+</div>

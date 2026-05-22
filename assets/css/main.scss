@@ -48,3 +48,41 @@ html {
   flex-shrink: 0; /* prevent squeeze in flex layouts */
   font-size: 18px;
 }
+
+/* Home page Recent Posts — each tile lays out as [text on LEFT][teaser on RIGHT].
+   Scoped to the `home-recent-posts` wrapper added by the local _layouts/home.html
+   override, so tag/category archives + 'You may also enjoy' tiles keep the stock
+   look. On narrow screens the teaser stacks above the text. */
+.home-recent-posts {
+  .archive__item {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    margin-bottom: 1.5em;
+  }
+  .archive__item-body {
+    flex: 1 1 auto;
+    min-width: 0; /* lets long titles wrap inside the flex item */
+  }
+  .archive__item-teaser {
+    flex: 0 0 30%;
+    max-width: 240px;
+    margin: 0;
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 4px;
+    }
+  }
+  @media (max-width: 600px) {
+    .archive__item {
+      flex-direction: column-reverse;
+    }
+    .archive__item-teaser {
+      flex: 0 0 auto;
+      max-width: 100%;
+      width: 100%;
+    }
+  }
+}
