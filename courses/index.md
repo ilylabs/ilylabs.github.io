@@ -51,13 +51,6 @@ Le travail autour de ce cours/atelier en est encore à ces début et est présen
 3. **La Recherche scientifique aujourd'hui**  
 (basé sur une série de vidéos disponibles sur Youtube)
 
-### Apep
-
-Le cours se termine par une histoire sous format d'un jeu-texte qui permet d'explorer les concepts précedemment présentés à travers une histoire captivante écrite par [Hugo Labrande](https://twitter.com/hlabrande). Le jeu est disponible est peut être exploré ici (en Anglais): 
-
-* [Apep](/assets/apep/index.html){:target="\_blank"}  
-(prévoir 6 à 7 sessions de 15 à 20 minutes chacune avec possibilité de sauvegarde)
-
 ## Python pour les étudiants gradués
 
 ### En construction...
