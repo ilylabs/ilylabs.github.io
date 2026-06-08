@@ -113,6 +113,6 @@ The GPU revolution makes this even more relevant. We have hardware that can run 
 
 ## What's Next
 
-I'm currently building an open-source GPU-accelerated WoS library specifically for Melt Extrusion Additive Manufacturing of polymers. The goal is to make this method accessible to anyone who needs to solve PDEs, no PhD in numerical analysis required.
+I'm currently building an open-source GPU-accelerated WoS library specifically for Melt Extrusion Additive Manufacturing of polymers (specifically FFF/FDM and FGF). The goal is to make this method accessible to anyone who needs to solve PDEs, no PhD in numerical analysis required.
 
 Stay tuned. The code will be on GitHub soon, along with tutorials showing how to solve real problems with random walks.
