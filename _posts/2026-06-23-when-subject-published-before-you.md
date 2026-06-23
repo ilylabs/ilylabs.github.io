@@ -8,6 +8,8 @@ tags: [academia, publishing, research, timing]
 excerpt: "That moment when someone else publishes on your topic first — and why it's actually not the disaster it feels like."
 ---
 
+![Materials testing lab setup with MTS Insight machine and DIC cameras during calibration — the kind of work that takes months before publication](/assets/publishing-timing/lab-setup.jpg)
+
 ## The Panic
 
 You've been working on something for months. Maybe years. It's your thing. You know the literature, you've got the data, you've even got the title drafted in your head.
