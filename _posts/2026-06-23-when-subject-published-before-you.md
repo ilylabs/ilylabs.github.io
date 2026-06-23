@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "When Your Subject Gets Published Before You"
-date: YYYY-MM-DD
+date: 2026-06-23
 author: "Ilyass Tabiai"
 categories: [Academia, Research, Writing]
 tags: [academia, publishing, research, timing]
