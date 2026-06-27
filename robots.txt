@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ilylabs.github.io/sitemap.xml
+Sitemap: https://ilylabs.com/sitemap.xml

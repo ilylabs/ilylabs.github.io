@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Welcome!"
 name                     : "Ilyass Tabiai"
 description              : "Website of my research team at École de Technologie Supérieur in Montréal, Canada."
-url                      : "https://ilylabs.github.io"
+url                      : "https://ilylabs.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" (empty for a root site so canonicals/sitemap are clean)
 repository               : "ilylabs/ilylabs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/projects/PolyProcs-clogged-squirrel.gif" # path of fallback teaser image
