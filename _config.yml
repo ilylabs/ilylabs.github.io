@@ -22,7 +22,7 @@ subtitle                 : "Welcome!"
 name                     : "Ilyass Tabiai"
 description              : "Website of my research team at École de Technologie Supérieur in Montréal, Canada."
 url                      : "https://ilylabs.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog" (empty for a root site so canonicals/sitemap are clean)
 repository               : "ilylabs/ilylabs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/projects/PolyProcs-clogged-squirrel.gif" # path of fallback teaser image
 logo                     : "/assets/images/150x150.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -106,7 +106,7 @@ author:
       url: "https://twitter.com/ilytab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ilysast"
+      url: "https://github.com/ilyasst"
     - label: "Scholar"
       icon: "fas fa-university"
       url: "https://scholar.google.ca/citations?user=8mezXYIAAAAJ&hl=en"
