@@ -6,6 +6,9 @@ author: "Ilyass Tabiai"
 categories: [Academia, Research]
 tags: [academia, publishing, peer review, data, research, early career]
 excerpt: "I rebuilt every journal submission of my career from my email, not my CV, and measured what peer review actually costs."
+header:
+  teaser: /assets/publication-record/submission_flow_sankey_granular.png
+  og_image: /assets/publication-record/submission_flow_sankey_granular.png
 ---
 
 A CV reports outcomes: a title, a journal, a year. It does not record the rejections, the revisions, the months in review, or the volume of correspondence behind each line. That record exists, but it lives in the email inbox.
