@@ -6,6 +6,7 @@ author: "Ilyass Tabiai"
 categories: [Academia, Research, Writing]
 tags: [academia, publishing, research, timing]
 excerpt: "That moment when someone else publishes on your topic first — and why it's actually not the disaster it feels like."
+teaser: /assets/publishing-timing/lab-setup.jpg
 ---
 
 ![Materials testing lab setup with MTS Insight machine and DIC cameras during calibration — the kind of work that takes months before publication](/assets/publishing-timing/lab-setup.jpg)

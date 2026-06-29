@@ -7,6 +7,7 @@ categories: [Computational Methods, Monte Carlo]
 tags: [Monte Carlo, PDE, Numerical Methods, Walk-on-Spheres, GPU Computing]
 excerpt: "What if you could solve partial differential equations by literally taking random walks? The Walk-on-Spheres Monte Carlo method does exactly that — and it's faster, more elegant, and scales to GPUs in ways finite element methods never could."
 draft: false
+teaser: /assets/wos-monte-carlo/fem_vs_wos_teaser.png
 ---
 
 ## The Problem with Traditional PDE Solvers
